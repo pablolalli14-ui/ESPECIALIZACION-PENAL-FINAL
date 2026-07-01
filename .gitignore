@@ -1,0 +1,13 @@
+# PDFs fuente no se sincronizan (solo derivados: .txt + JSON + render)
+*.pdf
+
+# OCR language data
+tessdata/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store

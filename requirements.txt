@@ -1,0 +1,5 @@
+# Python deps for the PDF pipeline (install with: py -m pip install -r requirements.txt)
+pypdf>=6.0        # extracción de texto de PDFs con texto
+pymupdf>=1.27     # rasterizado de páginas para OCR (sin Poppler/Ghostscript)
+pytesseract>=0.3  # wrapper de Tesseract para OCR
+pillow>=10.0      # manejo de imágenes para OCR
