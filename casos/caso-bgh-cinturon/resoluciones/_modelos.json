@@ -1,0 +1,16 @@
+{
+  "caso": "caso-bgh-cinturon",
+  "modelos": [
+    {
+      "archivo": "bgh-lederriemenfall.txt",
+      "autor_alumno": "s/d (material de cátedra sobre el fallo BGH)",
+      "linea_doctrinal": "n/a (caso jurisprudencial de estudio)",
+      "autores_citados": [],
+      "tipo_penal": "Robo con resultado muerte; discusión dolo eventual / culpa consciente",
+      "institutos": ["dolo eventual", "culpa consciente", "teoría del consentimiento / aprobación", "coautoría", "desviación del plan común"],
+      "tesis": "Leading case del BGH (Lederriemenfall): los autores descartaron el cinturón por temor a matar, pero lo usaron al fracasar el saco de arena; se discute si obraron con dolo eventual (conformándose con la posible muerte) o culpa consciente.",
+      "resultado": "s/d — el texto disponible está truncado (~2 KB).",
+      "advertencia_pautas": "Es jurisprudencia (prohibida como fuente en el trabajo). El texto se guardó truncado: re-extraer del docx original. Sirve para estudiar el concepto de dolo eventual."
+    }
+  ]
+}

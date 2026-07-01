@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "id": "caso-ld-terceros",
+    "numero": "s/n (legítima defensa de terceros)",
+    "titulo": "Emboscada con hierro para robar y el que incapacita al agresor",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": ["34 inc. 7 CP", "89 CP"],
+    "consigna": "¿Cómo se castigaría a B si hubiera incapacitado a A, quien ya había decidido golpear a G con un hierro y robarle?",
+    "tiene_modelo": true
+  },
+  "enunciado": "A está decidido a golpear con los puños al acaudalado empresario G cuando este acuda a la caja de ahorros a retirar su dinero. B, a quien A quiere convencer para su plan, rechaza el consejo de A de llevar un hierro e incapacitar a G golpeándolo en la cabeza. A, por la noche, tiende una emboscada a G con el hierro. Cuando G aparece, lo golpea varias veces en la cabeza; aunque el ataque le resulta indeseable, ejecuta los golpes sabiendo que podrían incapacitarlo, pues quiere incapacitarlo a toda costa. Mientras G yace gravemente herido en el suelo, A le roba el dinero de la cartera. G se recupera unos días después. Pregunta: ¿cómo se castigaría a B si hubiera incapacitado a A —quien ya había decidido golpear a G con el hierro y robarle— para impedir el ataque?",
+  "sujetos": [
+    { "nombre": "A", "rol": "activo", "notas": "Planea y ejecuta el ataque con un hierro a G para robarle; actúa con dolo (al menos eventual) de incapacitarlo." },
+    { "nombre": "G", "rol": "pasivo", "notas": "Empresario agredido y robado; se recupera de las heridas." },
+    { "nombre": "B", "rol": "tercero", "notas": "En la variante de la pregunta, incapacita a A para impedir la agresión a G." }
+  ],
+  "institutos_dogmaticos": [
+    "legítima defensa de terceros (art. 34 inc. 7 CP)",
+    "agresión ilegítima actual e inminente",
+    "necesidad racional del medio",
+    "lesiones (art. 89 CP)",
+    "antijuridicidad / causa de justificación",
+    "dolo eventual (en la conducta de A)"
+  ],
+  "problema_central": "En la variante planteada debe analizarse la conducta de B, que incapacita a A para impedir la agresión a G: si bien es típica (lesiones, art. 89 CP), se discute si está justificada por legítima defensa de terceros (art. 34 inc. 7 CP), al existir una agresión ilegítima actual e inminente de A contra G y ser la incapacitación un medio racionalmente necesario para repelerla.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": ["resoluciones/caggiano-caliri.txt"],
+  "notas": "Caso de otra tanda (no coincide con el Caso IV numerado). Enunciado transcripto/reconstruido del trabajo-modelo (Caggiano Caliri), que concluye que B obra justificado por legítima defensa de terceros."
+}

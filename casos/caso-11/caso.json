@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-11",
+    "numero": "XI",
+    "titulo": "Disparos contra el asiento del coche cuando la víctima ya se había ido",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": false
+  },
+  "enunciado": "Juan con ánimo de matar, dispara cinco tiros de escopeta del calibre 12 sobre el asiento del coche donde había visto al conductor -Miguel- anteriormente, pero éste ya se había ido, sin que Juan lo notara.",
+  "sujetos": [
+    { "nombre": "Juan", "rol": "activo", "notas": "Con ánimo de matar dispara cinco tiros sobre el asiento donde creía que estaba Miguel." },
+    { "nombre": "Miguel", "rol": "pasivo", "notas": "Conductor que ya se había ido; no sufre lesión." }
+  ],
+  "institutos_dogmaticos": [
+    "tentativa",
+    "tentativa inidónea",
+    "delito imposible por falta de objeto",
+    "tentativa idónea vs. inidónea (juicio ex ante)",
+    "dolo",
+    "peligrosidad de la acción"
+  ],
+  "problema_central": "El objeto sobre el que recae la acción (Miguel) no está presente, de modo que el resultado era imposible. Debe determinarse si hay tentativa punible y de qué clase: tentativa inidónea por falta de objeto, valorada ex ante desde la perspectiva del autor y de un observador situado en su lugar. Se discute la idoneidad/inidoneidad de la tentativa y su punibilidad.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "Caso de tentativa inidónea por falta de objeto (la víctima ya no estaba). Núcleo: juicio ex ante de peligrosidad y punibilidad de la tentativa inidónea."
+}

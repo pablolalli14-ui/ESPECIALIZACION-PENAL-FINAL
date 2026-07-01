@@ -1,0 +1,245 @@
+Universidad de Buenos Aires
+
+Facultad de Derecho
+
+Carrera de Especialización en Derecho Penal
+
+Alumno: Francisco Arias
+
+D.N.I: 35.978.871
+
+
+
+SUMARIO: I. Introducción. II. Planteo del problema. III. Solución dogmática. III.I. La conducta de A. ¿Un problema de adecuación o de imputación? III.II. Esencialidad de la desviación del curso causal. La previsibilidad el Plan del Autor como criterios para determinar la irrelevancia. III.III. La no revocación del ánimo homicida. III.IV. La conducta de C ¿Existe posición de garante respecto de B? IV. Conclusiones. V. Bibliografía.
+
+I. Introducción.
+
+El objeto del presente es analizar el caso VI, el cual se encuentra adjunto como anexo. A partir del hecho jurídicamente relevante allí plasmado, es que se determinará la responsabilidad penal que le podría corresponder a los sujetos denominados "A" y "C" en los sucesos que derivaron en el fallecimiento de "B".
+
+Realizando un análisis secuencial de los estamentos de la teoría del delito, determinaré cuál calificación le cabe al doble accionar –apuñalamiento y posterior lanzamiento al río de la víctima- desplegado por A y a la deliberada omisión de socorro en la que incurrió C al encontrar a la víctima, comprobar que estaba herida y amenazada por un peligro y, posteriormente, no desplegar conducta alguna tendiente al salvataje o al anoticiamiento de autoridades.
+
+II. Planteo del problema.
+
+Como ya ha sido mencionado, en el supuesto examinado se distinguen dos secuencias de conductas acaecidas en distintos momentos.
+
+Por un lado, se encuentra el accionar desplegado por A quien ejecuta dos cursos causales, en un primer momento apuñala a B y posteriormente –creyéndolo muerto- lo arroja al río.
+
+Por otro lado, se contempla la conducta del sujeto denominado C, quien en ese momento circulaba en bote, se acerca a B y al comprobar que se encontraba herido, simplemente se aleja. Finalmente la víctima fallece ahogada.
+
+Analizando la primer secuencia mencionada, es decir, la conducta de A se puede concluir que presenta elementos que permiten incluirlo en la constelación de supuestos caracterizados como "dolus generalis", que como bien expresa Roxin se trata de "sucesos en dos actos, en los que el sujeto cree haber producido el resultado con la primera parte de la acción, mientras que en realidad el resultado sólo tiene lugar mediante la segunda parte de la acción, que según la representación del sujeto sólo debería servir para encubrir el hecho ya consumado anteriormente".[1](#footnote1)
+
+Dicho de otra forma, acontece este tipo de supuesto cuando el autor encarrila su conducta dolosamente hacía un resultado típico e incorrectamente supone haberlo logrado. Actuando bajo ese error, lleva a cabo una segunda acción que no apuntaba a la realización del tipo, pero es esta segunda acción es la que termina ocasionando el resultado.
+
+El autor desea llevar a cabo el homicidio de cierta manera y logra el resultado de un modo completamente distinto.
+
+El fondo de la cuestión –en principio- reside en si es correcto o no, dar relevancia al error en que incurre el autor en la segunda parte de su acción, dicho de otra manera si el tramo secundario importa una desviación del curso causal de carácter esencial o si es un mero desvió accidental que no tiene entidad para eliminar la imputación final dolosa.
+
+Posteriormente, adoptaré la posición defendida por Roxin en la que a este criterio último criterio mencionado, se le adicionan otros elementos complementarios tales como la consideración de la previsibilidad y el plan del autor. De la respuesta a este interrogante surgirá la calificación que deberá imponérsele a los actos desplegados por el autor.
+
+Sancinetti hace referencia a que la posición de Roxin señalando que "se acerca mucho a intuiciones valorativas del "Hombre de la calle", que lo hace intuitivamente plausible (…) Según esta posición habría que estar por la solución de la consumación, sólo cuando el autor hubiera actuado al inicio con intención de matar, y además, no hubiera revocado esa intención en el ínterin, es decir, antes del segundo acto. Aquí se razona sobre la base de cómo se habría comportado el autor si hubiera conocido la verdadera situación (que la víctima aún vivía)."[2](#footnote2)
+
+Aquellos que no le otorguen relevancia al error entenderán que se está ante un caso de homicidio consumado, mientras que en la vereda contraria se agruparan quienes consideren que en el supuesto analizado concurren elementos que prueban la existencia de una desviación esencial del curso causal.
+
+Estos últimos estimaran pertinente sancionar de otra manera, en este caso a "A", por encontrarlo penalmente responsable del delito de tentativa de homicidio doloso en concurso real con homicidio imprudente. En minoría respecto a la naturaleza del concurso Sancinetti propone esta solución pero en concurso ideal.[3](#footnote3)
+
+Finalmente, el caso nos conmina a justipreciar el comportamiento de C. Corresponde preguntarse sí es posible subsumirlo directamente en la omisión simple descripta por el tipo penal del art. 108, conocida como omisión de auxilio, o si por el contrario, C ocupaba una posición de protección del bien jurídico que resultó afectado y por lo tanto se estaría ante otro tipo penal.
+
+III. Solución dogmática.
+
+III.I. La conducta de A. ¿Un problema de imputación objetiva o subjetiva?
+
+Respecto del accionar de A debemos separar aquí dos niveles de análisis: en primer lugar, el de si el resultado finalmente producido –la muerte de B- es objetivamente imputable a la acción inicial y, en segundo lugar, si lo es, además, a título de dolo.
+
+A fin de dar inicio al mencionado análisis deberá examinarse la relación de causalidad entre las conductas desplegadas y el resultado finalmente ocurrido.
+
+La causalidad de la primer acción no puede ponerse en duda, pues en el sentido de la fórmula de la teoría de la equivalencia de las condiciones, sí A no hubiera llevado a cabo el apuñalamiento, ejecutado con dolo homicida, no hubiera existido siquiera ocasión para la segunda acción, es decir, arrojarlo al río, es por esto que si se suprime mentalmente aquel primer acto desaparece el resultado lesivo.
+
+Ahora bien, una vez establecida la causalidad, resulta más problemático determinar si ese resultado –la muerte de B-, generado por la primera acción, es también objetivamente imputable a la misma, obrando entre la primera acción y el resultado una desviación del curso causal introducida por el segundo acto del autor, en este caso el arrojar al río a B.
+
+Adelanto mi postura en esta instancia al considerar que el segundo tramo de la conducta del autor en el caso ha importado una desviación inesencial del curso causal por lo que debe persistir la imputación al tipo objetivo. Considero que el autor con el apuñalamiento creo un riesgo que se concreta en el resultado muerte.
+
+A continuación esbozaré mis argumentos siguiendo la posición doctrinaria de Roxin.
+
+III.II. Esencialidad de la desviación del curso causal. La previsibilidad y el Plan del Autor como criterios para determinar la imputación objetiva y subjetiva. La no revocación de ánimo homicida.
+
+La imputación al tipo objetivo presupone que en el resultado se haya realizado el riesgo no permitido creado por el autor. Por dicha razón, está excluida la imputación, en primer lugar, si, aunque el autor haya creado un peligro para el bien jurídico, el resultado se produce, no como efecto de plasmación de ese peligro, sino sólo en conexión causal con el mismo. Aquí se cuentan sobre todo los casos en que un delito doloso en primer momento se queda en fase de tentativa, pero después acaba provocando el resultado como consecuencia de un curso causal imprevisible. No son estas las circunstancias del caso, en virtud a que el curso causal no fue imprevisible.
+
+a) La previsibilidad como criterio para la imputación objetiva.
+
+En este momento del análisis obtiene relevancia el concepto de previsibilidad, pues la imputación a título de delito consumado importa que la posible muerte por medio del segundo acto sea en todo caso previsible de antemano.
+
+En el relato no hay constancias de que A haya tenido motivos para creer que no había logrado su resultado, efectivamente creyó que B ya había fallecido a causa del apuñalamiento.
+
+Aparece comprendido en el marco de lo generalmente previsible que un sujeto sin especial formación médica –como parece ser el caso de A- confunda en la situación concreta la mera falta de conocimiento de la víctima con su muerte y sólo a través de la (supuesta) acción de deshacerse de ese cuerpo – tampoco ajena a la experiencia de la vida- termine matando a la víctima. De ahí resulta plausible contemplar el acaecimiento de la muerte, ya en consideración de la primera acción, como injusto de homicidio y no como simple accionar imprudente.
+
+De esto se deduce que con la producción de un error acerca del resultado de consumación de la primera acción también resulta previsible todo lo que seguirá después, debido a que el ocultamiento de un asesinato ocurrido constituye una usual acción conexa y ella se produce generalmente de formas tales que deberán llevar a la muerte a quien todavía está con vida, como se da en el caso de análisis.
+
+Distinto sería el caso si al creerlo muerto, A lo hubiese cargado a su vehículo para descartarlo en otra zona alejada y en el trayecto hubiese sufrido un accidente que finalmente causará el deceso de B. Esto sería entendido como un desvío causal "aventurero y no previsible", el cual revestiría la relevancia suficiente para excluir el dolo de la imputación de A.
+
+Es claro que la primera acción ha aumentado el peligro del curso causal subsiguiente de modo jurídicamente relevante y por lo tanto el resultado es una realización adecuada del peligro creado por esa primera conducta.
+
+Afirmada la imputación objetiva en virtud a que el riesgo de la primera acción se realizó en el resultado como consecuencia que el segundo tramo de acción se considera como una desviación inesencial del curso causal en virtud a la previsibilidad que importó la naturaleza de su acción, corresponde entonces hacer referencia a la imputación dolosa.
+
+b) El "Plan del autor" como criterio para la imputación al dolo.
+
+El autor de nuestro caso, al apuñalar y luego lanzar al río el cuerpo de B, actuó con una intención de matar no revocada y, con la muerte de la víctima -por ahogamiento- alcanzó su meta. Efectivamente realizó su plan homicida.
+
+Este criterio desarrollado por Roxin, nos hace considerar que la circunstancia de que el resultado haya acontecido por un curso causal distinto del originariamente representado es, según los parámetros normativos, irrelevante, y no modifica el hecho de que el resultado sea imputado como causado dolosamente.[4](#footnote4)
+
+La sola previsibilidad del curso causal no es un componente definitivo que nos permita concluir que el resultado de la segunda acción constituye la realización del plan del autor. Es vital determinar cuál era su plan, si actuaba con lo que la doctrina alemana entiende como intención, lo que en nuestro ámbito denominamos dolo directo de primer grado o si por el contrario el autor ya en la primera acción no tenía en mira la muerte de la víctima sino que sólo la asumía forzadamente, es decir, cuando actuó con dolo eventual.
+
+En este caso entiendo que se da el primer supuesto. Desde la primera conducta –apuñalamiento- A tenía la clara intención de matar a B, no aceptaba simplemente ese resultado, lo deseaba.
+
+c) La no revocación del ánimo homicida.
+
+Finalmente, una de las últimas cuestiones a tener en cuenta antes de pasar al próximo estamento del análisis es verificar si el autor en algún momento abandonó el objetivo de matar a la víctima antes del segundo tramo de acción. El supuesto implicaría que el autor, al ver que el agredido yace inerte, realice intentos de reanimación considerados por él mismo infructuosos y al deshacerse del supuesto cadáver produzca efectivamente la muerte.
+
+El segundo acto ya no puede ser considerado la realización del plan del autor cuando éste, en el ínterin, fue revocado por esfuerzos de desistimiento. [5](#footnote5)
+
+En el supuesto analizado no hay dato alguna que haga suponer que A realizó algún intento de reanimación, por lo que considero que nunca revocó su intención de consumar el homicidio.
+
+Como ha quedado explicitado el error fáctico en que incurrió el autor no excluye el dolo, es por ello, que ya establecida la tipicidad en la conducta de A –subsumido en la figura base del artículo 79 del Código Penal- proseguiré analizando si se conforma el injusto y si el mismo es culpable.
+
+La configuración del injusto
+
+Adentrándome en examen de la antijuridicidad, he de señalar que en el supuesto relatado no confluye permiso alguno que justifique la acción típica reseñada, con seguridad es posible afirmar que A no actuó amparado por el instituto de la legítima defensa, ni bajo un estado de necesidad justificante, tampoco desarrollo sus acciones en cumplimento de un deber o legítimo ejercicio de su derecho, autoridad o cargo, ni obró con obediencia debida.
+
+Consolidación del delito en virtud de la culpabilidad
+
+A su vez, analizando la conducta de A, a través del cuarto estrato de la teoría del delito, se puede colegir sin duda que le es exigible al autor comprender la antijuridicidad de su conducta. Asimismo, las circunstancias en las que actuó no le impidieron ni le redujeron su ámbito de autodeterminación. En consecuencia, el caso no presenta causas de inexigibilidad de comprensión de la antijuridicidad proveniente ya sea de un error exculpante, de un estado de necesidad exculpante o una reducción de la autodeterminación por incapacidad psíquica.
+
+III.V. La conducta de C ¿Existe posición de garante respecto de B?
+
+A fin de poder determinar si la conducta de C –toparse con B, comprobar su estado y alejarse sin ejecutar ningún tipo de acción de salvamento- se enmarca en el caso de homicidio tipificado por el artículo 79 del código penal en su modalidad de comisión por omisión o por el contrario corresponde encuadrarlo en los presupuestos del artículo 108 del código de fondo, deberemos establecer de sí entre el autor y la víctima, existía algún elemento que le imponga a C, la obligación de evitar el resultado lesivo.
+
+Durante muchas décadas la doctrina y jurisprudencia intentaron aferrarse a una serie de reglas rígidas tendientes a indicar que la posición de garante surgía únicamente de tres fuentes, la ley, el contrato y la injerencia o actuar precedente. Esta sistematización resulto defectuosa ya que las reglas se mostraron impotentes para contener una gran cantidad de supuestos. Actualmente se ha llegado al consenso de que existen dos grandes conjuntos de posiciones de garantes, por un lado las que exigen un deber de protección y por el otro las que imponen una obligación de control o vigilancia.
+
+Para el caso en cuestión correspondería verificar si C, se encontraría obligado por alguna de las constelaciones que enumeran los deberes de custodia. Rápidamente podemos descartar que esto sea así, ya que del caso no se derivan elementos de que exista entre la víctima y C exista una relación familiar que pueda imponer un deber de protección, no se menciona que B sea hijo menor, ni cónyuge o concubino de C. Tampoco nos encontramos frente a un supuesto de asunción fáctica de posición de garante, que se da típicamente entre los médicos y sus pacientes, o el profesor de natación y sus alumnos inexpertos. Mucho menos se comprueba que se de en el caso, lo que se conoce como posiciones de garantes derivadas de la estrecha comunidad de vida o de la comunidad de peligro, que dependen de situaciones de hechos como la convivencia o la participación voluntaria en actividades que conllevan riesgos a bienes jurídicos.
+
+Roxin explica que nunca deber ser derivada una posición de garante del deber de actuar de un delito de omisión propia. Por consiguiente la obligación de socorrer o ayudar y la obligación de denunciar, no deben utilizarse para construir desde ahí una posición de garante con la consecuencia de que quien permanece pasivo ante un desenlace mortal pueda ser responsable por homicidio doloso o imprudente por omisión. El hecho de que esto precisamente no es posible es la peculiaridad decisiva de las omisiones propias.[6](#footnote6)
+
+Los presupuestos del Tipo Objetivo en la omisión simple de C
+
+La conducta analizada parecería tender a configurar delito de omisión simple, mediante el cual se castiga una conducta omisiva que presupone la previa existencia de un deber de actuar de determinada manera. Se contiene en esta figura la expresa imposición de un deber de solidaridad social y, a diferencia de la generalidad de las disposiciones del código de fondo, se consagra un mandato y no una prohibición. Por ello, la norma que se deduce del tipo prohíbe toda acción distinta a la prescripta.
+
+Luzón Peña menciona que los delitos de omisión simple consisten en la mera infracción de un mandato de actuar y no se orientan a la lesión de bienes jurídicos, puesto que el resultado lesivo no está abarcado en estos tipos. Más bien, el fundamento material del injusto en las omisiones simples se limita a una mera "…falta de apoyo o fomento de bienes jurídicos…" relevantes, necesitados de tal aporte para su vigencia. [7](#footnote7)
+
+Descartada entonces la existencia de un deber de custodia derivado de la posición de garante cabeza de C, resta continuar el análisis entendiendo que estamos frente a una omisión simple.
+
+Análisis de la tipicidad objetiva
+
+Para ello deberemos proceder a analizar las siguientes cuestiones que según la doctrina mayoritaria, conforman la tipicidad objetiva de los tipos omisivos simples.
+
+La situación típica que genere el deber de realizar cierta acción.
+
+La no realización de la acción requerida.
+
+La capacidad individual de realización de la acción.
+
+La situación típica presupone en primer lugar que se haya dado una situación que exige intervención, se da en el caso porque tal como describe el artículo 108 del código penal, C se encuentra a B herido y amenazado por un peligro –el ahogamiento- y omite prestarle el auxilio necesario, sabiendo que no corre riesgo personal alguno y tampoco da aviso a la autoridad.
+
+El significado de la expresión encontrar, en principio se refiere en hallar a la víctima. Pero la víctima puede ser hallada porque expresamente se la ha buscado o -como es el caso- accidentalmente se da con ella.[8](#footnote8)
+
+Por otro lado, la omisión típica se produce solamente cuando se deja de realizar la acción requerida en la situación típica. La acción requerida se desprende del mismo texto legal, es decir, dar aviso a las autoridades o prestar el auxilio necesario sin que implique para el autor un riesgo personal. En el caso se verifica que C no corría riesgo alguno de subir al bote a la víctima, no se le exigía una conducta heroica, simplemente del mismo modo que pudo sostener a la víctima para comprobar su estado vital, podría haber realizado el mismo esfuerzo para colocarla en su bote.
+
+Respecto a la capacidad individual de realizar la acción requerida, se indica que el sujeto debe tener la efectiva posibilidad de realizar la conducta debida, pues de lo contrario su conducta distinta a la ordenada será atípica, ya fuere por incapacidad física o falta de aptitud o de entrenamiento.
+
+En el caso en cuestión no se deriva que C adoleciera de alguna incapacidad que le imposibilitará salvar a B, ni tampoco una característica física propia de B que dificultase su salvamento, como podría ser el sobrepeso o haber entrado en pánico en el momento del rescate.
+
+A fin de proseguir con el análisis cabe establecer que una imputación del resultado en el sentido del delito de comisión sólo entra en consideración en los delitos de comisión por omisión, por lo que aquí, al tratarse de una conducta omisiva simple, ha de terminar el examen del tipo objetivo.
+
+La descripción del tipo subjetivo en la conducta de C
+
+La omisión al igual que en el caso de los delitos comisivos puede presentar la realización del plan del autor en sus tres niveles de intensidad, sea dolo directo, dolo de consecuencias necesarias o dolo eventual.
+
+El dolo debe referirse a todas las circunstancias mencionadas como presupuestos del tipo objetivo.
+
+En el caso C omitió dolosamente porque reconoció la situación típica –encontró a B herido y amenazado por el peligro de ahogamiento-, luego acogió en su dolo la ausencia de acción requerida u ordenada –C intencionalmente decidió no prestar el auxilio necesario ni dar aviso a las autoridades-, finalmente al señalar que su actuación fue dolosa entendemos que C era consciente de su capacidad de actuación individual, es decir, el autor conocía perfectamente su situación y sabía que no adolecía de invalidez o falta de aptitud alguna que hiciera excusable prestar el auxilio necesario.
+
+En palabras de Roxin para imputar a título doloso es suficiente que el que permanece inactivo parta de la base de que podrían darse posibilidades de salvación con perspectiva de éxito, que ciertamente a él no le interesan.[9](#footnote9)
+
+En este caso, C no presenta ningún defecto de información respecto de lo que está ocurriendo ni sobre lo que podría hacer en favor de B, es plenamente consciente de la situación –la posibilidad cierta de que B muera por el riesgo propio de encontrarse herido en el agua (ahogamiento)-, reconoce asimismo los medios de salvamento a su alcance –realizar el mismo el rescate o dar aviso a las autoridades- y que no posee incapacidad particular alguna para llevarlo a cabo.
+
+Por lo expuesto, considero que C ha actuado dolosamente respecto de la omisión de auxilio de B.
+
+La configuración del injusto.
+
+En este caso, el punto relativo a la antijuridicidad no es problemático, porque el planteamiento no presenta ningún elemento que hiciera pensar en la posibilidad de una causa de justificación, enumeradas en el artículo 34 del código penal. No se encuentran presentes los presupuestos necesarios para indicar la existencia de un caso de legítima defensa, estado de necesidad justificante. El autor tampoco desarrolló su omisión en cumplimento de un deber o legítimo ejercicio de su derecho, autoridad o cargo, ni obró con obediencia debida.
+
+Consolidación del delito en virtud de la culpabilidad
+
+A su vez, llevando a cabo el examen de la conducta omisiva de C, a través del estamento de la culpabilidad, se puede afirmar sin duda que le es exigible al autor comprender la antijuridicidad de su conducta omisiva.
+
+Por otro lado, las circunstancias en las que actuó no le impidieron ni le redujeron su ámbito de autodeterminación. En consecuencia, el caso no presenta causas de inexigibilidad de comprensión de la antijuridicidad proveniente ya sea de un error exculpante, de un estado de necesidad exculpante o una reducción de la autodeterminación por incapacidad psíquica.
+
+IV. Conclusiones
+
+Determinada la imputación penal de A, al no confluir agravantes considero razonable calificar su conducta como homicidio simple en los términos del artículo 79 del código de fondo. Por otro lado, analizada la conducta de C entiendo que la misma debe calificarse como omisión de auxilio en los términos del artículo 108 del Código Penal.
+
+Con relación a la conclusión arribada respecto de la conducta de A, concuerdo con Roxin al entender que en este tipo de "problemas no resueltos", al que "pertenece también el tratamiento correcto del llamado dolus generalis", ante dos soluciones divergentes, no siempre debemos concluir que sea falsa una de ellas. Pues partiendo de premisas distintas, se pueden desarrollar diversas soluciones en sí correctas.[10](#footnote10)
+
+Por otro lado, hago propia la reflexión del profesor Francisco Baldo Lavilla quien indica que la solución de estos casos siempre implica, al final, un cierto grado de decisionismo.[11](#footnote11)
+
+Son muchos los argumentos que pueden encontrarse en ambos lados de la doctrina,
+
+Los que propugnan la solución de la tentativa y el concurso fijan claras exigencias más estrictas al reclamar un dolo congruente y exigir, para la afirmación del momento cognitivo del dolo, que la representación del sujeto se refiera exactamente a aquel aspecto del riesgo que, en último término, produce realmente la muerte de la víctima. Asimismo aducen que la solución de la consumación tiene un carácter moralizante más propio de un Derecho Penal de la Gesinnung que de otro fundando en el principio del hecho. En palabras de Köhler, en lugar de una adecuada imputación jurídica entra en consideración el hecho moral de la actitud injusta manifiesta en el querer producir la muerte de otro y su valoración negativa. [12](#footnote12)
+
+Pero los que estamos a favor de la solución de la consumación entendemos que dicha forma coincide con la que demanda el sano sentido común frente a la artificiosidad que supone la calificación por separado de las partes del suceso global. Por otro lado, también los que abogamos por esta solución nos apoyamos en el elemento volitivo del dolo presente en la primera acción, considerando innecesario, un exacto conocimiento del peligro que lleva a la muerte.
+
+Por otro lado, la solución de la tentativa dolosa en concurso con el homicidio imprudente nos hace toparnos con el problema de la separación entre infracción singular y pluralidad de delitos, o como expresara Mayer el "arte de contar los delitos".[13](#footnote13)
+
+La existencia de una infracción única pese a que en principio pudiera parecer otra cosa, puede concluirse desde distintas vías, reconducibles todas a un pensamiento común, el cual implica que basta con la simple aplicación de un tipo penal y la sanción conminada al supuesto fáctico allí previsto para colmar el disvalor del hecho. Lo contrario podría importar una violación al principio non bis in ídem.
+
+Bibliografía
+
+BALDO LAVILLA, F., Sobre las desviaciones causales: "consumación anticipada" y "dolus generalis", (Comentario a la STS de 6 de Junio de 1994, Ponente Sr. Conde-Pumpido Ferreiro). Anuario de derecho penal y ciencias penales, (48), 1995
+
+D' ALESSIO, A.J., Código Penal Comentado. Parte Especial (art. 79 a 306), Buenos Aires, LA LEY, 2004
+
+KÖHLER, M. "La imputación subjetiva: estado de la cuestión". En AAVV, & J. M. Silva Sánchez (Ed.), "Sobre el estado de la teoría del delito (Seminario en la Universitat Pompeu Fabra)" (P. Sánchez – Ostiz Gutiérrez, Trad., 1ª ed., pág. 71 a 90). Madrid, Civitas, 2000.
+
+LUZÓN PEÑA, D.M., Derecho Penal. Parte General, 3° ed. Buenos Aires, B de F Editores, 2016
+
+MAYER, M., Derecho Penal. Parte General, (Trad. por S. Politoff Lifschitz), Montevideo/Buenos Aires, Editorial B de F, 2007.
+
+ROXIN, C., Derecho Penal Parte General. t. I. Traducción de la 2° ed. Alemana (Luzón Peña), Madrid, Civitas, 1997.
+
+ROXIN, C., Derecho Penal Parte General. t. II, Traducción de la 1° ed. Alemana, Navarra, Civitas, 2014,
+
+ROXIN/SANCINETTI, Desviación del curso causal y "dolus generalis", Buenos Aires, Hammurabi, 2002.
+
+SANCINETTI, M., Análisis crítico del caso Cabezas, T. I. La instrucción, Buenos Aires, AD-HOC, 2000.
+
+SANCINETTI, M., El "caso Monzón": ¿Fue correcta la calificación del hecho como "homicidio doloso consumado"?, Ciudad Autónoma de Buenos Aires, Editorial Albrematica S.A., 2008.
+
+ANEXO
+
+Caso VI.
+
+A apuñala a su enemigo B, en venganza por una afrenta infligida a su honra. Posteriormente, creyendo muerto al hombre a quien apuñaló, que realmente sólo estaba herido, le arroja al río pata borrar sus huellas del supuesto homicidio. La víctima cae al rio, en donde en este momento pasaba un bote a cargo de C. Este se acerca a B, comprueba que estaba herido, y se aleja. B muere ahogado.
+
+1 ROXIN, Derecho Penal Parte General. t. I .Traducción de la 2° ed. Alemana (Luzón Peña), Madrid, 1997, p. 498.
+
+2 SANCINETTI. El "caso Monzón": ¿Fue correcta la calificación del hecho como "homicidio doloso consumado"?, Ciudad Autónoma de Buenos Aires, 2008, p. 8.
+
+3 SANCINETTI. Análisis crítico del caso Cabezas, T. I. La instrucción, Buenos Aires, 2000, p. 249.
+
+4 ROXIN, "Epílogo" en ROXIN/SANCINETTI, Desviación del curso causal y "dolus generalis", Buenos Aires, 2002, p. 78.
+
+5 ROXIN, Reflexiones sobre el "dolus generalis" en ROXIN/SANCINETTI, Desviación del curso causal y "dolus generalis", Buenos Aires, 2002, p. 41.
+
+6 Roxin. Derecho Penal Parte General. T. II, Traducción de la 1° ed. Alemana (Luzón Peña), Navarra, 2014, P. 763.
+
+7 Luzón Peña, Derecho Penal. Parte General, 3° ed. Buenos Aires. 2016, P. 885.
+
+8 D' ALESSIO. Código Penal Comentado. Parte Especial (art. 79 a 306), Buenos Aires, 2004, p. 100.
+
+9 Roxin. Derecho Penal Parte General. T. II, Traducción de la 1° ed. Alemana (Luzón Peña), Navarra, 2014, P.818.
+
+10 ROXIN, "Epílogo" en ROXIN/SANCINETTI, Desviación del curso causal y "dolus generalis", 2002, Buenos Aires, p. 77.
+
+11 BALDO LAVILLA, Sobre las desviaciones causales: "consumación anticipada" y "dolus generalis", Anuario de derecho penal y ciencias penales, (48), 1995, p. 344-345.
+
+12KÖEHLER, "La imputación subjetiva: estado de la cuestión", 2000, Madrid, p. 89.
+
+13 MAYER, Derecho Penal. Parte General, 2007, Montevideo/Buenos Aires, p. 194.

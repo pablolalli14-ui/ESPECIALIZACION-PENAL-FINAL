@@ -1,0 +1,16 @@
+{
+  "caso": "caso-12",
+  "modelos": [
+    {
+      "archivo": "sofia-woszezenczuk.txt",
+      "autor_alumno": "Sofía Woszezenczuk (2024)",
+      "linea_doctrinal": "una sola línea (imputación objetiva, Otto)",
+      "autores_citados": ["Otto", "Donna"],
+      "tipo_penal": "Homicidio simple (art. 79 CP) — tentativa supersticiosa",
+      "institutos": ["imputación objetiva", "dominabilidad del acontecer", "relación fáctica y normativa", "tentativa supersticiosa", "tentativa inidónea", "tentativa irreal"],
+      "tesis": "Las conductas mágicas de Pedro y Jorge carecen de relación fáctica con la muerte de Emilio; no hay ley causal que las vincule con el resultado. Es tentativa supersticiosa impune.",
+      "resultado": "Conductas atípicas; Pedro y Jorge no punibles (tentativa supersticiosa / irreal impune).",
+      "advertencia_pautas": "Buen ejemplo de una sola línea doctrinal (Otto), acorde a la pauta vigente."
+    }
+  ]
+}

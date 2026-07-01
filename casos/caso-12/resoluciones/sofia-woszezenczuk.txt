@@ -1,0 +1,503 @@
+Sofía Gabriela Woszezenczuk
+
+Universidad de Buenos Aires
+
+Facultad de Derecho
+
+Carrera de Especialización en Derecho Penal
+
+Resolución del caso Final
+
+Sumario
+
+I. Introducción. II. Planteo del problema. III. Solución dogmática: a)
+
+Dominabilidad del acontecer: primera conducta de Pedro; b) Dominabilidad del
+
+acontecer: conducta de Jorge; c) Segunda conducta de Pedro: posible
+
+intervención en el hecho ajeno de Jorge; d) Tentativa supersticiosa. IV.
+
+Conclusiones. V. Bibliografía. VI. Anexo.
+
+I. Introducción
+
+El objetivo del presente trabajo es analizar el Caso XII (adjunto en el anexo). El
+
+mismo presenta un resultado acontecido y para su solución dogmática, aplicaré
+
+los conocimientos de la teoría del delito a los hechos concretos. Así, estudiaré
+
+las conductas desplegadas por Pedro y Jorge, sus posibles incidencias en los
+
+cursos causales, y determinaré si alguna de ellas, o ambas, son jurídicamente
+
+reprochables.
+
+II. Planteo del problema
+
+Principalmente, el problema que encuentro en el caso es la dominabilidad del
+
+curso del acontecer. El análisis se centrará en averiguar la posibilidad de que
+
+las conductas puedan resultar atípicas del delito de homicidio simple (art. 79
+
+CP), por falta de constatación de la relación fáctica como relación de incidencia
+
+y de condición. A partir de eso, estableceré si las acciones materiales
+
+realizadas por Pedro y Jorge crearon o incrementaron un riesgo para la vida de
+
+Emilio. Para eso, evaluaré si procede, o no, imputarle/s a Pedro y/o Jorge
+
+objetivamente ese tipo penal1. En este sentido, voy a hacer un examen del
+
+delito en el nivel del tipo de injusto (primera valoración de la conducta), para
+
+1 Otto, H., Manual de Derecho Penal. Teoría General del Derecho Penal, Barcelona, Atelier, 2017, p. 99.
+
+1
+
+Sofía Gabriela Woszezenczuk
+
+luego decidir si se puede habilitar el avance del análisis al segundo nivel de
+
+valoración, o se debe finalizar antes.
+
+En ese marco, comenzaré por resolver si existe o no relación fáctica entre la
+
+primera conducta de Pedro, consistente en comprar un muñeco y clavarle
+
+alfileres reiteradamente a la foto de Emilio, y la muerte de este último. Luego, a
+
+partir de la segunda conducta de Pedro (pedirle ayuda a Jorge para matar a
+
+Emilio, en virtud de sus conocimientos especiales), se da la posibilidad de
+
+evaluar si existe, o no, intervención de Pedro en el hecho ajeno de Jorge. Para
+
+ello, por principio de accesoriedad2, debo estudiar primero la conducta de Jorge
+
+y ver si hay relación fáctica entre su acción y la muerte de Emilio. También
+
+aclararé si tienen alguna relevancia o no, para la solución del caso, el hecho de
+
+que Emilio no se haya enterado de las acciones de Pedro y Jorge. Por último,
+
+analizaré la delimitación entre actos preparatorios y la acción de tentativa, y la
+
+diferencia entre la tentativa supersticiosa (irreal), y la tentativa inidónea.
+
+III. Solución dogmática
+
+III. a) Dominabilidad del acontecer: primera conducta de Pedro:
+
+Antes que nada, como aclaré en el punto anterior, el examen que realizo se
+
+encuentra dentro del primer nivel de valoración de la conducta, es decir, en el
+
+tipo de injusto. Cabe destacar que la primera conducta de Pedro consistió en
+
+comprar un muñeco, colocar una foto de Emilio a quien quería matar, y clavarle
+
+reiteradamente alfileres (Emilio no se entera de las acciones).
+
+Así, el objetivo y análisis que propuse en los apartados anteriores, para
+
+averiguar si las conductas desplegadas por Pedro influyeron en la muerte de
+
+Emilio, impone la necesidad de realizar un juicio de imputación objetiva del
+
+resultado. El mismo consiste en una doble imputación: la primera fáctica
+
+(relación fáctica entre acción del hecho y resultado), y la segunda normativa
+
+(relación normativa entre comportamiento y resultado).
+
+Con esa imputación del resultado busco responder al interrogante de si es
+
+posible o no imputarle el tipo penal de homicidio simple (art. 79 CP) a Pedro
+
+2 Ídem, párr. 107, p. 515.
+
+2
+
+Sofía Gabriela Woszezenczuk
+
+como su obra3. Ese tipo penal es una norma de prohibición que describe como
+
+conducta prohibida matar a otro (delito de acción, de resultado que equivale a
+
+acortar la vida de otro). No requiere ninguna modalidad de agresión específica
+
+para lesionar el bien jurídico vida protegido4, ni tampoco requiere
+
+características especiales del autor.
+
+Ahora bien, la imputación objetiva de un resultado, se realiza sobre una
+
+conducta que crea o incrementa un peligro (principio de incremento del riesgo),
+
+porque sino estaríamos frente a una conducta que no ha afectado la vigencia
+
+del ordenamiento jurídico5. Asimismo, no puedo dejar de mencionar que la
+
+imputación objetiva del resultado se funda sobre el principio de la
+
+responsabilidad, que implica que una persona es responsable por su propia
+
+conducta, y no lo es por la conducta de otros que actúan libre y
+
+responsablemente6. Llevando esto al caso concreto, sólo cabría la posibilidad
+
+de imputarle objetivamente la muerte de Emilio a Pedro, a partir de una
+
+actuación libremente responsable de Pedro, debido a que para que alguien sea
+
+autor de un hecho delictivo debe haber actuado de manera libre. Del caso, no
+
+surge ningún dato que ponga en duda que Pedro actuó libremente7.
+
+Entonces, retomando el objetivo del trabajo, cabe estipular si la primera
+
+conducta llevada a cabo por Pedro, creó o incrementó un riesgo contra la vida
+
+de Emilio, y de existir ese riesgo (peligro), averiguar si este se realizó en el
+
+menoscabo del bien jurídico.
+
+3 Ibídem, párr. 5, p. 101. El planteamiento básico de la imputación objetiva es determinar quién es responsable por un resultado. 4 Ibídem, párr. 32, p. 29. Sobre el significado del concepto "bien jurídico", Otto expresa que el sujeto de derecho merece protección jurídico-penal en lo que tiene, es decir, en el poder de disposición sobre un bien (ejemplo la integridad física), y también en lo que es. Esto último comprende la tutela en su desarrollo integral como miembro de la comunidad jurídica con capacidad plena, garantizando la dignidad humana, el respeto al prójimo y Ia identificación con determinados valores. 5 Ibídem, párr. 39, p. 94. La conducta jurídico-penalmente relevante es una conducta socialmente dañosa, contraria al deber y accesible a la conducción de la voluntad. 6 Ibídem, párr. 47, p. 114. Otto aclara que el peligro jurídicamente desaprobado/prohibido/relevante solo indica que se excluyen los peligros socialmente adecuados. En cambio "la imputación del resultado se refiere al realizado antijurídicamente, esa consideración se desplaza, en cierto modo, más allá del tipo de la ley, hacia el tipo de injusto". 7 Ibídem, párr. 56, p. 35. La norma se dirige a la "persona", reconociéndole dignidad humana, autoconciencia, autonomía, y como parte de la comunidad.
+
+3
+
+Sofía Gabriela Woszezenczuk
+
+Como expliqué previamente, el juicio de imputación objetiva involucra una
+
+imputación fáctica, y luego, una normativa. Solo si es posible constatar ambas
+
+relaciones fáctica y normativa entre acción y resultado, podría llegar a
+
+afirmarse que una persona tiene dominabilidad del acontecer, es decir, que es
+
+responsable por el acontecer que está sujeto a su dominabilidad.
+
+Superadas las deficiencias que han tenido otras teorías causales, la imputación
+
+fáctica8 (presupuesto necesario de la imputación del resultado, pero no
+
+suficiente) es la posibilidad real de incidir en el curso causal, teniendo la
+
+posibilidad de evitar fácticamente el resultado (no matar).
+
+Esta imputación sirve para establecer la relación causal a través de una
+
+conexión física entre acción y resultado. Pero en este caso, como el derecho
+
+está limitado por los rigores de la ciencia, es imposible afirmar una relación
+
+fáctica entre la acción de Pedro y la muerte de Emilio.
+
+Esta conexión tiene que estar respaldada por la existencia de una ley natural
+
+general, y no hay ninguna que avale una vínculo "mágico" entre los sucesos del
+
+caso. La relación causal debe estar apoyada por investigaciones científicas,
+
+experimentales, siguiendo la modalidad del método científico,
+
+empírico-analítico.
+
+No hay ninguna ley científica que haya probado empíricamente a través de
+
+repetido número de veces y de forma estadísticamente considerable, una
+
+relación causal entre trabajos de exorcismos (clavando alfileres a un muñeco),
+
+y la muerte de la persona a quien se desea asesinar.
+
+Por lo tanto, no se puede demostrar que entre la primera conducta de Pedro y
+
+la muerte de Emilio haya una relación real, es decir, que la acción de Pedro sea
+
+condición suficiente y necesaria respecto de la muerte de Emilio. Considerando
+
+eso, Pedro no tiene dominabilidad sobre la salud cardiaca de Emilio. De modo
+
+que, la conducta de Pedro no es contraria al deber jurídico de evitar el
+
+resultado porque no creo ningún riesgo para la vida de Emilio según un punto
+
+de vista ex post9. Eso se debe a que falta el presupuesto lógico que es la
+
+relación fáctica.
+
+8 Ibídem, párr. 41, p. 112. 9 Ibídem, párr. 29, p. 107 y párr. 31, p. 108.
+
+4
+
+Sofía Gabriela Woszezenczuk
+
+Si hubiese podido afirmar lo contrario, es decir, si visto desde una perspectiva
+
+ex post, Pedro hubiera creado o incremento un riesgo para el bien jurídico, el
+
+siguiente paso sería evaluar si se ha realizado en la lesión del bien jurídico el
+
+riesgo creado o incrementado por él, sujeto a su dominabilidad, pero en este
+
+caso, esto es imposible.
+
+Por consiguiente, hasta aquí se puede llegar en el examen del nivel de
+
+valoración en el tipo de injusto.
+
+III. b) Dominabilidad del acontecer: conducta de Jorge:
+
+Con respecto a la conducta de Jorge, este toma intervención a partir del pedido
+
+de ayuda de Pedro, quien recurre a él por los conocimientos específicos en
+
+materia de horóscopos y trabajos mágicos.
+
+De la misma forma en que no se puede constatar la relación fáctica (no es una
+
+teoría causal, sino una teoría de la condición porque abarca también
+
+condiciones lógicas) entre la conducta de Pedro y la muerte de Emilio, tampoco
+
+es posible sostener una relación fáctica entre los trabajos mágicos de Jorge y
+
+la muerte de Emilio. Esto ha quedado claro a partir de la explicación de que no
+
+existe ley causal que pueda probar a partir de un saber empírico basado en la
+
+ciencia la conexión entre ambas.
+
+Así, Jorge no tuvo dominio sobre la salud cardíaca de Emilio, por lo tanto
+
+tampoco ha creado un peligro para su vida, siendo imposible imputarle
+
+objetivamente su muerte (debido a la falta del presupuesto lógico de la relación
+
+fáctica).
+
+A mayor abundamiento, tanto para el análisis de la dominabilidad del acontecer
+
+de Pedro, como para el de Jorge, no tienen ningún tipo de incidencia el dato de
+
+que Emilio no se haya enterado de las acciones de estos antes de sufrir el
+
+infarto. No existe relación fáctica entre las acciones de Pedro y Jorge y la salud
+
+cardíaca de Emilio, aun si este eventualmente se hubiera enterado de las
+
+acciones desplegadas por los primeros, y por miedo a la posibilidad
+
+supersticiosa de ser asesinado se hubiera muerto por un ataque cardíaco.
+
+5
+
+Sofía Gabriela Woszezenczuk
+
+III. c) Segunda conducta de Pedro: posible intervención en el hecho ajeno de
+
+Jorge:
+
+En relación a la segunda conducta desplegada por Pedro, esta se exteriorizó
+
+cuando le pidió ayuda a Jorge para matar a Emilio. Así, la única imputación por
+
+el segundo hecho de Pedro podría ser si este participó en el hecho de Jorge,
+
+ejerciendo una influencia directa en su voluntad10 quien realizó los trabajos
+
+mágicos con intención de matar.
+
+Recién puedo tratar el problema planteado en cuanto a si era posible la
+
+intervención de Pedro en el hecho ajeno de Jorge, en este apartado ya que
+
+antes tuve que examinar la conducta de Jorge, que es la principal.
+
+La solución a este problema, es que es imposible imputarle a Pedro el delito de
+
+homicidio simple por la segunda conducta, debido a que como expliqué en el
+
+punto previo, no hay relación fáctica entre la acción de Jorge y el resultado.
+
+Afirmando que Jorge no tiene dominio del curso causal, no ha puesto en peligro
+
+la vida de Emilio, ni cometido ningún injusto, tampoco existe participación de
+
+Pedro como forma propia de agresión al bien jurídico vida de Emilio. Esto se
+
+explica a través del principio de accesoriedad, la posibilidad de la puesta en
+
+peligro del bien jurídico por parte de Pedro era sólo mediata, subordinada a la
+
+de Jorge.
+
+El peligro de lesionar un bien jurídico no involucra el riesgo abstracto de
+
+lesionar un bien jurídico como mera posibilidad imaginable, sino el riesgo
+
+concreto, inmediato, de lesionar el bien. Otto explica que ese peligro marca, a
+
+la vez, el límite entre los actos preparatorios impunes y la tentativa punible11.
+
+Entonces, no hay participación de Pedro, por falta de un hecho principal de
+
+Jorge, a pesar de que Pedro sabía que lo estaba determinado a este a que se
+
+decidiera a matar a Emilio.
+
+III. d) Tentativa supersticiosa:
+
+10 Ibídem, párr. 35, p. 493. 11 Ibídem, párr. 30, p. 142.
+
+6
+
+Sofía Gabriela Woszezenczuk
+
+En el caso, Pedro y Jorge parten de la base de las eficacias de fuerzas
+
+mágicas inexistentes, que como he explicado no pueden controlar con su
+
+voluntad, dado a la falta de dominio sobre el curso del acontecer.
+
+Hay que tener en cuenta que el delito de homicidio es un delito de resultado
+
+que admite la tentativa y que el art. 42 CP exige que haya comienzo de
+
+ejecución para sancionarla.
+
+En este sentido, surge de los hechos que no hay comienzo de ejecución del
+
+delito de homicidio, ya que no existe relación fáctica entre las conductas de
+
+Pedro y Jorge, y la muerte de Emilio, y si bien existen tipos penales que
+
+adelantan la punibilidad a actos que podrían ser caracterizados como actos
+
+preparatorios, no es el caso del tipo penal estudiado.
+
+Visto que nadie comienza a matar a otra persona clavando alfileres en un
+
+muñeco ni realizando actos mágicos, estas conductas no están prohibidas por
+
+nuestro ordenamiento jurídico.
+
+Aquí se presenta la llamada tentativa supersticiosa, absolutamente incapaz de
+
+producir una muerte. Esta tentativa no es una tentativa inidónea, sino una
+
+tentativa irreal, aparente, en la que se verifica que Pedro y Jorge desconocen
+
+groseramente las relaciones causales.
+
+Otto comienza a explicar este tema con el tratamiento de la tentativa inidónea,
+
+que en Alemania prevé la posibilidad de prescindir de pena o de atenuarla,
+
+cuando el autor actúe por burda insensatez, de manera necia, o por
+
+superstición, y concluye que la tentativa supersticiosa debe quedar impune.
+
+Rigiendonos por el Código Penal Argentino, solo podemos hablar de una
+
+tentativa irreal, que es aparente porque las conductas desplegadas por Pedro y
+
+Jorge son atípicas. Ellos, no tienen dominabilidad del curso causal, a pesar de
+
+haber creído tener control de la vida de Emilio a partir de actos mágicos que no
+
+crean ningún peligro.
+
+Por su parte, Donna hace una distinción entre tentativa irreal y tentativa
+
+inidónea. Expresa que la tentativa inidónea es violatoria de un derecho penal
+
+de acto y de culpabilidad, que es ilegal reprocharle al autor un hecho que no
+
+7
+
+Sofía Gabriela Woszezenczuk
+
+existe, sino en la mente del sujeto. La acción que no es real y que solo queda
+
+en la cabeza del autor, ex post no es punible.
+
+Asimismo, Donna manifiesta que la tentativa irreal no es una tentativa en el
+
+auténtico sentido, en donde "el autor transgrede el límite de la realidad al
+
+intentar realizar el hecho prohibido sirviéndose de un medio irreal, de una
+
+influencia irreal (azar), o de un objeto irreal (espiritismo)".12
+
+En efecto, al haber establecido que las acciones estudiadas no son comienzo
+
+de ejecución, ya no es posible hablar de tentativa ni de medios idóneos o
+
+inidóneos. En nuestro sistema, la tentativa supersticiosa ni siquiera es una
+
+tentativa inidónea. El último párrafo del art. 44 CP no comprende casos de
+
+tentativas aparentes.
+
+IV. Conclusiones
+
+Se puede concluir que no hay relación de imputación fáctica entre las
+
+conductas de Pedro y de Jorge, y la muerte de Emilio. Estos no han tenido
+
+dominabilidad sobre la salud cardiaca de Emilio, ni han creado un riesgo contra
+
+su vida. Al no poder imputarles objetivamente sus conductas, éstas resultan
+
+atípicas del delito de homicidio simple. Asimismo, y en virtud de la afirmación
+
+de que la conducta de Jorge es atípica, no es posible imputarle a Pedro la
+
+participación en el hecho ajeno, resultando la segunda conducta de Pedro
+
+también atípica.
+
+Por consiguiente, en el caso se da una tentativa supersticiosa (irreal) que es
+
+impune. Pedro y Jorge no deben ser sancionados penalmente por la muerte de
+
+Emilio.
+
+V. Bibliografía
+
+Donna, Edgardo Alberto, Derecho Penal, Parte General, Tomo VI. Tentativa - Omisión, Santa Fe, Rubinzal-Culzoni, 2010.
+
+Otto, H., Manual de Derecho Penal. Teoría General del Derecho Penal, Barcelona, Atelier, 2017.
+
+12 Donna, Edgardo Alberto, Derecho Penal, Parte General, Tomo VI. Tentativa - Omisión, Santa Fe, Rubinzal-Culzoni, 2010, p. 117.
+
+8
+
+Sofía Gabriela Woszezenczuk
+
+VI. Anexo
+
+Caso XII
+
+Pedro quiere matar a su enemigo Emilio, mediante exorcismos que encuentra
+
+en internet. Para ello compra un muñeco, pone la foto de su enemigo y lo
+
+atraviesa con alfileres reiteradamente. Además recurre a una persona, Jorge,
+
+que hace horóscopos y trabajos mágicos para que le ayude con la tarea, cosa
+
+que Jorge acepta. Luego de tres días se entera que Emilio ha fallecido debido a
+
+un infarto, ya que era enfermo cardiaco. Emilio nunca se entera de las acciones
+
+de Pedro y Jorge.
+
+9

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-01",
+    "numero": "I",
+    "titulo": "Conductor distraído, perro suelto y dueño atropellado",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "Resolver mediante la teoría de la imputación objetiva de alguno de estos autores: Roxin, Jakobs, Otto.",
+    "tiene_modelo": false
+  },
+  "enunciado": "Juan conducía un vehículo a velocidad reglamentaria leyendo los mensajes que le llegaban a su celular, puesto frente a él en un aparato especial que compró. Un perro se suelta de la correa del dueño y se atraviesa en la calle. Juan no lo ve, y tampoco a la persona que llevaba al perro quien corre a salvarle y, ambos son atropellados por el automóvil, muriendo el dueño del perro y salvándose el perro.",
+  "sujetos": [
+    { "nombre": "Juan", "rol": "activo", "notas": "Conductor a velocidad reglamentaria, distraído leyendo mensajes en el celular." },
+    { "nombre": "Dueño del perro", "rol": "pasivo", "notas": "Corre a salvar al perro y es atropellado; muere." }
+  ],
+  "institutos_dogmaticos": [
+    "imputación objetiva",
+    "creación de un riesgo no permitido",
+    "riesgo permitido",
+    "autopuesta en peligro / conducta de la víctima",
+    "fin de protección de la norma",
+    "delito imprudente"
+  ],
+  "problema_central": "Si el resultado muerte puede imputarse objetivamente a la conducta imprudente de Juan (conducir distraído) o si la intromisión voluntaria de la propia víctima al correr tras el perro interrumpe la imputación (autopuesta en peligro / ámbito de responsabilidad de la víctima). La consigna exige resolverlo con la imputación objetiva de Roxin, Jakobs u Otto.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "Caso paradigmático de imputación objetiva en delito imprudente. La consigna restringe expresamente a Roxin, Jakobs u Otto."
+}

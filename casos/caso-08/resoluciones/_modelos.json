@@ -1,0 +1,27 @@
+{
+  "caso": "caso-08",
+  "modelos": [
+    {
+      "archivo": "agustina.txt",
+      "autor_alumno": "Agustina",
+      "linea_doctrinal": "compara autores (base Wessels/Beulke/Satzger)",
+      "autores_citados": ["Sancinetti", "Wessels", "Beulke", "Satzger", "Otto", "De la Fuente", "Días", "Donna", "Roxin", "Stratenwerth"],
+      "tipo_penal": "Lesiones (art. 89 CP)",
+      "institutos": ["legítima defensa", "agresión ilegítima", "necesidad racional del medio", "falta de provocación", "elemento subjetivo de justificación", "criterio ex ante / ex post", "error de justificación"],
+      "tesis": "La defensa con cuchillo fue racionalmente necesaria valorada ex ante; no se juzga desde la tranquilidad del despacho judicial sino desde la urgencia vivida por A.",
+      "resultado": "A no es punible: conducta justificada por legítima defensa; el medio fue racionalmente necesario.",
+      "advertencia_pautas": "Compara autores; usar solo como modelo de estructura."
+    },
+    {
+      "archivo": "trabajo-final-uba.txt",
+      "autor_alumno": "s/d (Trabajo Final UBA)",
+      "linea_doctrinal": "compara autores (base Wessels/Beulke/Satzger)",
+      "autores_citados": ["Wessels", "Beulke", "Satzger", "Donna", "Otto", "Stratenwerth"],
+      "tipo_penal": "Lesiones (art. 90 CP)",
+      "institutos": ["acción", "tipicidad objetiva", "tipicidad subjetiva", "antijuridicidad", "legítima defensa", "agresión ilegítima", "necesidad racional del medio", "voluntad defensiva"],
+      "tesis": "La conducta de A fue típica pero justificada por legítima defensa. La necesidad del medio se evalúa ex ante, desde la perspectiva del agredido en el momento del ataque, no ex post.",
+      "resultado": "No punible: legítima defensa; la conducta de A, aunque típica, es jurídicamente correcta.",
+      "advertencia_pautas": "Compara autores; usar solo como modelo de estructura."
+    }
+  ]
+}

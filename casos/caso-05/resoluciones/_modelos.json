@@ -1,0 +1,16 @@
+{
+  "caso": "caso-05",
+  "modelos": [
+    {
+      "archivo": "nikiel.txt",
+      "autor_alumno": "Mg. Iván Nikiel",
+      "linea_doctrinal": "compara autores (Roxin, Frister, Jakobs, Stratenwerth, Donna)",
+      "autores_citados": ["Roxin", "Frister", "Jakobs", "Stratenwerth", "Donna", "Silva Sánchez"],
+      "tipo_penal": "Homicidio (art. 79 CP) en grado de tentativa (arts. 42/44 CP)",
+      "institutos": ["acción", "imputación objetiva", "realización del riesgo en el resultado", "desviación del curso causal", "fin de protección de la norma", "tentativa acabada e idónea", "dolo directo"],
+      "tesis": "El riesgo no permitido creado por A (el disparo) no se realiza en el resultado (muerte por arrollamiento de caballos): desviación esencial e imprevisible del curso causal. No hay homicidio doloso consumado, sino tentativa.",
+      "resultado": "A es autor penalmente responsable de homicidio en grado de tentativa (arts. 79, 42 y 44 CP).",
+      "advertencia_pautas": "Compara autores; usar solo como modelo de estructura (la pauta vigente exige una sola línea)."
+    }
+  ]
+}

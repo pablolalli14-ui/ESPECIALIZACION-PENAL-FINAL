@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-10",
+    "numero": "X",
+    "titulo": "Defensa frente al agresor, golpe mortal tras cesar la agresión y ocultamiento del cadáver",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": false
+  },
+  "enunciado": "A es atacado por B con un cuchillo. Consigue defenderse de un puñetazo y B cae al suelo. Pero A, se da cuenta que B tiene posibilidad de huir, y como se mueve y amaga sacar un arma le golpea con un palo y le mata. Como cree que su conducta es antijurídica, esconde el cadáver del agresor.",
+  "sujetos": [
+    { "nombre": "A", "rol": "activo", "notas": "Se defiende de B, lo golpea mortalmente cuando B ya está en el suelo y amaga sacar un arma; cree que su conducta es antijurídica y esconde el cadáver." },
+    { "nombre": "B", "rol": "pasivo", "notas": "Agresor inicial con un cuchillo; muere por el golpe con el palo." }
+  ],
+  "institutos_dogmaticos": [
+    "legítima defensa (art. 34 inc. 6 CP)",
+    "actualidad de la agresión",
+    "necesidad racional del medio empleado",
+    "exceso en la legítima defensa (art. 35 CP)",
+    "error de prohibición al revés / delito putativo",
+    "antijuridicidad putativa"
+  ],
+  "problema_central": "Debe determinarse si el golpe mortal está aún amparado por la legítima defensa (agresión actual por el amague de sacar un arma) o si constituye un exceso porque la agresión ya había cesado. A ello se suma que A cree erróneamente que su conducta es antijurídica (delito putativo / error de prohibición al revés): la valoración jurídica del sujeto no coincide con la real, lo que es dogmáticamente irrelevante para la punición pero relevante para el análisis.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "Doble problema: límites de la legítima defensa / exceso, y delito putativo (A cree antijurídica una conducta posiblemente justificada). El ocultamiento del cadáver revela la conciencia de antijuridicidad del autor."
+}

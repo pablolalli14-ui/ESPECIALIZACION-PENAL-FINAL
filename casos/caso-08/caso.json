@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-08",
+    "numero": "VIII",
+    "titulo": "Defensa con cuchillo cuando bastaba un puñetazo; error sobre la peligrosidad del agresor",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": true
+  },
+  "enunciado": "A es atacado por B con un cuchillo. A se defiende a su vez con un cuchillo y causa a su agresor una herida que le afecta el pulmón. Dada la situación, A no tenía por qué haberlo hecho, ya que la débil constitución del otro y las circunstancias de la agresión en un lugar público le habrían permitido deshacerse del agresor de un puñetazo. Sin embargo, A no sabía esos datos y creyó que B era un peligroso asesino.",
+  "sujetos": [
+    { "nombre": "A", "rol": "activo", "notas": "Agredido; se defiende con un cuchillo hiriendo a B en el pulmón, sin saber que un puñetazo habría bastado." },
+    { "nombre": "B", "rol": "pasivo", "notas": "Agresor con cuchillo; resulta herido en el pulmón." }
+  ],
+  "institutos_dogmaticos": [
+    "legítima defensa (art. 34 inc. 6 CP)",
+    "agresión ilegítima",
+    "necesidad racional del medio empleado",
+    "juicio ex ante vs. ex post",
+    "elemento subjetivo de justificación (voluntad de defensa)",
+    "error sobre presupuestos de la justificación"
+  ],
+  "problema_central": "La conducta de A es típica (lesiones) pero se plantea si está justificada por legítima defensa. El núcleo es cómo valorar la 'necesidad racional del medio empleado': si ex ante, desde la perspectiva del agredido en la situación concreta (que ignoraba que un puñetazo bastaba y creía a B un asesino peligroso), la defensa con cuchillo era racionalmente necesaria; o si ex post, con datos que A no conocía, era excesiva.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": ["resoluciones/agustina.txt", "resoluciones/trabajo-final-uba.txt"],
+  "notas": "Dos trabajos-modelo sobre este caso (ambos concluyen que la defensa fue racionalmente necesaria valorada ex ante y por tanto la conducta está justificada). Enunciado transcripto de los trabajos-modelo."
+}

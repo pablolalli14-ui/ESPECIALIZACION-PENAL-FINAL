@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-09",
+    "numero": "IX",
+    "titulo": "Celopatía y homicidio del cónyuge por noticia falsa de infidelidad",
+    "fuente": "UBA — Especialización en Derecho Penal (Escuela de Posgrado, Ministerio Público)",
+    "articulos_indicados": ["34 inc. 1 CP", "80 inc. 1 CP"],
+    "consigna": "Resuelva el caso ajustándose estrictamente al art. 34, inc. 1º, y 80, inc. 1º C. Penal.",
+    "tiene_modelo": false
+  },
+  "enunciado": "Juana es una persona paranoide y desde hacía tres años sufría una celopatía muy acentuada. Recibe un mensaje por su celular de una amiga quien le dice que su esposo le es infiel con otra amiga, hecho éste que es falso. Va a la cama donde estaba Jorge, su esposo y sin preguntar si la noticia es verdadera, en una situación de exasperación, pero dándose cuenta de lo que hacía, le acometió con un cuchillo produciéndole la muerte. Resuelva el caso ajustándose estrictamente al art. 34, inc.1º, y 80, inc.1º C. Penal.",
+  "sujetos": [
+    { "nombre": "Juana", "rol": "activo", "notas": "Paranoide con celopatía de tres años; mata a su esposo tras una noticia falsa de infidelidad, en exasperación pero consciente de lo que hacía." },
+    { "nombre": "Jorge", "rol": "pasivo", "notas": "Esposo de Juana; muere por el ataque con cuchillo." }
+  ],
+  "institutos_dogmaticos": [
+    "imputabilidad / capacidad de culpabilidad (art. 34 inc. 1 CP)",
+    "insuficiencia o alteración morbosa de las facultades",
+    "homicidio agravado por el vínculo (art. 80 inc. 1 CP)",
+    "emoción violenta",
+    "error sobre un presupuesto fáctico",
+    "culpabilidad"
+  ],
+  "problema_central": "Determinar si la celopatía y el estado paranoide de Juana afectan su capacidad de culpabilidad en los términos del art. 34 inc. 1 CP (comprensión de la criminalidad / dirección de las acciones), pese a que 'se daba cuenta de lo que hacía', y cómo juega ello con el homicidio agravado por el vínculo del art. 80 inc. 1 CP. La consigna restringe expresamente el análisis a esos dos artículos.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "La consigna acota el análisis a los arts. 34 inc. 1 (inimputabilidad) y 80 inc. 1 (homicidio agravado por el vínculo). Existen varias versiones del enunciado en el material de origen; todas coinciden en el texto."
+}

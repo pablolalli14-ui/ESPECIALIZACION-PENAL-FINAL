@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-05",
+    "numero": "V",
+    "titulo": "Disparo fallido y muerte por caballos espantados",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": true
+  },
+  "enunciado": "A dispara contra B con intención de acabar con su vida. Sin embargo apunta mal y falla el tiro. No obstante, el sonido del disparo espanta a una manada de caballos, de los que era propietario B y que se encontraba en las proximidades de éste. Al espantarse, los animales arrollan a B, causándole la muerte.",
+  "sujetos": [
+    { "nombre": "A", "rol": "activo", "notas": "Dispara con dolo homicida pero falla el tiro." },
+    { "nombre": "B", "rol": "pasivo", "notas": "Muere arrollado por sus propios caballos espantados por el disparo." }
+  ],
+  "institutos_dogmaticos": [
+    "desviación del curso causal",
+    "imputación objetiva",
+    "realización del riesgo no permitido en el resultado",
+    "fin de protección de la norma",
+    "tentativa acabada",
+    "dolo"
+  ],
+  "problema_central": "Existe incongruencia entre la acción (disparo que falla) y el resultado (muerte por arrollamiento). El riesgo no permitido creado por A no es el que se realiza en el resultado: hay una desviación esencial e imprevisible del curso causal. Se discute si el resultado se imputa objetivamente a A (homicidio doloso consumado) o si sólo responde por tentativa de homicidio.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "Existe trabajo-modelo aprobado (Iván Nikiel), que concluye en tentativa de homicidio por no realizarse el riesgo en el resultado. Ver casos/caso-05/resoluciones/."
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "id": "caso-04",
+    "numero": "IV",
+    "titulo": "Ataque al gobernador y muerte del servidor que se interpone",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": true
+  },
+  "enunciado": "Un sujeto, parte de un grupo anarquista, quiere matar a un gobernador que representa el orden y la ley. Con un machete se abalanza sobre el gobernador, pero mata a uno de los servidores del gobernador que con intención se interpone entre el atacante y el gobernador.",
+  "sujetos": [
+    { "nombre": "El anarquista", "rol": "activo", "notas": "Quiere matar al gobernador; hiere mortalmente al servidor." },
+    { "nombre": "Gobernador", "rol": "pasivo", "notas": "Objeto del dolo homicida; resulta ileso." },
+    { "nombre": "Servidor", "rol": "tercero", "notas": "Se interpone voluntariamente y muere." }
+  ],
+  "institutos_dogmaticos": [
+    "error en el objeto / error in persona",
+    "aberratio ictus",
+    "desviación del curso causal",
+    "dolo",
+    "tentativa",
+    "interposición de un tercero"
+  ],
+  "problema_central": "Determinar cómo tratar la muerte de un tercero (el servidor) que se interpone voluntariamente entre el autor y la víctima buscada: ¿aberratio ictus, error in persona, o interrupción del curso causal por la conducta del tercero? En juego, la relación entre el dolo dirigido al gobernador (tentativa) y el resultado producido sobre el servidor.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": ["resoluciones/modelo-aberratio-ictus.txt"],
+  "notas": "Variante clásica de aberratio ictus con la particularidad de que el tercero se interpone con intención. El trabajo-modelo concluye: homicidio culposo por la muerte del servidor (aberratio ictus, art. 84 CP) en concurso con tentativa de homicidio contra el gobernador (arts. 42/44 CP)."
+}

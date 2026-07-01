@@ -1,0 +1,77 @@
+Universidad de Buenos Aires — Facultad de Derecho
+Carrera de Especialización en Derecho Penal
+Autor: Mg. Iván Nikiel. DNI: 32.956.065
+
+Sumario: I) Introducción; II) Planteo del problema; III) Solución dogmática; IV) Conclusión; V) Bibliografía.
+
+I. Introducción.
+Ha sido asignado el caso V: "A dispara contra B con intención de acabar con su vida. Sin embargo,
+apunta mal y falla el tiro. No obstante, el sonido del disparo espanta a una manada de caballos, de
+los que era propietario B y que se encontraba en las proximidades de éste. Al espantarse, los animales
+arrollan a B, causándole la muerte." Desagregando: 1) A dispara a B con intención de matar; 2) A apunta
+mal y falla; 3) el sonido del disparo espanta a una manada de caballos; 4) los animales arrollan a B
+causándole la muerte. Se expondrá el análisis para llegar, mediante la dogmática penal y el método de la
+Teoría del delito, a una solución ajustada a derecho.
+
+II. Planteo del problema.
+A quiso matar a B y empleó un arma de fuego que disparó; el resultado fue la muerte de B. Sin variante,
+sería homicidio doloso consumado, lineal. Pero entre el comienzo de ejecución y el resultado, hay un yerro
+en el disparo que genera un desvío del curso causal: B no muere por el disparo, sino arrollado por caballos
+en estampida. Planteado el desvío del curso causal originario: ¿el resultado pertenece a una acción de A?
+¿corresponde atribuir la responsabilidad penal a A respecto de la muerte de B? ¿el hecho es un delito doloso
+consumado?
+
+III. Solución dogmática.
+III.A. Del hecho doloso.
+El hecho debe estudiarse con el esquema de los delitos dolosos de resultado (homicidio, art. 79 CP). Primer
+estamento: la acción. La doctrina mayoritaria la define como "movimiento corporal que depende de la voluntad".
+Roxin expone su "concepto personal de acción" como "manifestación de la personalidad", excluyendo fuerza física
+irresistible, estados de inconsciencia absoluta y actos reflejos, y los meros pensamientos. Frister mantiene la
+acción como primer filtro y base de la tipicidad ("movimiento corporal que depende de la voluntad"). Jakobs, que
+entiende el delito como quebrantamiento de expectativas normativas, construye el concepto de "evitabilidad":
+conducta es "la evitabilidad de una diferencia de resultado". Todos coinciden en que se requiere conducta humana
+y excluyen lo no guiable por la voluntad. En el caso, A disparó conscientemente: hay acción jurídico-penal.
+
+Tipicidad. Se inicia por la faz objetiva. Delito doloso de resultado: por la teoría de la equivalencia de las
+condiciones (condicio sine qua non), si se suprime mentalmente la acción de A, desaparece la muerte de B: hay
+relación de causalidad. Pero la causalidad es necesaria, no suficiente. Roxin: "un resultado causado por el
+agente solo se puede imputar al tipo objetivo si la conducta del autor ha creado un peligro para el bien jurídico
+no cubierto por un riesgo permitido y ese peligro también se ha realizado en el resultado concreto"; está excluida
+la imputación si el resultado no es plasmación de ese peligro sino de un curso causal imprevisible. Frister: "un
+riesgo jurídicamente reprobado se ha realizado en el resultado solo si la acción es jurídicamente reprobada
+precisamente por su aptitud para producir el resultado de la forma en que ocurrió". Jakobs: un riesgo no permitido
+se realiza cuando para aclarar el daño se necesitan todos los datos de los que se deriva lo no permitido del riesgo.
+
+A creó un riesgo no permitido al disparar. Pero hay incongruencia entre acción y resultado: el riesgo del disparo
+no se verifica en el resultado (muerte por arrollamiento de caballos), producto de un desvío esencial e imprevisible
+del curso causal. Según Frister, queda excluido por riesgo irrelevante; según Roxin, cae la imputación objetiva por
+exceder el fin de protección de la norma (el resultado "muerte por arrollamiento" no se corresponde con el riesgo que
+la norma quiso evitar). La conducta de A tiene disvalor de acción pero no de resultado: no se afirma el injusto
+consumado. Debe analizarse la tentativa.
+
+III.B. De la tentativa.
+La tentativa requiere que falte algún elemento del tipo objetivo. Art. 42 CP: "El que con el fin de cometer un delito
+determinado comienza su ejecución, pero no lo consuma por circunstancias ajenas a su voluntad...". El iter criminis:
+ideación (impune, art. 19 CN), preparación (por regla impune), ejecución (comienza la punibilidad), consumación. A se
+decidió (ideación), consiguió arma y munición y apuntó (preparación), accionó el gatillo con intención de matar
+(ejecución). Como el resultado no se concretó por circunstancia ajena a su voluntad e hizo todo lo necesario: tentativa
+acabada e idónea. El tipo subjetivo está completo (dolo directo); solo falta completar el objetivo. Superados
+antijuridicidad (no hay causa de justificación) y culpabilidad (no hay causal de exculpación), A es autor de un injusto
+penal culpable, en grado de tentativa.
+
+IV. Conclusión.
+A es penalmente responsable de homicidio en grado de tentativa en perjuicio de B (arts. 79, 42 y 44 CP). El caso no
+supera la imputación objetiva del delito doloso consumado (el riesgo creado no se realizó en el resultado), pero sí
+constituye tentativa.
+
+V. Bibliografía.
+Donna, E. A. (2008/2010). Derecho Penal. Parte General, T. II y VI. Santa Fe: Rubinzal-Culzoni.
+Frister, H. (2016). Derecho penal. Parte General. Buenos Aires: Hammurabi.
+Jakobs, G. (1997). Derecho Penal. Parte General. Fundamentos y Teoría de la Imputación. Madrid: Marcial Pons.
+Roxin, C. (1997/2003). Derecho Penal. Parte General, Tomo I. Madrid: Civitas. // Desviación del curso causal y "dolus generalis". Buenos Aires: Hammurabi.
+Silva Sánchez, J. M. (2025). Derecho Penal - Parte General. Madrid: Civitas.
+Stratenwerth, G. (2005). Derecho Penal. Parte General I. El hecho punible. Buenos Aires: Hammurabi.
+
+[Nota de archivo: transcripción condensada del trabajo final entregado por Iván Nikiel para el Caso V. Modelo de
+estructura y razonamiento. ATENCIÓN: este trabajo compara varios autores; las pautas vigentes exigen usar UNA sola
+línea doctrinal. Úsese como modelo de estructura, no de estilo multi-autor.]

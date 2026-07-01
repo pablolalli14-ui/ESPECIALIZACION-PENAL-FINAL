@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "id": "caso-06",
+    "numero": "VI",
+    "titulo": "Apuñalamiento, creencia de muerte, arrojado al río y muerte por ahogamiento",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": true
+  },
+  "enunciado": "A apuñala a su enemigo B en venganza. Creyendo muerto a B, que sólo estaba herido, lo arroja al río para borrar las huellas del supuesto homicidio. B cae al río, donde C, que pasaba en un bote, se acerca, comprueba que estaba herido y se aleja. B muere ahogado.",
+  "sujetos": [
+    { "nombre": "A", "rol": "activo", "notas": "Apuñala a B con dolo homicida; lo cree muerto y lo arroja al río, donde B muere ahogado." },
+    { "nombre": "B", "rol": "pasivo", "notas": "Sólo herido tras el apuñalamiento; muere ahogado al ser arrojado al río." },
+    { "nombre": "C", "rol": "tercero", "notas": "Botero que se acerca, comprueba que B está herido y se aleja sin auxiliarlo." }
+  ],
+  "institutos_dogmaticos": [
+    "dolus generalis",
+    "desviación del curso causal",
+    "dolo directo vs. dolo eventual",
+    "imputación objetiva",
+    "previsibilidad del segundo curso causal",
+    "comisión por omisión / posición de garante",
+    "omisión de auxilio (art. 108 CP)"
+  ],
+  "problema_central": "En A hay un dolus generalis: quería matar con el apuñalamiento, pero la muerte se produce por un segundo acto (arrojar al río) ejecutado creyendo ya consumado el delito. Debe determinarse si el error sobre el curso causal excluye el homicidio doloso consumado o si, por ser el segundo curso previsible y no haberse revocado el plan homicida, se imputa homicidio consumado. En C se plantea si su conducta (alejarse sin auxiliar) es omisión de auxilio (art. 108) o comisión por omisión con posición de garante.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": ["resoluciones/francisco-arias.txt"],
+  "notas": "Enunciado transcripto del trabajo-modelo (Francisco Arias); verificar contra el original de la cátedra si aparece. Variante del dolus generalis distinta del Caso VII (allí el tercero mata; aquí el tercero se aleja y la víctima se ahoga)."
+}

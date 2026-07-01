@@ -1,0 +1,193 @@
+Trabajo Final Agustina PUÑAL
+
+Carrera de Especialización en Derecho Penal
+
+Caso VIII: A es atacado por B con un cuchillo. A se defiende a su vez con un cuchillo y causa a su agresor una herida que le afecta el pulmón. Dada la situación, A no tenía por qué haberlo hecho, ya que la débil constitución del otro y las circunstancias de la agresión en un lugar público, le habrían permitido deshacerse del agresor de un puñetazo. Sin embargo, A no sabía esos datos y creyó que B era un peligroso asesino.
+
+Sumario.
+
+I. Introducción. II. Planteo del problema. III Solución dogmática. III.a) Acción. III.b) Tipicidad. III.c) Antijuridicidad. III.c).1. Agresión ilegítima. III.c).2 Necesidad racional del medio empleado para impedirla o repelerla. III.c).3. Falta de provocación suficiente. III.c).4. Aspecto subjetivo. III.d) Aclaración. IV. Conclusiones. V. Bibliografía.
+
+Introducción.
+
+La solución dogmática del presente caso nos convoca a reflexionar acerca de los requisitos y alcances de una de las causas de justificación previstas en nuestro ordenamiento jurídico. En las próximas páginas analizaré si el tipo delictivo de lesiones cometido por A en contra de B, está justificado en los términos de la legítima defensa regulada en el Artículo 34 Inciso 6° del Código Penal.
+
+Planteo del problema.
+
+El punto conflictivo del caso bajo análisis está dado en el ámbito de la antijuridicidad, con relación a la necesidad y racionalidad del medio empleado por A para repeler la agresión de B, en el marco de una aparente situación de legítima defensa. Ello, en la medida en que, según surge de la situación fáctica planteada, A podría haberse valido de un medio menos lesivo para defenderse.
+
+Solución dogmática.
+
+III.a) Acción.
+
+Conforme se expresa en el caso: A, al ser atacado por B, hirió a éste con un cuchillo con clara intención de proteger su integridad corporal y salud. No hay lugar a dudas de que A realizó una acción en tanto elemento base de la teoría del delito.
+
+Hay conducta en la medida en que se verifica un comportamiento humano que está dirigido por la voluntad y encaminado hacia la concreción de un resultado. A direccionó su conducta hacia un objetivo (defenderse), seleccionó el medio (cuchillo) y previó los efectos de su accionar (herir al atacante).
+
+No se verifica ninguna causa de exclusión de la acción, a saber: su accionar no fue consecuencia de un acto reflejo, de un estado de completa inconsciencia como así tampoco obró violentado con fuerza física irresistible.
+
+III.b) Tipicidad.
+
+Tipo objetivo.
+
+La acción de A se subsume en el tipo penal de lesiones, en principio, de las previstas en el Artículo 89 del Código Penal. A hirió a B con un cuchillo causándole una herida que le afectó el pulmón, perturbando de ese modo su integridad corporal y salud, protegida por la norma.
+
+Existe un nexo de causalidad entre la conducta de A y el resultado lesivo (lesiones sufridas por B). La acción de A creó un riesgo no permitido sobre el bien jurídico protegido y dicho riesgo se vio materializado en el resultado típico.
+
+Tipo subjetivo.
+
+A obró con dolo, es decir, con conocimiento y voluntad de realización del tipo penal referido en el párrafo precedente. Tuvo conocimiento actual y efectivo de los elementos objetivos previstos en el tipo, sabía que estaba clavando su cuchillo a B y que de esa forma lo lesionaría.
+
+La conducta de A es típica en tanto y en cuanto existe una coincidencia entre el tipo objetivo y subjetivo.
+
+III.c) Antijuridicidad.
+
+Hasta aquí se constató que la acción de A se subsume efectivamente en el tipo penal de lesiones, resta establecer ahora bajo este estrato de la Teoría del Delito si concurre alguna causa de justificación que excluya la antijuridicidad de su conducta típica o, lo que es lo mismo, permita la acción contraria a derecho en el caso concreto.
+
+Al respecto, el Dr. SANCINETTI refiere que "En el plano de la antijuridicidad –en el sentido de que la acción sea contraria a derecho-, sólo resta comprobar si, excepcionalmente, concurre una norma permisiva ("causa de justificación") que neutralice el carácter antijurídico de la acción ya adecuada a un tipo…. El análisis de la antijuridicidad se agota así en un procedimiento puramente negativo: comprobar que el hecho típico no esté justificado"[1](#footnote1)
+
+La causa de justificación que en el caso podría amparar la conducta de A, es la legítima defensa prevista en el Artículo 34 Inciso 6° del Código Penal.
+
+Dicho precepto legal estable que no son punibles "6º. El que obrare en defensa propia o de sus derechos, siempre que concurrieren las siguientes circunstancias:
+
+a) Agresión ilegítima;
+
+b) Necesidad racional del medio empleado para impedirla o repelerla;
+
+c) Falta de provocación suficiente por parte del que se defiende…".
+
+Para que el autor del tipo haya obrado en legítima defensa deben darse los elementos constitutivos de la legítima defensa, establecidos en las letras a), b) y c) del inciso transcripto, como así también estar presente el aspecto subjetivo de justificación.
+
+"De acuerdo con la actualmente casi unánime opinión, la estructura de las causas de justificación es similar a la del tipo en sentido restringido. Por eso aquellas, en tanto normas permisivas, contienen no sólo elementos objetivos de la justificación, sino también un elemento subjetivo de la justificación"[2](#footnote2).
+
+III.c).1. Agresión ilegítima: brevemente se puede afirmar que una agresión ilegítima consiste en una conducta humana, antijurídica y actual.
+
+La agresión debe proceder de otra persona, no siendo aplicable la justificación por legítima defensa a los ataques de animales. Excepto, claro está, que estos últimos sean utilizados como instrumentos por otra persona. "Debe entenderse por agresión la amenaza que proviene de un comportamiento humano para un bien jurídico individual protegido por el derecho"[3](#footnote3).
+
+Asimismo, la agresión debe ser ilegítima, es decir, contraria al ordenamiento jurídico. El agresor debe actuar antijurídicamente. Falta este elemento, por ejemplo, cuando la agresión está cubierta por una causa de justificación.
+
+Finalmente, el ataque tiene que ser actual, es decir, "inminente o aún subsistente"[4](#footnote4). Al respecto, el Dr. Edgardo DONNA refiere "esto no implica que el sujeto agredido deba esperar a ser atacado para defenderse, ya que la ley argentina permite la defensa no sólo frente a la agresión que ha comenzado sino que abarca la última etapa de la preparación, situación permitida por la ley al permitir la defensa tanto para 'impedirla, como para repelerla'"[5](#footnote5).
+
+En el caso bajo análisis se verifica, sin ningún lugar a dudas, una agresión ilegítima de B hacia A consistente en atacarlo con un cuchillo.
+
+III.c).2 Necesidad racional del medio empleado para impedirla o repelerla.
+
+En la medida en que existe objetivamente en el caso una agresión ilegítima y actual realizada por B, la defensa por parte de A resulta necesaria a los fines de proteger su integridad física. Ahora bien, no cualquier defensa ejercida por A será admitida como racional, sino únicamente aquella que reúna ciertos caracteres.
+
+Idoneidad. La medida defensiva debe ser idónea. Esto significa que el medio utilizado debe ser capaz de detener la agresión u obstaculizarla. Horacio DÍAS aclara sobre esto último que "un obstáculo suficiente puede consistir en un debilitamiento de la agresión o en el retraso temporal de la producción del resultado"[6](#footnote6). Este requisito se verifica en el caso, en la medida en que el cuchillo utilizado por A en su defensa hizo cesar el ataque de B.
+
+Medio menos lesivo. Asimismo, se exige que el medio defensivo sea el más benigno de los que el autor tenía a disposición. En reglas generales se sostiene que si hay varias posibilidades o medios de defensa en una situación fáctica concreta, se tendrá que elegir aquella que genere la menor lesión al agresor.
+
+Sin ningún lugar a dudas y tal como se afirmó al comienzo de este trabajo, el punto conflictivo del caso se presenta con relación al medio escogido por A para repeler la agresión de B. Ello, en la medida en que se afirma que "la débil constitución del otro y las circunstancias de la agresión en un lugar público, le habrían permitido deshacerse del agresor de un puñetazo", es decir, A habría tenido un medio menos lesivo a su alcance. Resulta del caso traer a colación el ejemplo típico que la doctrina utiliza al analizar este carácter, esto es: cuando basta el puñetazo, no está permitido el uso de un arma[7](#footnote7).
+
+Ahora bien, lo que se debe resolver en el caso, es cómo valorar el medio defensivo seleccionado por A sin caer en soluciones por demás injustas. Es decir, se debe evaluar dicha elección desde una perspectiva ex ante poniéndonos en la posición de A en el momento del hecho y según aquellas circunstancias que el autor conocía; o, por el contrario, verificar su elección ex post, tomando en cuenta todos los datos conocidos posteriormente, como ser que un puñetazo hubiese bastado para evitarlo.
+
+Como punto de partida podemos afirmar, en consonancia con WESSELS, BEULKE y SATZGER que "La necesidad de la defensa (idoneidad y elección del medio más benigno) tiene que determinarse por la vía de una consideración objetiva ex ante. Resulta relevante como un tercero sensato hubiera valorado las circunstancias reconocibles existente y objetivas en el lugar del agredido al momento de la agresión"[8](#footnote8).
+
+Por su parte y en ese mismo sentido, Harro OTTO sostiene que "la medida de la defensa necesaria se determina sobre la base de un juicio objetivo ex ante según la totalidad de las circunstancias bajo las cuales se desarrollan la agresión y la defensa. Deben tenerse en consideración la intensidad y el peligro de la agresión, las posibilidades de defensa del agredido, así como también las consecuencias –y las consecuencias accesorias indeseadas- de la defensa"[9](#footnote9).
+
+En razón de lo precedentemente expuesto, se debe afirmar que no basta con que en el caso se afirme que la débil constitución del otro y las circunstancias de la agresión en un lugar público, le habrían permitido deshacerse del agresor de un puñetazo, pues esos son datos que surgen ex post. La ponderación que debemos hacer respecto al medio escogido por A para defenderse debe hacerse desde una perspectiva ex ante según la vivencia personal de A y tomando en consideración una multiplicidad de factores como ser: la actualidad, intensidad y peligro del ataque ejercido por B en su contra (un desconocido lo estaba atacando con un arma: cuchillo), el riesgo directo que ello significa (peligro cierto para su integridad corporal y salud), el convencimiento de que B era un perfecto asesino, entre otras.
+
+El Dr. DE LA FUENTE en su obra El aspecto subjetivo de las causas de justificación realiza un análisis pormenorizado con respecto a la utilización del criterio ex ante - ex post para la ponderación de los elementos de las causas de justificación. El autor propugna un criterio ex post como regla general de valoración. Sin perjuicio de lo cual, advierte que "Este principio general sufre algunas excepciones, con relación a ciertos elementos objetivos de justificación que exigen un determinado "pronóstico" o "cálculo" por parte del autor. Se trata de elementos que llevan implícita la idea de "peligro" y reclaman un juicio de "previsibilidad". En estos casos, para constatar la existencia o no de dichos elementos, el juez debe efectuar un juicio objetivo ex ante"[10](#footnote10).
+
+Dichos elementos de la agresión en la legítima defensa serán aquellos que dependan de la valoración que la persona que se defiende realice en el momento preciso del ataque según su vivencia personal y que deberán ser evaluados por un criterio ex ante por quien pretenda validar en el caso la legítima defensa, esto es, analizar si el temperamento adoptado/ medio elegido por A en las circunstancias concretas en las que se encontraba fue el que una persona razonable hubiera observado en la misma situación.
+
+Específicamente DE LA FUENTE ejemplifica "Así, en la legítima defensa, la agresión ilegítima debe existir en la realidad y ser comprobada ex post, pero para determinar su intensidad, su verdadera dimensión, o su inminencia, a los efectos de decidir si el medio era o no racionalmente necesario, el juez debe utilizar un criterio ex ante"[11](#footnote11).
+
+En nuestro caso, de acuerdo a un criterio de valoración ex ante, corresponderá analizar si la defensa ejercida y el medio seleccionado por A en las circunstancias concretas en las que se encontraban fue la que una persona razonable hubiera observado en la misma situación.
+
+En igual sentido, el Dr. DÍAS precisa que "mientras la agresión ilegítima ha de ser objetiva en el sentido de real, por lo que su existencia se determina ex post, opuestamente la idoneidad de la defensa y la racionalidad del medio empleado para impedir o repeler la agresión son siempre subjetivas, pues se determinan ex ante, debiendo colocarse el juez en la posición del que se defendió y en las concretas circunstancias en las cuales tuvo que actuar. No resulta válido, desde la tranquilidad de un despacho judicial, afirmar que el atacado debió haber hecho esto o lo otro; hay que ponerse en su lugar, como se dijo, y en las circunstancias que le tocó actuar."[12](#footnote12)
+
+Lo dicho significa que hay ciertos elementos que dependen de la percepción que el autor haya tenido en el momento de la agresión y por ello debemos trasladarnos a ese momento anterior para analizarlos. "…la agresión ilegítima debe ser apreciada ex post, ya que es un dato objetivo. Decidida esta cuestión lo único que queda por analizar ex ante es la forma de encarar la defensa, ya que ello pertenece al ámbito del autor, esto es, al medio elegido y en consecuencia a la racionalidad del medio elegido"[13](#footnote13)
+
+No quiero terminar el análisis sin hacer referencia al caso dado por MIR PUIG y citado por DE LA FUENTE en su obra, en razón de la similitud que plantea en cuanto a los medios empleados con el caso de análisis, según el cual: "la defensa será racionalmente necesaria cuando la mujer clavó el cuchillo al ladrón que había forzado la puerta y se abalanzaba sobre ella con una navaja, aunque luego se compruebe que había en el lugar un jarro con el que hubiera podido golpearse al intruso sin producirle la muerte. La urgencia del momento no permite esperar un examen frío de todas las posibilidades"[14](#footnote14). En nuestro caso, A utilizó un cuchillo cuando luego se afirma que hubiera bastado darle un puñetazo.
+
+Por lo hasta aquí expuesto, podemos afirmar desde una perspectiva ex ante, que la defensa ejercida por A en la situación de hecho en la que se encontraba y el medio defensivo seleccionado a tal fin, es la que cualquier persona razonable hubiese observado. En razón de ello, se afirma que el medio utilizado para repeler la agresión fue totalmente necesario y racional.
+
+Otras circunstancias:
+
+Se menciona en el caso que A se encontraba en un lugar público, lo que podría sugerir que podría haber evitado la agresión huyendo. No obstante, es indiscutible que en el marco situacional planteado no se le puede exigir al autor que evada el ataque de B. En palabras de WESSELS, BEULKE y SATZGER "La necesidad no fracasa cuando el agredido tiene la posibilidad de evadir el ataque mediante la huida. De acuerdo con el principio de preservación del derecho, que subyace a la legítima defensa, el derecho no tiene que ceder frente al injusto; quien actúa en legítima defensa actúa al mismo tiempo en pro de la perduración del ordenamiento jurídico"[15](#footnote15).
+
+III.c).3. Falta de provocación suficiente.
+
+En el caso A no provoca a B a que realice su agresión, para poder dañarlo luego bajo la protección de la legítima defensa[16](#footnote16).
+
+III.c).4. Aspecto subjetivo.
+
+Bajo este título corresponde analizar, por un lado, si A conocía los elementos objetivos en que se funda la permisión (reconocer la situación de legítima defensa) y, por el otro, si actuó con voluntad de defenderse (actuar con la intención de frenar la agresión de B y preservar su integridad corporal y salud).
+
+Al respecto, el Dr. DÍAS sostiene "Se exige que se actúe en defensa, el requisito es el de la "actuación en defensa", y por tanto es correcta la exigencia de finalidad o voluntad defensiva. Por ello, obrar en defensa puede perfectamente entenderse como obrar defendiéndose en una situación de defensa que debe ser conocida para que haya plena justificación. El sujeto ha de conocer la situación de defensa, saber que se está defendiendo; o sea, sabe que está actuando en defensa y por tanto quiere defenderse. La voluntad defensiva acompaña forzosamente al conocimiento de la voluntad defensiva, el cual debe concurrir para que exista plena justificación"[17](#footnote17).
+
+"El elemento subjetivo de justificación debe ser entendido como la decisión consciente y voluntaria del autor a favor del bien jurídico tutelado por la causa de justificación, lo que supone el conocimiento o la asunción de la real concurrencia de los elementos objetivos correspondientes y, además, que el autor tome postura a favor del bien jurídico involucrado, es decir que dirija su conducta finalmente hacia la protección de dicho bien jurídico. En la legítima defensa, el autor debe haberse decidido a favor de la defensa del bien jurídico propio o de un tercero…"[18](#footnote18)
+
+En el caso se deduce que A reconoció la situación de legítima defensa y lesionó a B con el fin de frenar su ataque y, de este modo, preservarse.
+
+III).d. Aclaración.
+
+Considero pertinente destacar que, habiéndose afirmado la necesidad racional del medio empleado por A, se descarta la aplicación del exceso de justificación regulado en el Artículo 35 del Código Penal, el que sí sería aplicable en el hipotético caso en que A hubiese errado en el medio seleccionado para impedir o repeler el ataque, utilizando un medio irracional.
+
+Por otra parte, tampoco se verifica en el caso un supuesto de error de justificación –al suponer A la presencia de los elementos de justificación que en verdad no existían- y que, de concurrir debieran ser analizados bajo la teoría del error.
+
+Conclusiones.
+
+Al inicio del presente trabajo consideré que el punto conflictivo del caso bajo análisis estaba dado con relación a la necesidad y racionalidad del medio empleado por A para repeler la agresión de B, en el marco de una aparente situación de legítima defensa, en razón de que se afirmaba que A podía haberse valido de un medio menos lesivo.
+
+Al respecto, cabe concluir que si bien el caso plantea que la débil constitución de B y las circunstancias de la agresión en un lugar público, le habrían permitido a A deshacerse del agresor de un puñetazo, la valoración respecto al medio escogido por A para defenderse, se debe realizar con un criterio ex ante. En este sentido, se deben tomar en consideración su vivencia personal y las circunstancias concretas en las que se hallaba al momento mismo del ataque, observando una multiplicidad de factores.
+
+En razón de ello, corresponde afirmar que el medio elegido por A en las circunstancias concretas planteadas en el caso fue el que una persona razonable hubiera observado en la misma situación; y, en este sentido, el uso del cuchillo resultó necesario desde una consideración ex ante.
+
+Por lo hasta aquí expuesto, habiéndose verificado en el caso la concurrencia de todos los elementos de la legítima defensa previstos en el Artículo 34 Inciso 6º del Código Penal (agresión ilegitima, necesidad racional del medio empleado para impedirla o repelerla y falta de provocación suficiente por parte de A), como así también el aspecto subjetivo de la eximente (conocimiento de la situación de legítima defensa y voluntad defensiva) se verifica que la conducta típica de A es jurídica en tanto se aplica en el caso la causa de justificación referida. Por consiguiente, A no es punible.
+
+Bibliografía.
+
+DE LA FUENTE, Javier Esteban, El aspecto subjetivo de las causas de justificación, Rubinzal-Culzoni, 1a ed., Santa Fe, 2021
+
+DÍAS Horacio Leonardo, Código Penal de la Nación Argentina comentado: parte general, Rubinzal-Culzoni, 1ª ed. revisada, Santa Fe, 2018
+
+DONNA, Edgardo Alberto, Derecho Penal: parte general: tomo III, Rubinzal-Culzoni, Santa Fe, 2008
+
+OTTO, Harro, Manual de Derecho Penal. Teoría General del Derecho Penal, trad. de la 7º ed. alemana reelaborada por José R. BEGUELÍN, Atelier, Barcelona, 2017.
+
+ROXIN, Claus, Derecho Penal. Parte General. Tomo I, trad. de la 2º ed. alemana por Diego M. LUZÓN PEÑA, Miguel DÍAZ Y GARCÍA CONLLEDO y Javier DE VICENTE REMESAL, Civitas Ediciones, Madrid, 1997.
+
+SANCINETTI, Marcelo A., Casos de Derecho Penal, 3º ed, Hammurabi, Buenos Aires, 2016.
+
+STRATENWERTH, Günter, Derecho Penal. Parte General I. El hecho punible, trad. de la 4ª ed. alemana por Manuel CANCIO MELIÁ y Marcelo A. SANCINETTI, Hammurabi, Buenos Aires, 2005.
+
+WESSELS Johannes, BEULKE Werner y SATZGER Helmut, Derecho Penal. Parte General. El delito y su estructura, trad. de la 46ª ed. alemana por Raúl PARIONA ARANA, Instituto Pacífico, Breña, 2018.
+
+1 SANCINETTI, Marcelo a., Casos de Derecho Penal, 3º ed, Hammurabi, Buenos Aires, 2016, p. 244
+
+2 WESSELS Johannes, BEULKE Werner y SATZGER Helmut, Derecho Penal. Parte General. El delito y su estructura, Instituto Pacífico, trad. de la 46ª ed. alemana por Raúl PARIONA ARANA, Breña, 2018, p. 173
+
+3 STRATENWERTH, Günter, Derecho Penal. Parte General I. El hecho punible, trad. de la 4ª ed. alemana por Manuel CANCIO MELIÁ y Marcelo A. SANCINETTI, Buenos Aires, Hammurabi, 2005, p. 229
+
+4 STRATENWERTH, ob. cit., p. 230
+
+5 DONNA, Edgardo Alberto, Derecho Penal: parte general: tomo III, Rubinzal-Culzoni, Santa Fe, 2008, p. 177
+
+6 DÍAS Horacio Leonardo, Código Penal de la Nación Argentina comentado: parte general, Rubinzal-Culzoni, 1ª ed. revisada, Santa Fe, 2018, p. 217
+
+7 STRATENWERTH, ob. cit., p. 235; ROXIN, Claus, Derecho Penal. Parte General. Tomo I, trad. de la 2º ed. alemana por Diego M. LUZÓN PEÑA, Miguel DÍAZ Y GARCÍA CONLLEDO y Javier DE VICENTE REMESAL, Civitas Ediciones, Madrid, 1997, p. 629
+
+8 WESSELS, BEULKE y SATZGER, ob. cit., p. 218
+
+9 OTTO, Harro, Manual de Derecho Penal. Teoría General del Derecho Penal, trad. de la 7º ed. alemana reelaborada por José R. BEGUELÍN, Atelier, Barcelona, 2017, p. 183
+
+10 DE LA FUENTE, Javier Esteban, El aspecto subjetivo de las causas de justificación, Rubinzal-Culzoni, 1a ed., Santa Fe, 2021, ps. 240 y 241
+
+11 DE LA FUENTE, ob. cit., p. 241
+
+12 DÍAS, ob. cit., p. 317
+
+13 DONNA, ob. cit., ps. 200 y 201
+
+14 DE LA FUENTE, ob. cit., p. 219
+
+15 WESSELS, BEULKE y SATZGER, ob. cit, p. 220
+
+16 En términos de ROXIN, ob.cit., p. 639.
+
+17 DÍAS, ob. cit., p. 318
+
+18 DE LA FUENTE, ob. cit., ps. 470 y 471

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "id": "caso-12",
+    "numero": "XII",
+    "titulo": "Muñeco vudú y muerte por infarto: tentativa supersticiosa",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": true
+  },
+  "enunciado": "Pedro quiere matar a su enemigo Emilio mediante exorcismos. Compra un muñeco, le pone una foto de Emilio y lo atraviesa con alfileres. Recurre además a Jorge, que hace trabajos mágicos. Tiempo después Emilio, que era enfermo cardíaco, fallece de un infarto. Emilio nunca se entera de las acciones de Pedro y Jorge.",
+  "sujetos": [
+    { "nombre": "Pedro", "rol": "activo", "notas": "Intenta matar a Emilio con un muñeco vudú y alfileres; recurre a Jorge." },
+    { "nombre": "Jorge", "rol": "activo", "notas": "Realiza 'trabajos mágicos' a pedido de Pedro." },
+    { "nombre": "Emilio", "rol": "pasivo", "notas": "Enfermo cardíaco; muere de un infarto sin enterarse de las acciones." }
+  ],
+  "institutos_dogmaticos": [
+    "tentativa supersticiosa / irreal",
+    "tentativa inidónea",
+    "imputación objetiva",
+    "creación de un riesgo jurídicamente relevante",
+    "relación causal (ausencia de ley causal)",
+    "dominabilidad del acontecer"
+  ],
+  "problema_central": "Debe determinarse si las conductas mágicas de Pedro y Jorge tienen alguna relación causal o de imputación con la muerte de Emilio (que muere de un infarto por su cardiopatía). Al no existir ley causal que vincule los actos mágicos con el resultado, no se crea un riesgo jurídicamente relevante: se trata de una tentativa supersticiosa o irreal, impune.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": ["resoluciones/sofia-woszezenczuk.txt"],
+  "notas": "Trabajo-modelo (Sofía Woszezenczuk) resuelve con imputación objetiva de Otto: tentativa supersticiosa impune. Enunciado transcripto del trabajo-modelo."
+}

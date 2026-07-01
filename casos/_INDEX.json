@@ -1,0 +1,494 @@
+{
+ "generated": "2026-07-01",
+ "n_casos": 14,
+ "n_con_modelo": 7,
+ "casos": [
+  {
+   "id": "caso-01",
+   "numero": "I",
+   "titulo": "Conductor distraído, perro suelto y dueño atropellado",
+   "institutos_dogmaticos": [
+    "imputación objetiva",
+    "creación de un riesgo no permitido",
+    "riesgo permitido",
+    "autopuesta en peligro / conducta de la víctima",
+    "fin de protección de la norma",
+    "delito imprudente"
+   ],
+   "tiene_modelo": false,
+   "articulos_indicados": [],
+   "resoluciones": [],
+   "path": "casos/caso-01/caso.json"
+  },
+  {
+   "id": "caso-04",
+   "numero": "IV",
+   "titulo": "Ataque al gobernador y muerte del servidor que se interpone",
+   "institutos_dogmaticos": [
+    "error en el objeto / error in persona",
+    "aberratio ictus",
+    "desviación del curso causal",
+    "dolo",
+    "tentativa",
+    "interposición de un tercero"
+   ],
+   "tiene_modelo": true,
+   "articulos_indicados": [],
+   "resoluciones": [
+    "resoluciones/modelo-aberratio-ictus.txt"
+   ],
+   "path": "casos/caso-04/caso.json"
+  },
+  {
+   "id": "caso-05",
+   "numero": "V",
+   "titulo": "Disparo fallido y muerte por caballos espantados",
+   "institutos_dogmaticos": [
+    "desviación del curso causal",
+    "imputación objetiva",
+    "realización del riesgo no permitido en el resultado",
+    "fin de protección de la norma",
+    "tentativa acabada",
+    "dolo"
+   ],
+   "tiene_modelo": true,
+   "articulos_indicados": [],
+   "resoluciones": [
+    "resoluciones/nikiel.txt"
+   ],
+   "path": "casos/caso-05/caso.json"
+  },
+  {
+   "id": "caso-06",
+   "numero": "VI",
+   "titulo": "Apuñalamiento, creencia de muerte, arrojado al río y muerte por ahogamiento",
+   "institutos_dogmaticos": [
+    "dolus generalis",
+    "desviación del curso causal",
+    "dolo directo vs. dolo eventual",
+    "imputación objetiva",
+    "previsibilidad del segundo curso causal",
+    "comisión por omisión / posición de garante",
+    "omisión de auxilio (art. 108 CP)"
+   ],
+   "tiene_modelo": true,
+   "articulos_indicados": [],
+   "resoluciones": [
+    "resoluciones/francisco-arias.txt"
+   ],
+   "path": "casos/caso-06/caso.json"
+  },
+  {
+   "id": "caso-07",
+   "numero": "VII",
+   "titulo": "Apuñalamiento, creencia de muerte y tercero que remata en el río",
+   "institutos_dogmaticos": [
+    "dolus generalis",
+    "desviación del curso causal",
+    "consumación anticipada / retrasada",
+    "imputación objetiva",
+    "interrupción del nexo por conducta de un tercero (prohibición de regreso)",
+    "tentativa",
+    "error sobre presupuestos de una causa de justificación (en C)"
+   ],
+   "tiene_modelo": false,
+   "articulos_indicados": [],
+   "resoluciones": [],
+   "path": "casos/caso-07/caso.json"
+  },
+  {
+   "id": "caso-08",
+   "numero": "VIII",
+   "titulo": "Defensa con cuchillo cuando bastaba un puñetazo; error sobre la peligrosidad del agresor",
+   "institutos_dogmaticos": [
+    "legítima defensa (art. 34 inc. 6 CP)",
+    "agresión ilegítima",
+    "necesidad racional del medio empleado",
+    "juicio ex ante vs. ex post",
+    "elemento subjetivo de justificación (voluntad de defensa)",
+    "error sobre presupuestos de la justificación"
+   ],
+   "tiene_modelo": true,
+   "articulos_indicados": [],
+   "resoluciones": [
+    "resoluciones/agustina.txt",
+    "resoluciones/trabajo-final-uba.txt"
+   ],
+   "path": "casos/caso-08/caso.json"
+  },
+  {
+   "id": "caso-09",
+   "numero": "IX",
+   "titulo": "Celopatía y homicidio del cónyuge por noticia falsa de infidelidad",
+   "institutos_dogmaticos": [
+    "imputabilidad / capacidad de culpabilidad (art. 34 inc. 1 CP)",
+    "insuficiencia o alteración morbosa de las facultades",
+    "homicidio agravado por el vínculo (art. 80 inc. 1 CP)",
+    "emoción violenta",
+    "error sobre un presupuesto fáctico",
+    "culpabilidad"
+   ],
+   "tiene_modelo": false,
+   "articulos_indicados": [
+    "34 inc. 1 CP",
+    "80 inc. 1 CP"
+   ],
+   "resoluciones": [],
+   "path": "casos/caso-09/caso.json"
+  },
+  {
+   "id": "caso-10",
+   "numero": "X",
+   "titulo": "Defensa frente al agresor, golpe mortal tras cesar la agresión y ocultamiento del cadáver",
+   "institutos_dogmaticos": [
+    "legítima defensa (art. 34 inc. 6 CP)",
+    "actualidad de la agresión",
+    "necesidad racional del medio empleado",
+    "exceso en la legítima defensa (art. 35 CP)",
+    "error de prohibición al revés / delito putativo",
+    "antijuridicidad putativa"
+   ],
+   "tiene_modelo": false,
+   "articulos_indicados": [],
+   "resoluciones": [],
+   "path": "casos/caso-10/caso.json"
+  },
+  {
+   "id": "caso-11",
+   "numero": "XI",
+   "titulo": "Disparos contra el asiento del coche cuando la víctima ya se había ido",
+   "institutos_dogmaticos": [
+    "tentativa",
+    "tentativa inidónea",
+    "delito imposible por falta de objeto",
+    "tentativa idónea vs. inidónea (juicio ex ante)",
+    "dolo",
+    "peligrosidad de la acción"
+   ],
+   "tiene_modelo": false,
+   "articulos_indicados": [],
+   "resoluciones": [],
+   "path": "casos/caso-11/caso.json"
+  },
+  {
+   "id": "caso-12",
+   "numero": "XII",
+   "titulo": "Muñeco vudú y muerte por infarto: tentativa supersticiosa",
+   "institutos_dogmaticos": [
+    "tentativa supersticiosa / irreal",
+    "tentativa inidónea",
+    "imputación objetiva",
+    "creación de un riesgo jurídicamente relevante",
+    "relación causal (ausencia de ley causal)",
+    "dominabilidad del acontecer"
+   ],
+   "tiene_modelo": true,
+   "articulos_indicados": [],
+   "resoluciones": [
+    "resoluciones/sofia-woszezenczuk.txt"
+   ],
+   "path": "casos/caso-12/caso.json"
+  },
+  {
+   "id": "caso-2021-1",
+   "numero": "1-2021",
+   "titulo": "Werther: incendio piadoso de la casa, hijos que desisten y suspensión del tratamiento",
+   "institutos_dogmaticos": [
+    "autoría y participación (coautoría, complicidad)",
+    "desistimiento de la tentativa",
+    "homicidio a petición / consentimiento de la víctima",
+    "móviles y ánimo del interviniente",
+    "aportes neutrales / prohibición de regreso (Josef)",
+    "causalidad y cursos causales concurrentes",
+    "eutanasia pasiva / omisión y suspensión de tratamiento (Dr. Dorn)",
+    "imputación del resultado (cáncer + quemaduras)"
+   ],
+   "tiene_modelo": false,
+   "articulos_indicados": [],
+   "resoluciones": [],
+   "path": "casos/caso-2021-1/caso.json"
+  },
+  {
+   "id": "caso-2021-8",
+   "numero": "8-2021",
+   "titulo": "Golpe en la cabeza, creencia de muerte y muerte posterior por frío",
+   "institutos_dogmaticos": [
+    "desviación del curso causal",
+    "dolus generalis",
+    "imputación objetiva",
+    "realización del riesgo en el resultado",
+    "comisión por omisión / posición de garante (por injerencia)",
+    "consumación vs. tentativa"
+   ],
+   "tiene_modelo": false,
+   "articulos_indicados": [],
+   "resoluciones": [],
+   "path": "casos/caso-2021-8/caso.json"
+  },
+  {
+   "id": "caso-bgh-cinturon",
+   "numero": "BGH — cinturón de cuero (Lederriemenfall)",
+   "titulo": "Caso del cinturón de cuero: dolo eventual vs. culpa consciente",
+   "institutos_dogmaticos": [
+    "dolo eventual vs. culpa consciente",
+    "teoría del consentimiento / de la aprobación",
+    "coautoría y acuerdo común",
+    "desviación respecto del plan acordado",
+    "robo con resultado muerte"
+   ],
+   "tiene_modelo": true,
+   "articulos_indicados": [],
+   "resoluciones": [
+    "resoluciones/bgh-lederriemenfall.txt"
+   ],
+   "path": "casos/caso-bgh-cinturon/caso.json"
+  },
+  {
+   "id": "caso-ld-terceros",
+   "numero": "s/n (legítima defensa de terceros)",
+   "titulo": "Emboscada con hierro para robar y el que incapacita al agresor",
+   "institutos_dogmaticos": [
+    "legítima defensa de terceros (art. 34 inc. 7 CP)",
+    "agresión ilegítima actual e inminente",
+    "necesidad racional del medio",
+    "lesiones (art. 89 CP)",
+    "antijuridicidad / causa de justificación",
+    "dolo eventual (en la conducta de A)"
+   ],
+   "tiene_modelo": true,
+   "articulos_indicados": [
+    "34 inc. 7 CP",
+    "89 CP"
+   ],
+   "resoluciones": [
+    "resoluciones/caggiano-caliri.txt"
+   ],
+   "path": "casos/caso-ld-terceros/caso.json"
+  }
+ ],
+ "por_instituto": {
+  "aberratio ictus": [
+   "caso-04"
+  ],
+  "actualidad de la agresión": [
+   "caso-10"
+  ],
+  "agresión ilegítima": [
+   "caso-08"
+  ],
+  "agresión ilegítima actual e inminente": [
+   "caso-ld-terceros"
+  ],
+  "antijuridicidad / causa de justificación": [
+   "caso-ld-terceros"
+  ],
+  "antijuridicidad putativa": [
+   "caso-10"
+  ],
+  "aportes neutrales / prohibición de regreso (josef)": [
+   "caso-2021-1"
+  ],
+  "autopuesta en peligro / conducta de la víctima": [
+   "caso-01"
+  ],
+  "autoría y participación (coautoría, complicidad)": [
+   "caso-2021-1"
+  ],
+  "causalidad y cursos causales concurrentes": [
+   "caso-2021-1"
+  ],
+  "coautoría y acuerdo común": [
+   "caso-bgh-cinturon"
+  ],
+  "comisión por omisión / posición de garante": [
+   "caso-06"
+  ],
+  "comisión por omisión / posición de garante (por injerencia)": [
+   "caso-2021-8"
+  ],
+  "consumación anticipada / retrasada": [
+   "caso-07"
+  ],
+  "consumación vs. tentativa": [
+   "caso-2021-8"
+  ],
+  "creación de un riesgo jurídicamente relevante": [
+   "caso-12"
+  ],
+  "creación de un riesgo no permitido": [
+   "caso-01"
+  ],
+  "culpabilidad": [
+   "caso-09"
+  ],
+  "delito imposible por falta de objeto": [
+   "caso-11"
+  ],
+  "delito imprudente": [
+   "caso-01"
+  ],
+  "desistimiento de la tentativa": [
+   "caso-2021-1"
+  ],
+  "desviación del curso causal": [
+   "caso-04",
+   "caso-05",
+   "caso-06",
+   "caso-07",
+   "caso-2021-8"
+  ],
+  "desviación respecto del plan acordado": [
+   "caso-bgh-cinturon"
+  ],
+  "dolo": [
+   "caso-04",
+   "caso-05",
+   "caso-11"
+  ],
+  "dolo directo vs. dolo eventual": [
+   "caso-06"
+  ],
+  "dolo eventual (en la conducta de a)": [
+   "caso-ld-terceros"
+  ],
+  "dolo eventual vs. culpa consciente": [
+   "caso-bgh-cinturon"
+  ],
+  "dolus generalis": [
+   "caso-06",
+   "caso-07",
+   "caso-2021-8"
+  ],
+  "dominabilidad del acontecer": [
+   "caso-12"
+  ],
+  "elemento subjetivo de justificación (voluntad de defensa)": [
+   "caso-08"
+  ],
+  "emoción violenta": [
+   "caso-09"
+  ],
+  "error de prohibición al revés / delito putativo": [
+   "caso-10"
+  ],
+  "error en el objeto / error in persona": [
+   "caso-04"
+  ],
+  "error sobre presupuestos de la justificación": [
+   "caso-08"
+  ],
+  "error sobre presupuestos de una causa de justificación (en c)": [
+   "caso-07"
+  ],
+  "error sobre un presupuesto fáctico": [
+   "caso-09"
+  ],
+  "eutanasia pasiva / omisión y suspensión de tratamiento (dr. dorn)": [
+   "caso-2021-1"
+  ],
+  "exceso en la legítima defensa (art. 35 cp)": [
+   "caso-10"
+  ],
+  "fin de protección de la norma": [
+   "caso-01",
+   "caso-05"
+  ],
+  "homicidio a petición / consentimiento de la víctima": [
+   "caso-2021-1"
+  ],
+  "homicidio agravado por el vínculo (art. 80 inc. 1 cp)": [
+   "caso-09"
+  ],
+  "imputabilidad / capacidad de culpabilidad (art. 34 inc. 1 cp)": [
+   "caso-09"
+  ],
+  "imputación del resultado (cáncer + quemaduras)": [
+   "caso-2021-1"
+  ],
+  "imputación objetiva": [
+   "caso-01",
+   "caso-05",
+   "caso-06",
+   "caso-07",
+   "caso-12",
+   "caso-2021-8"
+  ],
+  "insuficiencia o alteración morbosa de las facultades": [
+   "caso-09"
+  ],
+  "interposición de un tercero": [
+   "caso-04"
+  ],
+  "interrupción del nexo por conducta de un tercero (prohibición de regreso)": [
+   "caso-07"
+  ],
+  "juicio ex ante vs. ex post": [
+   "caso-08"
+  ],
+  "legítima defensa (art. 34 inc. 6 cp)": [
+   "caso-08",
+   "caso-10"
+  ],
+  "legítima defensa de terceros (art. 34 inc. 7 cp)": [
+   "caso-ld-terceros"
+  ],
+  "lesiones (art. 89 cp)": [
+   "caso-ld-terceros"
+  ],
+  "móviles y ánimo del interviniente": [
+   "caso-2021-1"
+  ],
+  "necesidad racional del medio": [
+   "caso-ld-terceros"
+  ],
+  "necesidad racional del medio empleado": [
+   "caso-08",
+   "caso-10"
+  ],
+  "omisión de auxilio (art. 108 cp)": [
+   "caso-06"
+  ],
+  "peligrosidad de la acción": [
+   "caso-11"
+  ],
+  "previsibilidad del segundo curso causal": [
+   "caso-06"
+  ],
+  "realización del riesgo en el resultado": [
+   "caso-2021-8"
+  ],
+  "realización del riesgo no permitido en el resultado": [
+   "caso-05"
+  ],
+  "relación causal (ausencia de ley causal)": [
+   "caso-12"
+  ],
+  "riesgo permitido": [
+   "caso-01"
+  ],
+  "robo con resultado muerte": [
+   "caso-bgh-cinturon"
+  ],
+  "tentativa": [
+   "caso-04",
+   "caso-07",
+   "caso-11"
+  ],
+  "tentativa acabada": [
+   "caso-05"
+  ],
+  "tentativa idónea vs. inidónea (juicio ex ante)": [
+   "caso-11"
+  ],
+  "tentativa inidónea": [
+   "caso-11",
+   "caso-12"
+  ],
+  "tentativa supersticiosa / irreal": [
+   "caso-12"
+  ],
+  "teoría del consentimiento / de la aprobación": [
+   "caso-bgh-cinturon"
+  ]
+ }
+}

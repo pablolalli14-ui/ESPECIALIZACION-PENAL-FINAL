@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "id": "caso-2021-1",
+    "numero": "1-2021",
+    "titulo": "Werther: incendio piadoso de la casa, hijos que desisten y suspensión del tratamiento",
+    "fuente": "UBA — Especialización en Derecho Penal (caso 1, 2021)",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": false
+  },
+  "enunciado": "I. Wilhelm Werther, un enfermo terminal de cáncer, se encuentra en una situación desesperada. Varias veces ha pedido seriamente a sus tres hijos Anton, Bernhard y Christian su muerte. Cuando un día los hijos estaban discutiendo el deseo de su padre, Bernhard y Christian se pronunciaron a favor de cumplir este deseo, dejándose determinar únicamente por la piedad hacia su padre. Antón, muy endeudado, vota en contra con palabras, aunque, como saben sus hermanos, quiere que la muerte de su padre se produzca finalmente y sólo para obtener la herencia de su padre. Sin embargo, Bernhard y Christian deciden darle a su padre una despedida digna de este mundo. En memoria de su padre, quieren transformar la casa de su padre en una enorme antorcha de fuego y así anunciar la muerte de su padre a todos los habitantes de la ciudad. Mientras Bernhard distribuye el contenido de varios barriles de gasolina, combustible adecuado, de tal manera que todo combustible humedezca a fondo y luego enciende el fuego. Anton, ahora declara que él también quiere hacer su parte para cumplir el deseo de su padre; para ello obtendría suficiente aserrín para que el fuego pudiera encontrar suficiente entidad. Para ello, Chris y Anton acude al maestro carpintero Josef, que es amigo de Wilhelm Werther, a quien le dicen que necesitan el aserrín para el incendio y liberar a su padre de los tormentos, después de una adecuada anestesia, para que no sienta dolor. El comprensivo maestro artesano de buena gana y suspirando varias veces por el trágico destino de su amigo, reparte gratuitamente el aserrín. En la noche del 9 de noviembre de 1996, y una vez que Werther se ha retirado a su dormitorio, Bernhard distribuye el aserrín seco en escamas que Anton había traído el día anterior. Pero Anton, inmediatamente después solloza y dice que no seguirá participando y sale de la casa, para no volver. Christian lleva a cabo el difícil trabajo de acuerdo con el plan. Pero, cuando la casa está en llamas, él también se arrepiente, y lamenta en voz alta la suerte de su padre y declara que todo ha terminado. Sacan a duras penas a su padre muy quemado, y lo llevan de inmediato a un hospital. Allí el padre se molestó muy rápidamente por sus quemaduras. Pero, su estado de salud empeora debido al cáncer incurable, y las quemaduras graves que padece Wilhelm Werther, que, finalmente tiene que ser alimentado artificialmente, sufre dolores muy fuertes por las quemaduras y pronto deja de responder. Los médicos descartan cualquier mejora en su estado. El médico de planta Dieter Dorn, por lo tanto, resuelve aliviar sus tormentos y suspender el tratamiento, incluida la alimentación artificial mediante la administración de líquidos nutritivos, ya que Werther había firmado un documento en ese sentido. Wilhelm Werther muere a los pocos días.",
+  "sujetos": [
+    { "nombre": "Wilhelm Werther", "rol": "pasivo", "notas": "Enfermo terminal de cáncer que pide reiteradamente su muerte." },
+    { "nombre": "Bernhard", "rol": "activo", "notas": "Movido por piedad, distribuye la gasolina y enciende el fuego." },
+    { "nombre": "Christian", "rol": "activo", "notas": "Movido por piedad, ejecuta el plan y luego se arrepiente en voz alta." },
+    { "nombre": "Anton", "rol": "activo", "notas": "Vota en contra pero quiere la muerte por la herencia; aporta el aserrín y luego desiste retirándose." },
+    { "nombre": "Josef", "rol": "tercero", "notas": "Carpintero amigo que aporta gratuitamente el aserrín sabiendo el fin." },
+    { "nombre": "Dieter Dorn", "rol": "tercero", "notas": "Médico que suspende el tratamiento y la alimentación artificial conforme a la voluntad firmada del paciente." }
+  ],
+  "institutos_dogmaticos": [
+    "autoría y participación (coautoría, complicidad)",
+    "desistimiento de la tentativa",
+    "homicidio a petición / consentimiento de la víctima",
+    "móviles y ánimo del interviniente",
+    "aportes neutrales / prohibición de regreso (Josef)",
+    "causalidad y cursos causales concurrentes",
+    "eutanasia pasiva / omisión y suspensión de tratamiento (Dr. Dorn)",
+    "imputación del resultado (cáncer + quemaduras)"
+  ],
+  "problema_central": "Caso complejo con pluralidad de intervinientes y sucesos: (a) la responsabilidad de cada hijo según su aporte y ánimo (Anton por herencia vs. Bernhard/Christian por piedad) y el desistimiento de Anton y Christian; (b) el aporte de Josef como posible complicidad o conducta neutral; (c) la imputación del resultado muerte, producido por la concurrencia del cáncer, las quemaduras y la posterior suspensión del tratamiento por el médico; (d) la calificación de la conducta del Dr. Dorn (eutanasia pasiva conforme voluntad del paciente). Debe dividirse por sucesos y resolverse la responsabilidad de cada sujeto.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "Caso extenso y multi-sujeto; conviene dividirlo por sucesos clave y plantear un problema para cada interviniente (pautas: si hay varios momentos, un problema por cada uno)."
+}

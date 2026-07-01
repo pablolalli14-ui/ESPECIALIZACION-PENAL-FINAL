@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-bgh-cinturon",
+    "numero": "BGH — cinturón de cuero (Lederriemenfall)",
+    "titulo": "Caso del cinturón de cuero: dolo eventual vs. culpa consciente",
+    "fuente": "Jurisprudencia alemana (BGH, Tomo 7) — usado como caso de estudio",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": true
+  },
+  "enunciado": "K y J acuerdan robar a M. Primero intentan drogarlo, sin éxito. Consideran estrangularlo con un cinturón de cuero, pero renuncian a ese medio porque reconocen que podría causarle la muerte. Adoptan entonces el plan de golpearlo con un saco de arena para dejarlo inconsciente. En la ejecución, el saco de arena se rompe; K toma el cinturón de cuero y estrangula a M hasta hacerlo desmayar. K y J lo atan y le sustraen sus bienes. Luego, con dudas sobre si M sigue vivo, intentan reanimarlo sin éxito: M ha muerto por la estrangulación.",
+  "sujetos": [
+    { "nombre": "K", "rol": "activo", "notas": "Estrangula a M con el cinturón tras romperse el saco de arena." },
+    { "nombre": "J", "rol": "activo", "notas": "Coautor del plan de robo; participa en el acuerdo y la ejecución." },
+    { "nombre": "M", "rol": "pasivo", "notas": "Víctima del robo; muere por la estrangulación con el cinturón." }
+  ],
+  "institutos_dogmaticos": [
+    "dolo eventual vs. culpa consciente",
+    "teoría del consentimiento / de la aprobación",
+    "coautoría y acuerdo común",
+    "desviación respecto del plan acordado",
+    "robo con resultado muerte"
+  ],
+  "problema_central": "Caso paradigmático para delimitar el dolo eventual de la culpa consciente: los autores habían descartado el cinturón por temor a matar, pero ante el fracaso del saco de arena K lo usó igual. Debe determinarse si, al estrangular a M, K (y J como coautor) obraron con dolo eventual de homicidio —aceptando/conformándose con la posible muerte— o con culpa consciente, y cómo incide la desviación respecto del plan común originario.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": ["resoluciones/bgh-lederriemenfall.txt"],
+  "notas": "Es el célebre Lederriemenfall del BGH (leading case del dolo eventual). ATENCIÓN: el texto del modelo se guardó truncado (~2 KB); conviene re-extraerlo del docx original. Las pautas prohíben usar jurisprudencia en el trabajo final: este caso sirve para estudiar dolo eventual, no como fuente citable."
+}

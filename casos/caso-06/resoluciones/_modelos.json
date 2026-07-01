@@ -1,0 +1,16 @@
+{
+  "caso": "caso-06",
+  "modelos": [
+    {
+      "archivo": "francisco-arias.txt",
+      "autor_alumno": "Francisco Arias",
+      "linea_doctrinal": "compara autores (Roxin vs. Sancinetti sobre dolus generalis)",
+      "autores_citados": ["Roxin", "Sancinetti", "Baldó Lavilla", "Köhler", "Mayer", "Luzón Peña", "D'Alessio"],
+      "tipo_penal": "Homicidio (art. 79 CP); omisión de auxilio (art. 108 CP) para C",
+      "institutos": ["dolus generalis", "desviación del curso causal", "dolo eventual", "dolo directo", "imputación objetiva", "previsibilidad", "comisión por omisión", "posición de garante"],
+      "tesis": "El error fáctico del autor (creer muerto a B) no excluye el dolo consumado si el curso causal de la segunda acción es previsible y el plan homicida no fue revocado. La conducta de C es omisión simple de auxilio (art. 108), sin posición de garante.",
+      "resultado": "A: homicidio simple consumado (art. 79 CP). C: omisión de auxilio (art. 108 CP).",
+      "advertencia_pautas": "Compara autores; usar solo como modelo de estructura."
+    }
+  ]
+}

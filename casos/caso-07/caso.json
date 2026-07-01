@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "id": "caso-07",
+    "numero": "VII",
+    "titulo": "Apuñalamiento, creencia de muerte y tercero que remata en el río",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": false
+  },
+  "enunciado": "A apuñala a su enemigo B, en venganza por una afrenta infligida a su honra. Posteriormente, creyendo muerto al hombre a quien apuñaló, que realmente sólo estaba herido, le arroja al río para borrar sus huellas del supuesto homicidio. La víctima cae al río, en donde en este momento pasaba un bote a cargo de C, quien cree que B lo quiere asaltar y le mata.",
+  "sujetos": [
+    { "nombre": "A", "rol": "activo", "notas": "Apuñala a B con dolo homicida; cree haberlo matado y lo arroja al río para borrar huellas." },
+    { "nombre": "B", "rol": "pasivo", "notas": "Sólo herido tras el apuñalamiento; muere por acción de C." },
+    { "nombre": "C", "rol": "tercero", "notas": "Botero que mata a B creyendo que lo va a asaltar." }
+  ],
+  "institutos_dogmaticos": [
+    "dolus generalis",
+    "desviación del curso causal",
+    "consumación anticipada / retrasada",
+    "imputación objetiva",
+    "interrupción del nexo por conducta de un tercero (prohibición de regreso)",
+    "tentativa",
+    "error sobre presupuestos de una causa de justificación (en C)"
+  ],
+  "problema_central": "En A se plantea un dolus generalis: quería matar con el apuñalamiento pero la muerte se produce por un segundo acto (arrojar al río) ejecutado creyendo consumado el delito, y en definitiva por la intervención dolosa de un tercero (C). Debe determinarse si a A se le imputa homicidio consumado o tentativa, y cómo incide la conducta autónoma de C (que a su vez actúa bajo un posible error sobre una agresión inexistente).",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "Combina dolus generalis (A) con intervención de un tercero (C) que rompe el curso causal y actúa bajo un posible error sobre una legítima defensa putativa."
+}

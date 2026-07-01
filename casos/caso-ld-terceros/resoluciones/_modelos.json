@@ -1,0 +1,16 @@
+{
+  "caso": "caso-ld-terceros",
+  "modelos": [
+    {
+      "archivo": "caggiano-caliri.txt",
+      "autor_alumno": "Marcio Antonio Caggiano Caliri",
+      "linea_doctrinal": "base Frister (legítima defensa de terceros)",
+      "autores_citados": ["Frister", "Tazza", "Rafecas", "Donna"],
+      "tipo_penal": "Lesiones leves (art. 89 CP), justificadas por legítima defensa de terceros (art. 34 inc. 7 CP)",
+      "institutos": ["legítima defensa de terceros", "tipicidad", "antijuridicidad", "causalidad", "imputación objetiva", "dolo", "agresión actual y antijurídica", "causa de justificación"],
+      "tesis": "B actúa en legítima defensa de un tercero (G) conforme al art. 34 inc. 7 CP: aunque su conducta configura formalmente una lesión, está justificada por la agresión actual y antijurídica que A perpetraba contra G.",
+      "resultado": "B no es penalmente responsable: conducta justificada por legítima defensa de terceros (no se configura el injusto penal).",
+      "advertencia_pautas": "Mayormente centrado en una línea; buen modelo de estructura para causas de justificación."
+    }
+  ]
+}

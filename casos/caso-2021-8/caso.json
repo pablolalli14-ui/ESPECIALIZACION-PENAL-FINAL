@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-2021-8",
+    "numero": "8-2021",
+    "titulo": "Golpe en la cabeza, creencia de muerte y muerte posterior por frío",
+    "fuente": "UBA — Especialización en Derecho Penal (caso 8, 2021)",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": false
+  },
+  "enunciado": "Miguel quiere matar a su socio José. Lo lleva a un bosque con engaño y le golpea con violencia en la cabeza. El golpe le produce heridas graves en la cabeza, con pérdida de sangre y cae inconsciente. Miguel, cree que José está muerto y lo deja en el bosque. Pero, sin embargo estaba vivo y muere dos días después por el frío.",
+  "sujetos": [
+    { "nombre": "Miguel", "rol": "activo", "notas": "Con dolo homicida golpea a José, lo cree muerto y lo abandona en el bosque." },
+    { "nombre": "José", "rol": "pasivo", "notas": "Socio de Miguel; sobrevive al golpe pero muere dos días después por el frío." }
+  ],
+  "institutos_dogmaticos": [
+    "desviación del curso causal",
+    "dolus generalis",
+    "imputación objetiva",
+    "realización del riesgo en el resultado",
+    "comisión por omisión / posición de garante (por injerencia)",
+    "consumación vs. tentativa"
+  ],
+  "problema_central": "Miguel cree consumado el homicidio con el golpe, pero la muerte se produce por un factor posterior (el frío) mientras José seguía vivo y abandonado. Debe determinarse si la muerte se imputa como homicidio doloso consumado (¿desviación no esencial del curso causal / dolus generalis?) o si Miguel responde por tentativa de homicidio en concurso con un posible homicidio por omisión (injerencia: haber creado el riesgo y abandonar a la víctima).",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "Emparenta con el caso V y VII (desviación del curso causal / dolus generalis) y suma la posible comisión por omisión por posición de garante derivada de la injerencia."
+}

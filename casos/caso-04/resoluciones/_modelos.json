@@ -1,0 +1,16 @@
+{
+  "caso": "caso-04",
+  "modelos": [
+    {
+      "archivo": "modelo-aberratio-ictus.txt",
+      "autor_alumno": "s/d (documento 'CASO FINAL')",
+      "linea_doctrinal": "compara autores (aberratio ictus / teoría de la concreción)",
+      "autores_citados": ["Donna", "Jescheck", "Weigend", "Roxin", "Rafecas"],
+      "tipo_penal": "Homicidio culposo (art. 84 CP) por el servidor; tentativa de homicidio (arts. 42/44 CP) contra el gobernador",
+      "institutos": ["tipicidad objetiva", "tipicidad subjetiva", "dolo", "error de tipo", "aberratio ictus", "teoría de la concreción", "teoría de la equivalencia", "tentativa"],
+      "tesis": "La muerte del servidor es homicidio culposo (aberratio ictus: falta dolo respecto del servidor porque el autor apuntaba al gobernador). Respecto del gobernador, tentativa de homicidio idónea punible.",
+      "resultado": "Homicidio culposo por la muerte del servidor (art. 84 CP) en concurso con tentativa de homicidio contra el gobernador.",
+      "advertencia_pautas": "Compara autores; usar solo como modelo de estructura (la pauta vigente exige una sola línea)."
+    }
+  ]
+}
