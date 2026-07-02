@@ -67,6 +67,13 @@ discusión procesal / discusión constitucional / códigos de otros países / cr
 no estipular pena; no elaborar sentencia ni defensa; **no modificar los hechos**; notas
 al pie solo bibliográficas; ~10 páginas.
 
+`pautas/_SEÑALES_INSTITUTOS.json` es una checklist de patrones narrativos → institutos
+dogmáticos típicos (desajuste dolo/resultado, dolus generalis, legítima defensa y sus
+patologías, tentativa inidónea/supersticiosa, imputabilidad/emoción violenta, aportes
+de terceros, consentimiento), extraída de los 14 casos ya cargados. Apoya la detección
+de institutos al leer un enunciado nuevo (Paso 1 del skill); no reemplaza la lectura
+del caso concreto.
+
 ## Banco de casos (`casos/`)
 
 Un caso por carpeta `casos/<slug>/`:

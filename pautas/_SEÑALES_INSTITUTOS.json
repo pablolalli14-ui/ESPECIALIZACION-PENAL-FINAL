@@ -1,0 +1,132 @@
+{
+  "generado": "2026-07-02",
+  "proposito": "Checklist de señales narrativas para detectar institutos dogmáticos al leer un enunciado nuevo (Paso 1 del skill resolver-caso-penal). No es exhaustiva ni mecánica: es una lista de 'banderas rojas' para no pasar por alto un problema, extraída de los 14 casos ya cargados en casos/. La detección final sigue siendo lectura e interpretación del enunciado, no un matcher automático.",
+  "como_usar": "Al leer un caso nuevo, recorrer las familias de abajo y marcar cuáles señales aparecen en el relato. Cada señal detectada sugiere agregar el/los institutos asociados a institutos_dogmaticos. Una misma señal puede aparecer combinada con otras (ej.: desviación del curso causal + interposición de tercero). Cuando una señal calce, revisar en casos/_INDEX.json (por_instituto) si hay un caso del banco con el mismo instituto, para comparar el patrón de razonamiento.",
+  "familias": [
+    {
+      "familia": "Desajuste entre el objetivo del dolo y el resultado",
+      "senales": [
+        {
+          "patron": "El autor apunta/dirige su acción contra X, pero por error de puntería, identidad o medio el resultado recae sobre Y (persona u objeto distinto).",
+          "institutos": ["error en el objeto / error in persona", "aberratio ictus", "desviación del curso causal"],
+          "ejemplo": "caso-04 (dispara al gobernador, mata al servidor que se interpone)"
+        },
+        {
+          "patron": "El autor falla el medio elegido (dispara y erra, envenena sin efecto) pero el resultado buscado ocurre igual por una cadena causal distinta e imprevista.",
+          "institutos": ["desviación del curso causal", "imputación objetiva", "realización del riesgo no permitido en el resultado", "fin de protección de la norma"],
+          "ejemplo": "caso-05 (dispara y falla, pero el ruido espanta caballos que matan a la víctima)"
+        }
+      ]
+    },
+    {
+      "familia": "Creencia errónea de haber consumado (dolus generalis)",
+      "senales": [
+        {
+          "patron": "El autor cree haber matado/lesionado a la víctima y realiza un segundo acto (ocultar, arrojar, abandonar) creyendo que ya está muerta, pero la muerte real sobreviene por ese segundo acto o por lo que ocurre después.",
+          "institutos": ["dolus generalis", "desviación del curso causal", "imputación objetiva", "previsibilidad del segundo curso causal"],
+          "ejemplo": "caso-06, caso-07, caso-08-2021 (apuñala/golpea, cree muerto, arroja al río o abandona)"
+        },
+        {
+          "patron": "Entre el primer acto y la muerte real interviene un tercero (rescata, remata, comprueba y abandona) o el propio autor omite auxiliar pudiendo hacerlo.",
+          "institutos": ["interrupción del nexo por conducta de un tercero (prohibición de regreso)", "comisión por omisión / posición de garante", "omisión de auxilio (art. 108 CP)", "error sobre presupuestos de una causa de justificación"],
+          "ejemplo": "caso-06 (C comprueba y se aleja, omisión de auxilio), caso-07 (C mata a B creyendo que lo va a asaltar)"
+        }
+      ]
+    },
+    {
+      "familia": "Legítima defensa y sus patologías",
+      "senales": [
+        {
+          "patron": "Hay una agresión real y el defensor repele con un medio que causa un daño mayor al necesario, o la agresión ya cesó cuando actúa.",
+          "institutos": ["legítima defensa (art. 34 inc. 6 CP)", "necesidad racional del medio empleado", "actualidad de la agresión", "exceso en la legítima defensa (art. 35 CP)"],
+          "ejemplo": "caso-08 (herida desproporcionada), caso-10 (golpea cuando el agresor ya no podía atacar)"
+        },
+        {
+          "patron": "El defensor actúa creyendo que la agresión persiste o que existe un peligro que en realidad ya no está (o nunca estuvo), y por eso responde.",
+          "institutos": ["error de prohibición al revés / delito putativo", "antijuridicidad putativa", "error sobre presupuestos de la justificación"],
+          "ejemplo": "caso-10 (cree que B va a sacar un arma y huir)"
+        },
+        {
+          "patron": "Quien defiende no es la víctima directa sino un tercero que interviene para proteger a otro.",
+          "institutos": ["legítima defensa de terceros (art. 34 inc. 7 CP)", "agresión ilegítima actual e inminente", "necesidad racional del medio"],
+          "ejemplo": "caso-ld-terceros (B interviene para frenar a A)"
+        }
+      ]
+    },
+    {
+      "familia": "Tentativa inidónea / imposible / supersticiosa",
+      "senales": [
+        {
+          "patron": "El autor ejecuta su plan sobre un objeto/medio que, sin que él lo sepa, es incapaz de producir el resultado (la víctima ya no está, el arma no puede funcionar, la sustancia no es letal).",
+          "institutos": ["tentativa", "tentativa inidónea", "delito imposible por falta de objeto", "tentativa idónea vs. inidónea (juicio ex ante)"],
+          "ejemplo": "caso-11 (dispara al asiento vacío, la víctima ya se había ido)"
+        },
+        {
+          "patron": "El medio elegido no tiene ninguna aptitud causal reconocida (magia, superstición, rituales) para producir el resultado, aunque el autor cree en su eficacia.",
+          "institutos": ["tentativa supersticiosa / irreal", "tentativa inidónea", "creación de un riesgo jurídicamente relevante", "dominabilidad del acontecer"],
+          "ejemplo": "caso-12 (muñeco vudú y alfileres)"
+        }
+      ]
+    },
+    {
+      "familia": "Imputación objetiva y riesgo permitido",
+      "senales": [
+        {
+          "patron": "El resultado se produce en el marco de una actividad lícita/cotidiana (conducir, trabajar) y hay una conducta de un tercero o de la propia víctima que también contribuye causalmente.",
+          "institutos": ["imputación objetiva", "creación de un riesgo no permitido", "riesgo permitido", "autopuesta en peligro / conducta de la víctima", "fin de protección de la norma"],
+          "ejemplo": "caso-01 (perro suelto se atraviesa mientras el conductor mira el celular)"
+        },
+        {
+          "patron": "El relato distingue explícitamente entre falta de cuidado (sin intención de dañar) y un resultado dañoso: no hay plan de matar ni lesionar, solo negligencia o descuido.",
+          "institutos": ["delito imprudente"],
+          "ejemplo": "caso-01"
+        }
+      ]
+    },
+    {
+      "familia": "Imputabilidad, culpabilidad y estados emocionales",
+      "senales": [
+        {
+          "patron": "El sujeto activo tiene una condición psíquica previa (trastorno, patología, adicción) mencionada expresamente en el relato, o actúa bajo un estado emocional intenso desencadenado por una noticia o situación puntual.",
+          "institutos": ["imputabilidad / capacidad de culpabilidad (art. 34 inc. 1 CP)", "insuficiencia o alteración morbosa de las facultades", "emoción violenta", "culpabilidad"],
+          "ejemplo": "caso-09 (celopatía, noticia falsa de infidelidad)"
+        },
+        {
+          "patron": "El sujeto actúa a partir de una creencia falsa sobre un hecho externo (no sobre la ley) que de ser cierta cambiaría la valoración de su conducta.",
+          "institutos": ["error sobre un presupuesto fáctico"],
+          "ejemplo": "caso-09 (la infidelidad era falsa)"
+        },
+        {
+          "patron": "La víctima y el autor tienen un vínculo familiar o de parentesco mencionado en el relato, relevante para una agravante.",
+          "institutos": ["homicidio agravado por el vínculo (art. 80 inc. 1 CP)"],
+          "ejemplo": "caso-09 (cónyuges)"
+        }
+      ]
+    },
+    {
+      "familia": "Autoría, participación y aportes de terceros",
+      "senales": [
+        {
+          "patron": "Varios sujetos acuerdan un plan común y luego uno se aparta o desiste antes de la ejecución, o un tercero hace un aporte 'neutral' (informar, vender algo lícito) que termina siendo usado para el delito.",
+          "institutos": ["autoría y participación (coautoría, complicidad)", "desistimiento de la tentativa", "aportes neutrales / prohibición de regreso", "móviles y ánimo del interviniente"],
+          "ejemplo": "caso-2021-1 (hijos de Werther, aporte de Josef)"
+        },
+        {
+          "patron": "Dos o más coautores acuerdan un plan pero uno se excede o se desvía de lo pactado, causando un resultado más grave del acordado.",
+          "institutos": ["coautoría y acuerdo común", "desviación respecto del plan acordado", "dolo eventual vs. culpa consciente"],
+          "ejemplo": "caso BGH cinturón de cuero (uno propone ahogar en vez de estrangular)"
+        }
+      ]
+    },
+    {
+      "familia": "Consentimiento y disposición del propio bien jurídico",
+      "senales": [
+        {
+          "patron": "La víctima pide expresamente ser matada, o se suspende un tratamiento médico a su pedido o el de la familia.",
+          "institutos": ["homicidio a petición / consentimiento de la víctima", "eutanasia pasiva / omisión y suspensión de tratamiento"],
+          "ejemplo": "caso-2021-1 (Werther pide la muerte a sus hijos)"
+        }
+      ]
+    }
+  ]
+}

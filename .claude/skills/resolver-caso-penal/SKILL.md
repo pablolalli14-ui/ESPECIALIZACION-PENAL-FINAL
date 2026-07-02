@@ -37,6 +37,13 @@ Reglas duras que no se pueden violar:
 - Identificá: sujetos intervinientes, tipo(s) penal(es) en juego, y los **institutos
   dogmáticos** centrales (imputación objetiva, error de tipo/prohibición, tentativa,
   autoría y participación, causas de justificación, culpabilidad, etc.).
+- Para no pasar por alto un instituto, contrastá el relato contra
+  `pautas/_SEÑALES_INSTITUTOS.json`: es una checklist de patrones narrativos típicos
+  (desajuste entre el objetivo del dolo y el resultado, creencia errónea de haber
+  consumado, legítima defensa y sus patologías, tentativa inidónea/supersticiosa,
+  imputabilidad y estados emocionales, aportes de terceros, consentimiento, etc.),
+  extraída de los casos ya cargados en el banco. No es exhaustiva ni mecánica —es
+  apoyo para la lectura, no reemplaza el análisis del enunciado concreto.
 
 ## Paso 2 — Buscar precedentes de estructura
 
