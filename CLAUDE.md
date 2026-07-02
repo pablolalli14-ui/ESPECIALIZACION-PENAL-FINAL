@@ -92,6 +92,15 @@ Un caso por carpeta `casos/<slug>/`:
 - Índice maestro `casos/_INDEX.json` (regenerar con `build_casos_index.py`): lista
   liviana + índice invertido `por_instituto` (instituto dogmático → casos).
 
+`casos/_RECOMENDACIONES_AUTOR.json` (+ render `.md`/`.pdf` vía
+`scripts/recomendaciones_autor_to_md.py`) es un entregable de estudio: para cada
+caso del banco, el enunciado en un recuadro justo arriba de la recomendación de
+autor con su justificación puntual (no la lectura mecánica del criterio general,
+sino aplicada al instituto concreto de cada caso). El campo `autor`/`justificacion`
+de cada entrada se redacta a mano tras analizar el caso; el script solo cruza esos
+datos con `caso.json` para traer el enunciado — no reemplaza el análisis. Regenerar
+tras agregar un caso nuevo o cambiar una recomendación.
+
 Esquema completo de `caso.json` y flujo de resolución: skill `resolver-caso-penal`.
 
 ## Doctrina (`doctrina/`)

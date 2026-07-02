@@ -1,0 +1,96 @@
+{
+  "generado": "2026-07-02",
+  "proposito": "Recomendación de autor por caso del banco, aplicando doctrina/_CRITERIO_SELECCION_AUTOR.json al instituto dogmático concreto de cada caso (no es una lectura mecánica de la tabla: en varios casos el instituto puntual justifica apartarse del default general de la etapa). Es un punto de partida para elegir la línea del trabajo final, no una obligación — el usuario puede pedir otro autor en cualquier momento.",
+  "recomendaciones": [
+    {
+      "caso_id": "caso-01",
+      "problema_dogmatico": "¿El resultado se imputa a la imprudencia de Juan o lo interrumpe la autopuesta en peligro de la víctima?",
+      "autor": "jakobs",
+      "justificacion": "La consigna del caso restringe a Roxin, Jakobs u Otto. Se recomienda Jakobs (no el default general de la etapa, que es Roxin) porque su imputación objetiva incluye expresamente que la víctima retiene su competencia sobre sus propios riesgos — encaja con que sea el propio dueño quien corre tras el perro."
+    },
+    {
+      "caso_id": "caso-02",
+      "problema_dogmatico": "A conocía el riesgo concreto de su pulso inseguro y disparó igual para salvar a B: ¿dolo eventual o culpa consciente, en un contexto de auxilio/salvamento?",
+      "autor": "otto",
+      "justificacion": "Es el único autor que resuelve con una misma herramienta los dos frentes del caso: su síntesis fija el dolo eventual en si el autor reconoció el peligro concreto y no renunció a su plan (encaja con los hechos), y desarrolla la adecuación social como límite autónomo de tipicidad en situaciones de riesgo asumido para auxiliar a otro. Alternativa fuerte: Frister, con el mismo test cognitivo para el dolo eventual pero sin el desarrollo del ángulo de salvamento."
+    },
+    {
+      "caso_id": "caso-04",
+      "problema_dogmatico": "Muerte de un tercero interpuesto entre el autor y la víctima buscada: ¿aberratio ictus, error in persona o interrupción del nexo?",
+      "autor": "roxin",
+      "justificacion": "Su esquema de imputación objetiva (riesgo no permitido + realización del riesgo + fin de protección) separa mejor la tentativa contra el gobernador del resultado sobre el servidor. Es además el autor más citado en el modelo aprobado del banco para este caso."
+    },
+    {
+      "caso_id": "caso-05",
+      "problema_dogmatico": "Desviación esencial del curso causal: ¿homicidio consumado o tentativa?",
+      "autor": "roxin",
+      "justificacion": "Caso de manual de su 'fin de protección de la norma': el riesgo que se realizó (estampida) no es el que él creó (disparo). Coincide con el eje del modelo aprobado (Nikiel)."
+    },
+    {
+      "caso_id": "caso-06",
+      "problema_dogmatico": "Dolus generalis de A tras arrojar a B (creído muerto) al río, más la posible omisión de auxilio de C.",
+      "autor": "roxin",
+      "justificacion": "Domina el problema de fondo (dolus generalis / imputación objetiva). El modelo del banco lo contrasta con Sancinetti (fuera del set de 6 autores); de los disponibles, Roxin es el eje de esa discusión."
+    },
+    {
+      "caso_id": "caso-07",
+      "problema_dogmatico": "Igual que el Caso VI, pero la muerte la causa un tercero (C) que actúa por error sobre una agresión inexistente.",
+      "autor": "jakobs",
+      "justificacion": "El instituto decisivo es la interrupción del nexo por conducta de un tercero — es literalmente su concepto de 'prohibición de regreso'. Ningún otro autor lo desarrolla con esa precisión."
+    },
+    {
+      "caso_id": "caso-08",
+      "problema_dogmatico": "Necesidad racional del medio empleado en legítima defensa: ¿juicio ex ante o ex post?",
+      "autor": "wessels",
+      "justificacion": "Trata las causas de justificación como normas permisivas autónomas con estructura operativa (situación + elemento subjetivo), acorde al 'juicio ex ante desde la posición del agredido'. Confirmado por evidencia empírica: dos modelos aprobados de este caso lo usan como base."
+    },
+    {
+      "caso_id": "caso-09",
+      "problema_dogmatico": "¿Afecta la celopatía la capacidad de culpabilidad del art. 34 inc. 1 CP?",
+      "autor": "hilgendorf",
+      "justificacion": "Detalla mejor la reprochabilidad personal clásica (comprensión + capacidad de conducirse conforme a ella), el esquema más directo para imputabilidad, sin la reformulación normativista de Frister/Jakobs que complicaría un caso ya acotado por la consigna a dos artículos puntuales."
+    },
+    {
+      "caso_id": "caso-10",
+      "problema_dogmatico": "¿Sigue amparado por legítima defensa o hay exceso? (más delito putativo por error de prohibición al revés).",
+      "autor": "wessels",
+      "justificacion": "Mismo motivo que el Caso VIII: su tratamiento de legítima defensa/exceso es el más operativo, ya validado empíricamente en este banco para ese instituto."
+    },
+    {
+      "caso_id": "caso-11",
+      "problema_dogmatico": "Tentativa inidónea por falta de objeto (dispara al asiento vacío).",
+      "autor": "frister",
+      "justificacion": "Se aparta del default general (Roxin, 'peligro próximo') porque Frister tiene una regla explícita y directamente aplicable: la tentativa inidónea es punible si el autor cree en la idoneidad del medio/objeto, aunque objetivamente no lo sea — exactamente la situación del caso."
+    },
+    {
+      "caso_id": "caso-12",
+      "problema_dogmatico": "Tentativa supersticiosa: ¿hay siquiera relación causal entre los actos mágicos y la muerte?",
+      "autor": "otto",
+      "justificacion": "El modelo aprobado real de este caso usa a Otto de forma dominante, y el criterio de selección lo marca como recomendación específica para este instituto. Ahora hay síntesis disponible de Otto (con salvedad de ruido de OCR, más fuerte en imputación objetiva que en tentativa)."
+    },
+    {
+      "caso_id": "caso-2021-1",
+      "problema_dogmatico": "Responsabilidad de cada hijo, aporte de Josef, e imputación del resultado entre cáncer/quemaduras/suspensión de tratamiento.",
+      "autor": "jakobs",
+      "justificacion": "Caso de múltiples intervinientes con roles distintos (garante, aporte 'neutral', desistimiento); su marco de roles/competencia y prohibición de regreso ordena mejor responsabilidades diferenciadas en un solo sistema coherente."
+    },
+    {
+      "caso_id": "caso-2021-8",
+      "problema_dogmatico": "Dolus generalis (golpe + muerte posterior por frío) más comisión por omisión por injerencia.",
+      "autor": "frister",
+      "justificacion": "Cubre ambos problemas con un solo autor: su imputación objetiva explica la desviación del curso causal, y su teoría de garantes distingue expresamente 'conducta previa generadora de peligro' (injerencia), necesaria para el abandono de la víctima."
+    },
+    {
+      "caso_id": "caso-bgh-cinturon",
+      "problema_dogmatico": "Dolo eventual vs. culpa consciente en el Lederriemenfall.",
+      "autor": "frister",
+      "justificacion": "Coincide con el instituto específico marcado en el criterio: su rechazo del elemento volitivo adicional da el criterio de deslinde más nítido entre dolo eventual y culpa consciente."
+    },
+    {
+      "caso_id": "caso-ld-terceros",
+      "problema_dogmatico": "¿Está B justificado por defender a G de la agresión de A?",
+      "autor": "frister",
+      "justificacion": "Su sistema cerrado de causas de justificación incluye expresamente la legítima defensa de terceros. Es además el autor que usó el trabajo aprobado real de este caso (7 citas)."
+    }
+  ]
+}

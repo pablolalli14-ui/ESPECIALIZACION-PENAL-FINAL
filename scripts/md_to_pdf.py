@@ -28,6 +28,9 @@ th { background: #f0e8e8; }
 li { margin-bottom: 2px; }
 strong { color: #4a2020; }
 code { background: #f2f2f2; padding: 0 2px; }
+blockquote { background: #f6f1e9; border: 1px solid #cda; border-left: 4px solid #6b2d2d;
+             padding: 6px 10px; margin: 6px 0; }
+blockquote p { margin: 2px 0; }
 """
 
 
