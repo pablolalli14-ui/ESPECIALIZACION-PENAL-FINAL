@@ -92,14 +92,14 @@ Un caso por carpeta `casos/<slug>/`:
 - Índice maestro `casos/_INDEX.json` (regenerar con `build_casos_index.py`): lista
   liviana + índice invertido `por_instituto` (instituto dogmático → casos).
 
-`casos/_RECOMENDACIONES_AUTOR.json` (+ render `.md`/`.pdf` vía
-`scripts/recomendaciones_autor_to_md.py`) es un entregable de estudio: para cada
-caso del banco, el enunciado en un recuadro justo arriba de la recomendación de
-autor con su justificación puntual (no la lectura mecánica del criterio general,
-sino aplicada al instituto concreto de cada caso). El campo `autor`/`justificacion`
-de cada entrada se redacta a mano tras analizar el caso; el script solo cruza esos
-datos con `caso.json` para traer el enunciado — no reemplaza el análisis. Regenerar
-tras agregar un caso nuevo o cambiar una recomendación.
+`casos/_RECOMENDACIONES_AUTOR.json` guarda, por caso, la recomendación de autor
+con su justificación puntual (no la lectura mecánica del criterio general, sino
+aplicada al instituto concreto de cada caso). El campo `autor`/`justificacion` de
+cada entrada se redacta a mano tras analizar el caso. Se renderiza como Parte 5
+de `doctrina/GUIA_AUTORES_INSTITUTOS.md/.pdf` (no como archivo aparte): ahí se
+cruza con cada `caso.json` para mostrar el enunciado en un recuadro justo arriba
+de la recomendación. Regenerar la guía tras agregar un caso nuevo o cambiar una
+recomendación.
 
 Esquema completo de `caso.json` y flujo de resolución: skill `resolver-caso-penal`.
 
@@ -123,11 +123,14 @@ modelos aprobados para institutos similares). Es un default razonado, no una reg
 rígida: el skill lo consulta y **siempre se lo muestra al usuario para confirmar**
 antes de redactar.
 
-`doctrina/GUIA_AUTORES_INSTITUTOS.md/.pdf` es una guía de estudio compuesta (cero
-tokens, `scripts/guia_autores_institutos.py`) a partir de las síntesis + la
-comparativa + el criterio de selección: perfil de cada autor, postura por
-estamento, glosario combinado y recomendación de autor. Regenerar tras agregar o
-editar una síntesis.
+`doctrina/GUIA_AUTORES_INSTITUTOS.md/.pdf` es el documento maestro de estudio,
+compuesto sin tokens nuevos (`scripts/guia_autores_institutos.py`) a partir de
+las síntesis + la comparativa + el criterio de selección + las recomendaciones
+por caso: Parte 1 (perfil de cada autor), Parte 2 (postura por estamento de la
+teoría del delito), Parte 3 (glosario combinado), Parte 4 (cómo elegir autor por
+estamento) y Parte 5 (recomendación de autor por cada caso del banco, con el
+enunciado en un recuadro junto a la justificación). Regenerar tras agregar o
+editar una síntesis, el criterio, o un caso/recomendación nuevos.
 
 `doctrina/_auxiliar/` guarda material complementario que no es la postura de un
 autor de línea (ni un caso): p. ej. `esquema_general_cp_argentino.json` (+ render),

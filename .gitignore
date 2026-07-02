@@ -4,7 +4,6 @@
 !doctrina/_COMPARATIVA_teoria_del_delito.pdf
 !doctrina/GUIA_AUTORES_INSTITUTOS.pdf
 !doctrina/_auxiliar/*.pdf
-!casos/_RECOMENDACIONES_AUTOR.pdf
 
 # Chunks intermedios regenerables (síntesis map-reduce)
 doctrina/**/_chunks/

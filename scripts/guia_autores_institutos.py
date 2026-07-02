@@ -14,6 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCTRINA = ROOT / "doctrina"
+CASOS = ROOT / "casos"
 
 ETAPAS_LABEL = {
     "accion": "Acción",
@@ -149,6 +150,38 @@ def main():
             nombre_autor = (comparativa or {}).get("autores", {}).get(autor_rec, {}).get("nombre", autor_rec.capitalize())
             lineas.append(f"- **{nombre}** → {nombre_autor}. {info.get('justificacion', '')}")
         lineas.append("")
+
+    # --- Parte 5: recomendación de autor por caso del banco ---
+    recomendaciones_path = CASOS / "_RECOMENDACIONES_AUTOR.json"
+    if recomendaciones_path.exists():
+        recs = json.loads(recomendaciones_path.read_text(encoding="utf-8"))
+        lineas.append("## Parte 5 — Recomendación de autor por caso del banco")
+        lineas.append("")
+        lineas.append(recs.get("proposito", ""))
+        lineas.append("")
+        for rec in recs.get("recomendaciones", []):
+            caso_json = CASOS / rec["caso_id"] / "caso.json"
+            if not caso_json.exists():
+                continue
+            caso = json.loads(caso_json.read_text(encoding="utf-8"))
+            meta = caso.get("meta", {})
+            numero = meta.get("numero", rec["caso_id"])
+            titulo = meta.get("titulo", "")
+            enunciado = caso.get("enunciado", "")
+            autor_slug = rec.get("autor", "")
+            nombre_autor = (comparativa or {}).get("autores", {}).get(autor_slug, {}).get("nombre", autor_slug.capitalize())
+
+            lineas.append(f"### Caso {numero} — {titulo}")
+            lineas.append("")
+            lineas.append("> **Enunciado:**")
+            lineas.append(">")
+            for linea_enun in enunciado.split("\n"):
+                lineas.append(f"> {linea_enun}")
+            lineas.append("")
+            lineas.append(f"**Problema dogmático:** {rec.get('problema_dogmatico', '')}")
+            lineas.append("")
+            lineas.append(f"**Autor recomendado: {nombre_autor}.** {rec.get('justificacion', '')}")
+            lineas.append("")
 
     contenido = "\n".join(lineas) + "\n"
     salida.write_text(contenido, encoding="utf-8")
