@@ -2,6 +2,7 @@
 *.pdf
 !*_synthesis.pdf
 !doctrina/_COMPARATIVA_teoria_del_delito.pdf
+!doctrina/GUIA_AUTORES_INSTITUTOS.pdf
 
 # OCR language data
 tessdata/
