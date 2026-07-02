@@ -111,12 +111,46 @@ def render_comparativa(d):
     return "\n".join(L)
 
 
+def render_esquema_general(d):
+    L = []
+    L.append(f"# {d.get('titulo', 'Esquema general')}")
+    L.append("")
+    if d.get("fuente"):
+        L.append(f"*Fuente: {d['fuente']}*")
+        L.append("")
+    if d.get("proposito"):
+        L.append(d["proposito"])
+        L.append("")
+    for e in d.get("estamentos", []):
+        L.append(f"## {e.get('estamento','')}")
+        L.append("")
+        if e.get("elementos"):
+            L.append("**Elementos:** " + "; ".join(e["elementos"]))
+            L.append("")
+        if e.get("causas_exclusion"):
+            L.append("**Causas de exclusión / justificación:**")
+            L.append("")
+            for c in e["causas_exclusion"]:
+                art = f" ({c['articulo']})" if c.get("articulo") else ""
+                L.append(f"- {c.get('causa','')}{art}")
+            L.append("")
+    if d.get("nota_relacion_con_autores"):
+        L.append("> " + d["nota_relacion_con_autores"])
+        L.append("")
+    return "\n".join(L)
+
+
 def main():
     if len(sys.argv) < 2:
-        sys.exit("Uso: python3 scripts/doctrina_to_md.py <_synthesis.json | _COMPARATIVA...json> [salida.md]")
+        sys.exit("Uso: python3 scripts/doctrina_to_md.py <_synthesis.json | _COMPARATIVA...json | esquema...json> [salida.md]")
     src = Path(sys.argv[1])
     d = json.loads(src.read_text(encoding="utf-8"))
-    md = render_comparativa(d) if "etapas" in d else render_autor(d)
+    if "etapas" in d:
+        md = render_comparativa(d)
+    elif "estamentos" in d:
+        md = render_esquema_general(d)
+    else:
+        md = render_autor(d)
     out = Path(sys.argv[2]) if len(sys.argv) > 2 else src.with_suffix(".md")
     out.write_text(md, encoding="utf-8")
     print(f"MD: {out}")

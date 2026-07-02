@@ -108,6 +108,26 @@ modelos aprobados para institutos similares). Es un default razonado, no una reg
 rígida: el skill lo consulta y **siempre se lo muestra al usuario para confirmar**
 antes de redactar.
 
+`doctrina/GUIA_AUTORES_INSTITUTOS.md/.pdf` es una guía de estudio compuesta (cero
+tokens, `scripts/guia_autores_institutos.py`) a partir de las síntesis + la
+comparativa + el criterio de selección: perfil de cada autor, postura por
+estamento, glosario combinado y recomendación de autor. Regenerar tras agregar o
+editar una síntesis.
+
+`doctrina/_auxiliar/` guarda material complementario que no es la postura de un
+autor de línea (ni un caso): p. ej. `esquema_general_cp_argentino.json` (+ render),
+un mapa mnemotécnico de la teoría del delito referido a los artículos del Código
+Penal argentino (art. 34 y ss.), útil como checklist estructural independiente de
+la línea doctrinal elegida.
+
+**Estado de fuentes pendientes:** Otto (62 MB) y Rafecas — *Derecho penal sobre
+bases constitucionales* (37–41 MB, escaneado sin capa de texto) no pudieron
+extraerse vía Drive por tamaño; ver `doctrina/otto/_PENDIENTE.md`. Rafecas se
+usa como bibliografía secundaria en varios trabajos-modelo del banco, pero su
+enfoque constitucional no puede ser la línea única del trabajo final (la pauta
+prohíbe discusión constitucional) — solo serviría como referencia complementaria,
+no como una 7ª línea de autor.
+
 ## Skill de resolución (`.claude/skills/resolver-caso-penal/`)
 
 De un enunciado produce un borrador del trabajo final respetando `pautas/`: elige UNA
