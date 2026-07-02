@@ -1,0 +1,376 @@
+TRABAJO FINAL — Manuel Lozano
+Carrera de Especialización en Derecho Penal — DNI 38.907.078
+
+SUMARIO: I. INTRODUCCIÓN. II. PLANTEO DEL PROBLEMA. III. SOLUCIÓN DOGMÁTICA.
+3.1. El homicidio de B: calificación del hecho principal. 3.2. Sobre la conducta del
+carcelero: A) Tipicidad: aa) Tipo objetivo: 1. Autoría mediata, 2. Conducta de la víctima;
+bb) Tipo subjetivo. B) Antijuridicidad. C) Culpabilidad. D) Sobre el intento de
+desistimiento. 3.3. Sobre la conducta del hermano sobreviviente – "A": A) Tipicidad: aa)
+Tipo objetivo; bb) Tipo subjetivo. B) Antijuridicidad. C) Culpabilidad. 3.4. Análisis de la
+variante. IV. CONCLUSIONES. V. BIBLIOGRAFÍA FINAL.
+
+I.- INTRODUCCIÓN
+
+El presente trabajo tiene por objeto determinar la responsabilidad penal del hermano
+sobreviviente, a quien se denominará "A", y del carcelero, en relación con la muerte del
+hermano ejecutado, a quien se denominará "B", en el marco del caso "Sentenciado a
+muerte" que se adjunta como anexo.
+
+El caso presenta, además, una variante que será tratada en sección separada: aquella
+en que B no manifiesta arrepentimiento alguno antes de la ejecución.
+
+II.- PLANTEO DEL PROBLEMA
+
+La primera cuestión dogmática que se plantea en el caso consiste en determinar los
+títulos de intervención atribuibles al carcelero y al hermano sobreviviente, dado que
+ninguno de ellos ejecutó materialmente el hecho. En segundo lugar, debe examinarse la
+incidencia del error sobre la identidad de la víctima, deliberadamente provocado, en la
+imputación del resultado. En tercer lugar, se impone analizar la relevancia del
+consentimiento de B a una conducta dirigida a su muerte, tanto en caso de retractación
+como de mantenimiento, en el marco de una heteropuesta en peligro. En cuarto lugar,
+resulta necesario considerar la posible exclusión de culpabilidad por inexigibilidad de otra
+conducta en el contexto de coacción en el que se desarrollan los hechos. Finalmente,
+corresponde evaluar la eventual configuración del desistimiento voluntario a partir de la
+conducta posterior del carcelero.
+
+III.- SOLUCIÓN DOGMÁTICA
+
+3.1.- El homicidio de B: calificación del hecho principal
+
+La muerte de B configura un homicidio agravado por alevosía (art. 80 inc. 2° CP).
+La indefensión de B derivaba de su condición de detenido ilegalmente en una prisión
+clandestina, a merced de un grupo paramilitar organizado: fue conducido desde su celda
+hasta el lugar de la ejecución, donde un jefe del operativo impartió la orden definitiva, sin
+que pudiera oponer resistencia capaz de representar un riesgo para los agentes. Esta
+circunstancia fue conscientemente aprovechada por quienes tomaron parte en el hecho
+[Donna, Derecho Penal – Parte Especial, t. I, pág. 40 y ss.]. La calificación del hecho
+principal constituye el presupuesto sobre el cual se construirá el juicio de tipicidad de las
+conductas del carcelero y de A. El conocimiento de las circunstancias que fundan la
+agravante por parte de cada uno de ellos será analizado en los apartados correspondientes.
+
+3.2.- Sobre la conducta del carcelero
+
+A) Tipicidad
+
+aa) Tipo objetivo
+
+1.- Autoría mediata
+
+De los hechos relatados surge que el carcelero no ejecutó materialmente el homicidio
+de B. Ello no obsta a su responsabilidad como autor, pues dentro de la autoría mediata,
+doctrinariamente se distingue un grupo de casos en los que el ejecutor directo obra de
+modo plenamente delictivo, aunque mediando un error sin el cual el delito no habría
+tenido lugar en los términos en que ocurrió: el "error en el sentido concreto de la acción",
+que puede manifestarse a través de un error in persona deliberadamente provocado por
+el hombre de atrás, también denominado "autor detrás del autor" [nota: la figura no es
+pacífica en la doctrina; Stratenwerth, Schumann y Jakobs objetan que si el ejecutor obra
+plenamente delictivo, el hombre de atrás debería ser instigador, cómplice o partícipe;
+Roxin responde que no cabe inducción de quien ya está resuelto a cometer el hecho, ni
+complicidad cuando se frustra el plan del ejecutor, por lo que solo cabe autoría mediata
+fundada en la supradeterminación del resultado]. En tales supuestos, la fundamentación
+de la autoría mediata reside en la supradeterminación que ejerce el sujeto de atrás. Esto
+es, que el resultado se produce en términos distintos de los representados por el ejecutor
+directo, recayendo sobre una persona distinta de la prevista por este, conforme al plan del
+autor de atrás [Roxin, Autoría y dominio del hecho en derecho penal, pp. 235/240].
+
+En el caso bajo análisis, es claro que los ejecutores obraron bajo un error in persona:
+creyeron dar cumplimiento a una condena recaída sobre A, cuando en rigor mataron a B.
+Este error, sin embargo, no fue accidental, sino deliberada y activamente producido por
+el carcelero al habilitar el intercambio de celdas, sin que los ejecutores tuvieran
+posibilidad alguna de advertirlo. Si bien el error in persona es irrelevante para el ejecutor
+directo [Roxin, Derecho Penal, Parte General, t. II, §25, pp. 109 y ss.], en tanto mata
+dolosamente a quien tiene delante, en el presente caso ese yerro es lo que otorga al
+carcelero el dominio sobre el sentido concreto del resultado. Ello es así, pues el carcelero,
+a diferencia de los ejecutores, conocía la identidad real de la víctima y se encontraba en
+posición de incidir efectivamente en el curso del hecho.
+
+Cabe destacar que el dominio del hecho no exige que el hombre de atrás haya iniciado
+el plan ni que haya impartido órdenes a los ejecutores: exige únicamente que haya
+controlado la condición esencial de cuyo estado dependía la dirección del resultado. El
+carcelero no ordenó la ejecución ni participó en el operativo; sin embargo, sin su
+intervención el error que orientó la ejecución hacia el hermano B no habría existido. De
+este modo, el carcelero ejerció el dominio del hecho en cuanto a la determinación de la
+víctima, sirviéndose de los verdugos del grupo paramilitar como instrumento "ciego" en
+lo que respecta a su identidad. Ello permite fundar, en este supuesto excepcional de "autor
+detrás del autor", su calidad de autor mediato del homicidio de B, aun cuando los
+ejecutores hayan obrado con plena responsabilidad [Roxin, Derecho Penal. Parte General,
+t. II, p.110].
+
+2.- Conducta de la víctima
+
+Corresponde descartar que la conducta de B opere como filtro de la imputación
+objetiva. La heteropuesta en peligro consentida solo excluye la imputación cuando resulta
+normativamente equivalente a una autopuesta en peligro [Roxin, La heteropuesta en
+peligro consentida: ¿una discusión sin final?, ADPCP, vol. LXXI, 2018, pp. 66],
+equivalencia que no se verifica: fue el carcelero quien colocó a B en una situación de
+peligro que quedó íntegramente en manos de los ejecutores. Y, a partir de ese momento, B
+carecía de todo mecanismo para intervenir en el curso causal, circunstancia que se ve
+reflejada en la ineficacia de la retractación de B momentos antes de la ejecución. A ello se
+suma que el consentimiento sobre la propia vida es "totalmente ineficaz" como factor
+excluyente de la responsabilidad penal del autor [Roxin, Derecho Penal. Parte General, t.
+I, § 13, nm. 35, citado en Donna, Derecho Penal. Parte General, t. III, p. 409, donde se
+señala el correlato en el art. 83 CP argentino sobre cooperación en el suicidio], de modo
+que ninguna forma de voluntad de la víctima sobre su propia muerte elimina la relevancia
+penal de la conducta de quien coopera con ese resultado. La imputación objetiva del
+resultado al carcelero queda, por tanto, plenamente afirmada.
+
+bb) Tipo subjetivo
+
+Al habilitar el intercambio de celdas, el carcelero dirigió su conducta a un resultado
+determinado: que B ocupara el lugar de A y, en consecuencia, fuera ejecutado en su lugar.
+La muerte de B no constituía un efecto colateral o accesorio de la acción, sino el contenido
+mismo del plan, sin el cual el intercambio carecería de todo sentido. Ello configura un
+dolo directo [Roxin, Derecho Penal, Parte General, t. I, p. 415; Donna, Derecho Penal,
+Parte General, t. II, p. 566 y ss.]. Esto no se ve empañado por el hecho de que el carcelero
+contara con un "corazón tierno" o que haya obrado movido por la compasión, pues el dolo
+directo no debe confundirse con los motivos internos que hayan impulsado al autor a
+actuar [Donna, t. II, p. 568, con cita de Roxin, §12, t. I, 1, nm. 10, p. 419]. Nótese que el
+intercambio de celdas no tenía ninguna otra finalidad concebible que colocar a B en el
+lugar de A para que fuera ejecutado: no existía un fin autónomo del plan al que la muerte
+pudiera adosarse como efecto colateral (lo que descarta un dolo de consecuencias
+necesarias); tampoco cabe dolo eventual, pues el carcelero no se representó el resultado
+como meramente posible, sino como seguro.
+
+También cabe asumir con seguridad que el carcelero tenía plena representación de
+las circunstancias en las que se llevaría a cabo la ejecución: sabía que B sería conducido
+por un grupo armado organizado sin posibilidad alguna de oponer resistencia, de modo
+que su dolo abarcó también las condiciones de indefensión que fundan la agravante de
+alevosía analizada en el punto 3.1.
+
+B) Antijuricidad
+
+La única causa de justificación que amerita consideración es el estado de necesidad
+del artículo 34 inciso 3° del CP. Sin embargo, el conflicto enfrentaba bienes de idéntica
+jerarquía —vida contra vida—, supuesto en el que son inadmisibles las cuantificaciones,
+pues ante el derecho toda vida tiene el mismo rango [Roxin, Derecho Penal, Parte General,
+t. I, §16, III, nm. 29, p. 686; Donna coincide desde otro fundamento: la dignidad de la
+persona impide utilizar a un ser humano como medio, t. III, pp. 291-295]. La conducta es
+antijurídica.
+
+C) Culpabilidad
+
+El artículo 34 inciso 2° del CP exime de responsabilidad a quien obra por no poder
+dirigir sus acciones, sea por amenazas de sufrir un mal grave e inminente. Sin embargo,
+como la ley no regula de manera completa esta eximente, la doctrina ha reconocido la
+existencia de supuestos que, sin encuadrar estrictamente en su texto, responden a la misma
+lógica de inexigibilidad y admiten ser alcanzados por vía de analogía in bonam partem,
+sin afectación del principio de legalidad [Donna, t. IV, p. 392; Righi, Derecho Penal, Parte
+General, p. 341].
+
+La estructura del caso presenta un denominador común con los supuestos que la
+doctrina discute bajo esta categoría: el carcelero no creó el peligro —la ejecución había
+sido ordenada por el jefe paramilitar con independencia de su voluntad—, sino que, ante
+un resultado letal inevitable, desvió su dirección de una persona a otra [análogo al ejemplo
+del empleado de ferrocarril de Welzel: un empleado desvía un tren sin frenos hacia una
+vía secundaria, arrollando a varios obreros, para evitar que colisione con un tren repleto
+de pasajeros. Welzel, Zum Notstandsproblem, ZStW 63, 1951, p. 51; retomado por Roxin,
+t. I, §22, nm. 152, y por Donna, t. IV, p. 390].
+
+Frente a este tipo de supuestos, la doctrina ofrece soluciones divergentes. Roxin
+considera que, cuando el peligro se descarga sobre personas no implicadas, la exclusión
+plena de la responsabilidad no resulta procedente y tan solo podría admitirse una
+atenuación de la pena [Roxin, t. I, §22, nm. 153]. Welzel, en cambio, entiende que el autor
+se encuentra ante una genuina situación de decisión ética: el ordenamiento no puede
+formularle un reproche de culpabilidad por haber asumido lo injusto menor para proteger
+de lo injusto mayor, y debe dispensar indulgencia, pues cualquier otro ciudadano en su
+lugar habría tenido que actuar del mismo modo [Welzel, Derecho penal. Parte general,
+§23, p. 217; citado en Donna, t. IV, p. 391].
+
+Es cierto que Welzel formula su razonamiento desde la lógica del mal menor, esto
+es, desde supuestos en los que se salvan más vidas de las que se sacrifican. En el caso
+bajo análisis, en cambio, los bienes en conflicto presentan una equivalencia estructural,
+pues mediara o no la intervención del carcelero, al menos una vida se habría perdido. Esta
+circunstancia no excluye, sin embargo, la posible inexigibilidad de otra conducta. En
+efecto, la intervención del carcelero no incrementó el desvalor del resultado, sino que
+incidió únicamente en la determinación de la persona afectada, en un contexto en el que
+ambas víctimas habían manifestado su voluntad en tal sentido. Este elemento, considerado
+en el plano de la culpabilidad, permite afirmar que exigirle permanecer impasible ante el
+ruego de sus covíctimas constituye una demanda que excede lo que el derecho puede
+razonablemente imponer.
+
+A ello se agregan circunstancias del caso que refuerzan esta conclusión: el carcelero
+era una víctima más del aparato represivo, forzado a operar como custodio en un centro
+clandestino de detención; y su conducta no se encontró guiada por una tendencia hostil al
+bien jurídico sino por la compasión hacia sus covíctimas, en un contexto de coerción
+institucionalizada que reducía severamente su ámbito de autodeterminación. Asimismo,
+desde un punto de vista preventivo, tampoco se advierte una necesidad preventiva de pena
+que justifique un reproche en un caso de estas características: el carcelero estaba
+socialmente integrado como víctima del propio sistema, no existía peligro de reincidencia,
+y la singularidad extrema de la situación hace superfluo prevenir la imitación [Roxin, t.
+I, §22, nm. 144, p. 962]. En consecuencia, corresponde excluir la culpabilidad del
+carcelero por aplicación analógica del artículo 34 inc. 2° del CP [en igual sentido, Donna,
+t. IV, p. 391].
+
+D) Sobre el intento de desistimiento
+
+Sin perjuicio de la exclusión de la culpabilidad propuesta en el apartado anterior,
+corresponde analizar brevemente si la conducta del carcelero al correr desesperadamente
+a detener la ejecución podría configurar un desistimiento voluntario en los términos del
+artículo 43 del CP.
+
+El desistimiento voluntario tiene como presupuesto elemental que el hecho haya
+quedado en la etapa de tentativa y que el autor evite el resultado [Donna, t. V, p. 410]. En
+el caso de la autoría mediata, el desistimiento exige que el hombre de atrás impida
+efectivamente la consumación: dado que la conducta del instrumento se imputa al autor
+mediato en virtud de su dominio del hecho, el mero abandono de la propia actividad no es
+suficiente, sino que se requiere una intervención activa que logre neutralizar el curso
+causal puesto en marcha [Donna, t. V, pp. 411/412, con cita de Maurach, Gössel y Zipf, y
+de Stratenwerth]. En el caso, el carcelero emprendió esa intervención activa al correr
+hacia el jefe del operativo para interrumpir la ejecución, pero no logró evitar el resultado:
+la orden fue impartida y B fue ejecutado. Por lo tanto, el delito se consumó. Al no haberse
+evitado la producción del resultado típico, no se satisface la exigencia del artículo 43 CP,
+por lo que el desistimiento no opera como causa de exclusión de la punibilidad [a igual
+conclusión conduce Roxin, para quien en la tentativa acabada de autoría mediata el
+desistimiento exige que el hombre de atrás evite la consumación: Leipziger Kommentar,
+§25, nm. 152, citado por Donna, t. V, p. 409/410].
+
+3.3.- Sobre la conducta del hermano sobreviviente - A
+
+A) Tipicidad
+
+aa) Tipo objetivo
+
+El artículo 45 del CP equipara en pena a los autores a quienes hubiesen determinado
+directamente a otro a cometer un delito. La inducción consiste en la determinación dolosa
+de otra persona a la comisión de un hecho típico y antijurídico [Roxin, t. II §26, nm. 57,
+p. 226]. Lo que define a esta forma de participación es la libertad del inducido: el inductor
+hace que otra persona, bajo su propia responsabilidad, adopte la resolución de llevar a
+cabo la acción típica [Donna, t. V, p. 444/446]. Para que se configure, es necesario que el
+inductor haya sido causal de la resolución del autor; ello presupone que este no estuviera
+ya decidido por sí mismo a realizar el hecho —un omnimodo facturus— [Roxin, t. II §26,
+nm. 65, p. 228].
+
+En el caso, A fue quien ideó y promovió el plan de intercambio de celdas. Junto con
+B (que, siendo el propio titular del bien jurídico atacado, es impune con independencia de
+su intervención en la ideación, ya que nadie puede ser partícipe punible de un ataque
+perpetrado contra sí mismo: Roxin, t. II §26, nms. 44/45, pp. 221), fue quien habló con el
+carcelero y le propuso la sustitución, insistiendo en el pedido hasta que este accedió. Con
+anterioridad a esa incitación, el carcelero no había resuelto habilitar intercambio alguno;
+fue la intervención directa de A la que generó en él la resolución de llevar a cabo la
+conducta que configuró una autoría mediata del homicidio de B. El carcelero, sin
+embargo, actuó libremente: no fue coaccionado ni instrumentalizado por A, sino que
+adoptó bajo su propia responsabilidad la decisión de facilitar el intercambio. Esta
+circunstancia preserva la estructura de la instigación, en tanto la libertad del inducido
+constituye el criterio diferenciador entre esta forma de participación y la autoría mediata
+[Donna, t. V, p. 446].
+
+En suma, se encuentra completo el tipo objetivo de A como instigador del homicidio
+agravado por alevosía de B (arts. 45 y 80 inc. 2° CP) [nota: la conducta material de A de
+intercambiarse de celda podría también verse como complicidad en el hecho del carcelero,
+pero esta forma más leve de participación queda desplazada por la instigación, más grave:
+Roxin, t. II, §26, nm. 180, p. 273].
+
+bb) Tipo subjetivo
+
+La instigación exige lo que la doctrina denomina "doble dolo": en primer lugar,
+respecto de la propia conducta de determinación; en segundo lugar, en relación con el
+hecho doloso del inducido, debiendo abarcar el dolo del inductor los elementos objetivos
+y subjetivos del hecho principal [Donna, t. V, p. 450; Roxin, t. II, §26, nm. 132, pp.
+252/253]. En el caso, ambas exigencias se verifican. A dirigió su conducta a generar en el
+carcelero la resolución de habilitar el intercambio de celdas, conociendo que ello
+configuraría el hecho analizado en el punto 3.2. Y, respecto del hecho principal, sabía con
+certeza que quien ocupara su celda sería ejecutado al día siguiente: la muerte de B no era
+una consecuencia accesoria sino la meta misma del plan. Obró, en consecuencia, con dolo
+directo.
+
+A su vez, el artículo 48 in fine del CP dispone que las circunstancias agravantes
+tendrán influencia respecto del partícipe cuando fueren conocidas por él. Llevado esto al
+hecho en análisis, es claro que A conocía que la ejecución se llevaría a cabo mediante el
+fusilamiento por parte de un grupo paramilitar organizado, frente al cual B no tendría
+posibilidad alguna de oponer resistencia, de modo que la alevosía del hecho principal le
+resulta comunicable [Donna, t. V, p. 432/433].
+
+B) Antijuricidad
+
+Remitiendo al análisis efectuado en el punto 3.2, apartado B), la conducta de A es
+antijurídica. El conflicto enfrentaba bienes de idéntica jerarquía —vida contra vida—, lo
+que impide la aplicación del estado de necesidad justificante, y no concurre ninguna otra
+causa de justificación.
+
+C) Culpabilidad
+
+A diferencia del carcelero, cuya situación exigió recurrir a la exculpación por vía
+supralegal, el caso de A se subsume de manera directa en el estado de necesidad
+disculpante [análogo al célebre caso de la tabla de Carnéades: el náufrago que arrebata a
+otro la única tabla que puede mantener a flote a uno solo de ellos. Donna, t. IV, p. 381].
+Sobre A pesaba un peligro actual para su vida —había sido "sentenciado a muerte" por el
+jefe del grupo paramilitar y su ejecución estaba prevista para el día siguiente—, que él no
+había provocado ni estaba obligado a soportar [Donna, t. IV, pp. 383 y 393-396]. El bien
+jurídico amenazado —la vida— es susceptible de fundar la exculpante [Donna, t. IV, pp.
+386-387]. No existía otro medio para evitar el peligro: A se encontraba privado
+ilegítimamente de su libertad en un centro clandestino de detención, sin posibilidad de
+recurrir a la autoridad legítima, fugarse o resistir la ejecución [Donna, t. IV, cit., p. 395;
+Roxin, t. I, §22, nms. 18-21].
+
+La diferencia con el carcelero radica en que A enfrentaba un peligro directo e
+inminente contra su propia vida —había sido personalmente "sentenciado a muerte"—, lo
+que encuadra en la hipótesis típica del estado de necesidad disculpante legal: el sujeto
+actúa para salvar un bien jurídico propio, de máxima jerarquía, frente a una amenaza actual
+e inevitable. El carcelero, en cambio, no obraba para preservar su propia vida ni la de un
+allegado, sino que intervino por compasión ante el ruego de sus covíctimas; al no
+verificarse en su caso la estructura clásica de la exculpante legal, fue necesario recurrir a
+la vía supralegal [Donna, t. IV, pp. 380-383].
+
+Verificadas estas circunstancias, no era exigible a A una conducta distinta, en tanto
+el contexto descripto importó un menoscabo anormal de su libre determinación de la
+voluntad que impide formularle un reproche de culpabilidad [Donna, t. IV, p. 383, con cita
+de Hirsch; Roxin funda la exculpación no en la inexigibilidad sino en la falta de necesidad
+preventiva de punición: en estos supuestos, pese a subsistir una culpabilidad disminuida,
+el castigo resulta político-criminalmente inadecuado, pues no sería esperable un efecto
+motivador de la norma dado el carácter excepcional de las circunstancias, ni existe
+necesidad de prevención especial o general. Roxin, t. I, §22, nm. 6-11, pp. 898/900].
+
+Por lo tanto, la conducta de A, si bien típica y antijurídica, resulta exculpada en los
+términos del artículo 34 inciso 2° del Código Penal.
+
+3.4.- Análisis de la variante
+
+En la variante propuesta, B no se retracta en ningún momento. Esta modificación
+fáctica no altera las conclusiones alcanzadas. La tipicidad objetiva y subjetiva de las
+conductas del carcelero y de A se configuran por las razones antes expuestas, con
+independencia de la plena aceptación del resultado por parte de B [el consentimiento
+sostenido de B carecería de relevancia incluso en la calificación del hecho, pues el CP
+argentino no prevé un tipo atenuado para el homicidio consentido, a diferencia de
+ordenamientos comparados como el §216 del StGB alemán: Roxin, t. I, §13, nm. 35]. No
+concurren causas de justificación de ningún tipo. La culpabilidad de ambos sujetos
+permanece igualmente excluida, por los fundamentos desarrollados en los puntos 3.2.C y
+3.3.C respectivamente. En cuanto a la punibilidad, al no existir retractación de B, el
+carcelero no emprendería acción alguna tendiente a detener la ejecución.
+
+IV.- CONCLUSIONES
+
+El homicidio de B configura un homicidio agravado por alevosía (art. 80 inc. 2° CP).
+El carcelero es autor mediato de dicho homicidio, por dominio de la voluntad de los
+ejecutores en virtud del error in persona que deliberadamente produjo al habilitar el
+intercambio de celdas. Obró con dolo directo. Su conducta es antijurídica, al no concurrir
+causa de justificación alguna. Su culpabilidad, no obstante, resulta excluida por aplicación
+analógica del estado de necesidad disculpante del artículo 34 inciso 2° del Código Penal.
+Su intento de detener la ejecución no configura desistimiento voluntario, por haberse
+consumado el delito.
+
+El hermano sobreviviente —A— es instigador del autor mediato. Determinó
+dolosamente al carcelero a llevar a cabo la conducta que posibilitó el homicidio de B,
+actuando con dolo directo. Su conducta es antijurídica. Su culpabilidad resulta excluida
+por el estado de necesidad disculpante del artículo 34 inciso 2° del Código Penal, al haber
+obrado bajo amenaza directa e inminente contra su propia vida, en un contexto en el que
+no disponía de otro medio de salvación.
+
+La variante en la que B no se retracta no altera ninguna de las conclusiones
+precedentes.
+
+V.- BIBLIOGRAFÍA FINAL
+
+- Donna, Edgardo A.; Derecho penal. Parte general. Tomos II, III, IV y V. Santa Fe:
+  Rubinzal Culzoni, 2009.
+- Donna, Edgardo A.; Derecho penal. Parte especial. Tomo I. Santa Fe: Rubinzal
+  Culzoni, 2008.
+- Roxin, Claus; Autoría y dominio del hecho en derecho penal. Traducción de la 6.ª
+  edición alemana por Cuello Contreras y Serrano González de Murillo. Madrid: Marcial
+  Pons, 1998.
+- Roxin, Claus; Derecho Penal. Parte General, Tomo I, traducción de la 2.ª edición
+  alemana y notas por Luzón Peña, Madrid, Civitas, 1997.
+- Roxin, Claus; Derecho Penal. Parte General, Tomo II, traducción de la 1.ª edición
+  alemana y notas por Luzón Peña, Paredes Castañón, Díaz y García Conlledo y De
+  Vicente Remesal, Madrid, Civitas, 2014.
+- Roxin, Claus; La heteropuesta en peligro consentida: ¿una discusión sin final?,
+  ADPCP, vol. LXXI, 2018.

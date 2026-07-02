@@ -74,6 +74,11 @@
       "autor_recomendado": "jakobs",
       "justificacion": "Concepto originado y desarrollado específicamente por Jakobs.",
       "evidencia_empirica": []
+    },
+    "autor detrás del autor / autoría mediata por error deliberadamente provocado": {
+      "autor_recomendado": "roxin",
+      "justificacion": "Es un desarrollo propio y distintivo de Roxin (obra de referencia: 'Autoría y dominio del hecho en derecho penal'): fundamenta la autoría mediata en la supradeterminación del hombre de atrás sobre el sentido concreto del resultado, incluso cuando el ejecutor directo actúa con plena responsabilidad. Ningún otro autor del set desarrolla esta figura con igual precisión.",
+      "evidencia_empirica": ["caso-sentenciado-muerte (Roxin, dominante en el modelo aprobado)"]
     }
   }
 }

@@ -1,7 +1,7 @@
 {
  "generated": "2026-07-02",
- "n_casos": 16,
- "n_con_modelo": 7,
+ "n_casos": 17,
+ "n_con_modelo": 8,
  "casos": [
   {
    "id": "caso-01",
@@ -298,6 +298,26 @@
    "articulos_indicados": [],
    "resoluciones": [],
    "path": "casos/caso-ricardo-jacinto/caso.json"
+  },
+  {
+   "id": "caso-sentenciado-muerte",
+   "numero": "s/n",
+   "titulo": "Sentenciado a muerte: intercambio de celdas, error in persona provocado y ejecución del hermano equivocado",
+   "institutos_dogmaticos": [
+    "autoría mediata por dominio de la voluntad (error in persona deliberadamente provocado / \"autor detrás del autor\")",
+    "instigación (doble dolo)",
+    "heteropuesta en peligro consentida / consentimiento sobre la propia vida",
+    "estado de necesidad disculpante (art. 34 inc. 2 CP) / exculpación supralegal por inexigibilidad de otra conducta",
+    "desistimiento voluntario en autoría mediata (art. 43 CP)",
+    "homicidio agravado por alevosía (art. 80 inc. 2 CP)",
+    "comunicabilidad de circunstancias agravantes a los partícipes (art. 48 CP)"
+   ],
+   "tiene_modelo": true,
+   "articulos_indicados": [],
+   "resoluciones": [
+    "resoluciones/lozano.txt"
+   ],
+   "path": "casos/caso-sentenciado-muerte/caso.json"
   }
  ],
  "por_instituto": {
@@ -325,6 +345,9 @@
   "autopuesta en peligro / conducta de la víctima": [
    "caso-01"
   ],
+  "autoría mediata por dominio de la voluntad (error in persona deliberadamente provocado / \"autor detrás del autor\")": [
+   "caso-sentenciado-muerte"
+  ],
   "autoría y participación (coautoría, complicidad)": [
    "caso-2021-1"
   ],
@@ -339,6 +362,9 @@
   ],
   "comisión por omisión / posición de garante (por injerencia)": [
    "caso-2021-8"
+  ],
+  "comunicabilidad de circunstancias agravantes a los partícipes (art. 48 cp)": [
+   "caso-sentenciado-muerte"
   ],
   "consentimiento presunto / asunción del riesgo por la víctima": [
    "caso-02"
@@ -367,6 +393,9 @@
   ],
   "desistimiento de la tentativa": [
    "caso-2021-1"
+  ],
+  "desistimiento voluntario en autoría mediata (art. 43 cp)": [
+   "caso-sentenciado-muerte"
   ],
   "desviación del curso causal": [
    "caso-04",
@@ -431,6 +460,9 @@
   "error sobre un presupuesto fáctico": [
    "caso-09"
   ],
+  "estado de necesidad disculpante (art. 34 inc. 2 cp) / exculpación supralegal por inexigibilidad de otra conducta": [
+   "caso-sentenciado-muerte"
+  ],
   "estado de necesidad justificante (art. 34 inc. 3 cp)": [
    "caso-02"
   ],
@@ -444,8 +476,14 @@
    "caso-01",
    "caso-05"
   ],
+  "heteropuesta en peligro consentida / consentimiento sobre la propia vida": [
+   "caso-sentenciado-muerte"
+  ],
   "homicidio a petición / consentimiento de la víctima": [
    "caso-2021-1"
+  ],
+  "homicidio agravado por alevosía (art. 80 inc. 2 cp)": [
+   "caso-sentenciado-muerte"
   ],
   "homicidio agravado por el vínculo (art. 80 inc. 1 cp)": [
    "caso-09"
@@ -468,6 +506,9 @@
    "caso-12",
    "caso-2021-8",
    "caso-ricardo-jacinto"
+  ],
+  "instigación (doble dolo)": [
+   "caso-sentenciado-muerte"
   ],
   "insuficiencia o alteración morbosa de las facultades": [
    "caso-09"

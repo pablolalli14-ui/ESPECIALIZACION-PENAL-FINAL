@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": "caso-sentenciado-muerte",
+    "numero": "s/n",
+    "titulo": "Sentenciado a muerte: intercambio de celdas, error in persona provocado y ejecución del hermano equivocado",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "¿Cómo debe ser juzgada la acción del carcelero y la del hermano sobreviviente? (Los responsables directos del fusilamiento y el jefe de la ejecución han muerto, de modo que se declara extinguida la acción penal a su respecto.) Variante: el hermano fusilado no se arrepintió en ningún momento.",
+    "tiene_modelo": true
+  },
+  "enunciado": "En la cárcel clandestina de un grupo paramilitar que opera al amparo del gobierno, hay dos jóvenes recluidos. Ambos son hermanos gemelos. Uno de ellos ha sido \"sentenciado a muerte\" por el jefe de la organización; el otro se halla recluido desde hace dos años, no sabe hasta qué momento. Cada uno de estos hermanos habría preferido tener la suerte del otro. De carcelero, de hecho, el grupo paramilitar hace operar a uno de los mismos reclusos, que tiene que administrar \"el orden\" tan sólo durante las salidas al baño, a recreos y en ocasión de ciertas requisas. Siendo una víctima más, el carcelero es confidente de casi todas las personas allí recluidas y especialmente lo es de los dos hermanos. Frente a sus covíctimas, el hombre tiene un desempeño correcto y corazón tierno.\n\nEn ese contexto, los hermanos prisioneros hablan con el carcelero a fin de que les permita intercambiarse de celdas durante la noche anterior a la ejecución. Ante la insistencia de esta petición, el carcelero accede. Al día siguiente, todo se desenvuelve como está previsto, pero, segundos antes de la ejecución, el hermano \"autocondenado\" se arrepiente, se descontrola y comienza a gritar que no es él sobre quien ha recaído la condena ilícita. Al oír esto, el carcelero, que iba a presenciar la ejecución, corre desesperado hacia el jefe del operativo que habría de dar la orden definitiva, pero ya era tarde. Este, que no creyó en los ruegos del soldado y tampoco llegó a oír los gritos del carcelero, ordena la ejecución. El pobre soldado muere. Quedan registrados los últimos hechos en una grabación por sistema de video del centro clandestino de detención. De hecho es verificada también la identidad del muerto, como el sujeto no indicado.\n\n¿Cómo debe ser juzgada la acción del carcelero y la del hermano sobreviviente? (Los responsables directos del fusilamiento y el jefe de la ejecución han muerto, de modo que se declara extinguida la acción penal a su respecto.)\n\nVariante: El hermano fusilado no se arrepintió en ningún momento.",
+  "sujetos": [
+    { "nombre": "Carcelero", "rol": "activo", "notas": "Recluso que ejerce funciones de custodia; habilita el intercambio de celdas a pedido de los hermanos. No ejecuta materialmente el homicidio." },
+    { "nombre": "A (hermano sobreviviente)", "rol": "activo", "notas": "Ideó y promovió el intercambio de celdas junto con B; no era el sentenciado a muerte, pero terminó siendo el objetivo real de la ejecución (aunque murió B en su lugar)." },
+    { "nombre": "B (hermano ejecutado)", "rol": "pasivo", "notas": "Sentenciado a muerte originalmente; ocupó la celda de A por el intercambio y fue ejecutado por error de los verdugos, que creían ejecutar a A. Se retracta segundos antes de la ejecución (en la variante, no se retracta)." },
+    { "nombre": "Ejecutores / jefe del operativo", "rol": "tercero", "notas": "Actúan bajo error in persona provocado por el carcelero; fallecidos, acción penal extinguida a su respecto." }
+  ],
+  "institutos_dogmaticos": [
+    "autoría mediata por dominio de la voluntad (error in persona deliberadamente provocado / \"autor detrás del autor\")",
+    "instigación (doble dolo)",
+    "heteropuesta en peligro consentida / consentimiento sobre la propia vida",
+    "estado de necesidad disculpante (art. 34 inc. 2 CP) / exculpación supralegal por inexigibilidad de otra conducta",
+    "desistimiento voluntario en autoría mediata (art. 43 CP)",
+    "homicidio agravado por alevosía (art. 80 inc. 2 CP)",
+    "comunicabilidad de circunstancias agravantes a los partícipes (art. 48 CP)"
+  ],
+  "problema_central": "El caso plantea varios problemas encadenados: (1) los títulos de intervención del carcelero y del hermano sobreviviente A, ya que ninguno ejecutó materialmente el homicidio; (2) la incidencia, en la imputación del resultado, de un error sobre la identidad de la víctima deliberadamente provocado por el carcelero al habilitar el intercambio de celdas (los verdugos matan a B creyendo ejecutar a A); (3) la relevancia del consentimiento/heteropuesta en peligro de B respecto de una conducta dirigida a su muerte, tanto si se retracta como si no; (4) la posible exclusión de culpabilidad por inexigibilidad de otra conducta, en un contexto de coacción institucionalizada, tanto para el carcelero (por compasión hacia sus covíctimas) como para A (por amenaza directa e inminente contra su propia vida); y (5) si el intento del carcelero de detener la ejecución configura un desistimiento voluntario pese a no haber evitado el resultado.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": ["resoluciones/lozano.txt"],
+  "notas": "Numeración de caso no visible en el material recibido; se guarda como 's/n'. El modelo aprobado (Lozano) trabaja centralmente con Roxin (autoría mediata por \"autor detrás del autor\", dominio de la voluntad, heteropuesta en peligro) complementado con Donna, y contrasta puntualmente a Roxin con Welzel en el tratamiento del estado de necesidad disculpante del carcelero (analogía al caso del empleado de ferrocarril de Welzel) — es un modelo de estructura y razonamiento, no de línea única (compara autores en el punto de culpabilidad del carcelero)."
+}

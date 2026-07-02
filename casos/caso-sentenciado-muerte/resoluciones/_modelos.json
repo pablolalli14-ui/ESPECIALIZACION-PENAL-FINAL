@@ -1,0 +1,23 @@
+{
+  "caso": "caso-sentenciado-muerte",
+  "modelos": [
+    {
+      "archivo": "lozano.txt",
+      "autor_alumno": "Manuel Lozano",
+      "linea_doctrinal": "base Roxin (con Donna como complemento constante); contrasta puntualmente a Roxin con Welzel en el estado de necesidad disculpante del carcelero",
+      "autores_citados": ["Roxin", "Donna", "Welzel", "Righi", "Stratenwerth", "Schumann", "Jakobs", "Maurach", "Gössel", "Zipf"],
+      "tipo_penal": "Homicidio agravado por alevosía (art. 80 inc. 2 CP): autoría mediata del carcelero (art. 45 CP por dominio del hecho) e instigación de A (art. 45 CP)",
+      "institutos": [
+        "autoría mediata por dominio de la voluntad (\"autor detrás del autor\", error in persona provocado)",
+        "instigación (doble dolo)",
+        "heteropuesta en peligro consentida",
+        "estado de necesidad disculpante / exculpación supralegal (art. 34 inc. 2 CP)",
+        "desistimiento voluntario en autoría mediata (art. 43 CP)",
+        "comunicabilidad de agravantes (art. 48 CP)"
+      ],
+      "tesis": "El carcelero es autor mediato (no partícipe) del homicidio de B porque, mediante el error in persona que deliberadamente provocó, ejerció el dominio sobre el sentido concreto del resultado (supradeterminación), aunque los ejecutores hayan obrado con plena responsabilidad. A es instigador del carcelero: lo determinó dolosamente a habilitar el intercambio, sin coaccionarlo. Ambos actúan con dolo directo y de forma antijurídica (conflicto vida-vida no admite estado de necesidad justificante), pero su culpabilidad se excluye: el carcelero por vía de exculpación supralegal analógica (actuó por compasión, no creó el peligro, solo desvió su dirección — análogo al caso del empleado de ferrocarril de Welzel), y A por estado de necesidad disculpante legal directo (peligro actual e inminente contra su propia vida). El intento del carcelero de frenar la ejecución no configura desistimiento porque no logró evitar el resultado.",
+      "resultado": "Carcelero: autor mediato de homicidio agravado por alevosía, típico y antijurídico, pero con culpabilidad excluida (exculpación supralegal, art. 34 inc. 2 CP análogo). A: instigador del mismo homicidio, típico y antijurídico, con culpabilidad excluida por estado de necesidad disculpante (art. 34 inc. 2 CP). La variante (B no se retracta) no altera ninguna conclusión.",
+      "advertencia_pautas": "Contrasta a Roxin con Welzel en un punto puntual (culpabilidad del carcelero); usar solo como modelo de estructura y razonamiento (la pauta vigente exige una sola línea, sin comparar autores)."
+    }
+  ]
+}
