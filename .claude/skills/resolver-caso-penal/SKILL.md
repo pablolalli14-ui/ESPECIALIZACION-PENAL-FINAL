@@ -47,12 +47,37 @@ sus propios hechos). Buscá también `casos/<slug>/resoluciones/_modelos.json`.
 
 ## Paso 3 — Elegir UNA línea de autor y traer su doctrina
 
-Elegí un autor y cargá su síntesis en `doctrina/<autor>/<archivo>_synthesis.json`
-(primera fuente, barata en tokens). Usá su bloque `estructura_delito` y
-`posturas_debates` para fundamentar cada estamento del análisis, y citá la obra en
-nota al pie. Si necesitás contrastar rápido posturas para **elegir** el autor (no para
-el trabajo), consultá `doctrina/_COMPARATIVA_teoria_del_delito.json` — pero recordá:
-la comparativa es para vos, NO va al trabajo (que exige una sola línea).
+No hay una regla rígida; hay un **criterio de recomendación** en
+`doctrina/_CRITERIO_SELECCION_AUTOR.json`, construido combinando (a) qué autor tiene
+la exposición más distintiva de cada estamento de la teoría del delito (según
+`doctrina/_COMPARATIVA_teoria_del_delito.json`) y (b) evidencia empírica: qué autor
+usaron los trabajos-modelo aprobados del banco para casos con institutos similares.
+
+1. Tomá los `institutos_dogmaticos` del caso. Buscá primero coincidencia directa en
+   `institutos_especificos` del criterio (son recomendaciones puntuales con más
+   evidencia); si no hay, mapeá cada instituto a su etapa general en `por_etapa`
+   (acción, tipicidad objetiva, imputación objetiva, tipo subjetivo/dolo, error de
+   tipo, antijuridicidad, culpabilidad, error de prohibición, tentativa, autoría y
+   participación).
+2. Si varios institutos del caso apuntan al mismo autor, ese es el recomendado. Si
+   hay dispersión, priorizá el que tenga `evidencia_empirica` (un modelo aprobado real)
+   por sobre el que solo tiene justificación teórica.
+3. **Mostrale la recomendación al usuario con su justificación antes de redactar**
+   (p. ej. "para este caso recomiendo Wessels porque el instituto central es legítima
+   defensa y es la línea que usaron los modelos aprobados para ese instituto; ¿lo
+   confirmás o preferís otro autor?"). Nunca autoseleccionés en silencio: la elección
+   condiciona todo el trabajo.
+4. Una vez confirmado el autor, cargá su síntesis en
+   `doctrina/<autor>/<archivo>_synthesis.json` (primera fuente, barata en tokens). Usá
+   su bloque `estructura_delito` y `posturas_debates` para fundamentar cada estamento
+   del análisis, y citá la obra en nota al pie.
+5. Si el autor recomendado es Otto y todavía no tiene síntesis (ver
+   `doctrina/otto/_PENDIENTE.md`), avisá al usuario y ofrecé una alternativa
+   (`_CRITERIO_SELECCION_AUTOR.json` sugiere cuál) o esperar a que se genere la síntesis.
+
+Si necesitás contrastar posturas más allá del criterio ya armado, consultá
+`doctrina/_COMPARATIVA_teoria_del_delito.json` — pero recordá: la comparativa y el
+criterio son para vos, NO van al trabajo (que exige una sola línea, sin comparar).
 
 Si falta la síntesis del autor: generala con el pipeline (ver CLAUDE.md, Fase doctrina).
 

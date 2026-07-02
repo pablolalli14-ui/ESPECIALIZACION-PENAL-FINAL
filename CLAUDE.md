@@ -94,6 +94,13 @@ participación), `posturas_debates`, `glosario` y `capitulos`.
 etapa de la teoría del delito — **material de referencia rápida para estudiar y para
 elegir la línea**; NO se copia al trabajo (que exige una sola línea).
 
+`doctrina/_CRITERIO_SELECCION_AUTOR.json` recomienda, por etapa de la teoría del
+delito y por instituto específico, qué autor conviene usar como línea única —
+combina la comparativa teórica con evidencia empírica (qué autor usaron los
+modelos aprobados para institutos similares). Es un default razonado, no una regla
+rígida: el skill lo consulta y **siempre se lo muestra al usuario para confirmar**
+antes de redactar.
+
 ## Skill de resolución (`.claude/skills/resolver-caso-penal/`)
 
 De un enunciado produce un borrador del trabajo final respetando `pautas/`: elige UNA

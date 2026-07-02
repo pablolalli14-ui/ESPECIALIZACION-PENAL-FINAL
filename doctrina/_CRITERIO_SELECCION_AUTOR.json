@@ -1,0 +1,79 @@
+{
+  "generado": "2026-07-02",
+  "proposito": "Recomendación (no obligatoria) de qué autor conviene usar como línea única según el/los institutos dogmáticos centrales del caso. Combina (a) qué autor tiene la exposición más distintiva/citable de ese estamento según doctrina/_COMPARATIVA_teoria_del_delito.json, y (b) evidencia empírica: qué autor usaron los trabajos-modelo aprobados del banco para casos con institutos similares. Es un default razonado, no una regla rígida: el usuario puede pedir otro autor y el asistente debe respetarlo.",
+  "como_usar": "1) Tomar institutos_dogmaticos del caso. 2) Mapear cada instituto a su 'etapa' en estructura_delito (tabla de abajo) o buscar coincidencia directa en 'institutos_especificos'. 3) Si varios institutos del caso apuntan al mismo autor, ese es el recomendado. 4) Si hay empate o dispersión, preferir el autor con evidencia_empirica sobre el de solo justificación teórica. 5) Siempre mostrar al usuario la recomendación y el porqué antes de redactar; dejar que confirme o elija otro.",
+  "por_etapa": {
+    "accion": {
+      "autor_recomendado": "roxin",
+      "justificacion": "Concepto personal de acción (manifestación de la personalidad) es el más citado como marco general; punto de partida habitual antes de entrar en el problema específico del caso.",
+      "evidencia_empirica": []
+    },
+    "tipicidad_objetiva": {
+      "autor_recomendado": "roxin",
+      "justificacion": "Formulación clásica de imputación objetiva (riesgo no permitido + realización del riesgo + fin de protección de la norma), la más citada y clara para explicar el nexo entre conducta y resultado.",
+      "evidencia_empirica": ["caso-04 (Roxin, 5 citas)", "caso-05 (Roxin + Frister)", "caso-06 (Roxin, 10 citas)"]
+    },
+    "imputacion_objetiva": {
+      "autor_recomendado": "roxin",
+      "justificacion": "Mismo criterio que tipicidad objetiva: Roxin es la referencia estándar para desviación del curso causal, riesgo permitido y fin de protección de la norma.",
+      "evidencia_empirica": ["caso-04", "caso-05", "caso-06", "caso-12 (imputación objetiva secundaria, con Otto como línea principal por la tentativa)"]
+    },
+    "tipicidad_subjetiva_dolo": {
+      "autor_recomendado": "frister",
+      "justificacion": "Posición distintiva y bien perfilada para dolo eventual vs. imprudencia consciente (representación sin exigir elemento volitivo adicional); útil cuando el caso discute el límite entre dolo eventual y culpa consciente.",
+      "evidencia_empirica": ["caso-05 (Frister, 4 citas)"]
+    },
+    "error_de_tipo": {
+      "autor_recomendado": "frister",
+      "justificacion": "Trata con detalle aberratio ictus y error in persona según similitud del bien jurídico afectado, lo que da una regla operativa clara para aplicar al caso.",
+      "evidencia_empirica": []
+    },
+    "antijuridicidad": {
+      "autor_recomendado": "wessels",
+      "justificacion": "Expone las causas de justificación como normas permisivas autónomas con estructura muy operativa (situación justificante + elemento subjetivo); es la línea mejor evidenciada para legítima defensa y sus variantes (exceso, antijuridicidad putativa).",
+      "evidencia_empirica": ["caso-08 (Wessels, 6 y 5 citas en dos modelos distintos)"]
+    },
+    "culpabilidad": {
+      "autor_recomendado": "hilgendorf",
+      "justificacion": "Tratamiento clásico de reprochabilidad personal (imputabilidad + comprensión + capacidad de conducirse conforme a ella) con esquema didáctico claro, útil para imputabilidad y emoción violenta. Alternativa: Frister si el caso amerita una lectura más normativizada de la culpabilidad (auto-determinación social).",
+      "evidencia_empirica": []
+    },
+    "error_de_prohibicion": {
+      "autor_recomendado": "hilgendorf",
+      "justificacion": "Es el único de los 5 autores disponibles que desarrolla en detalle las cuatro teorías sobre error en los presupuestos fácticos de una justificante (clave en legítima defensa putativa).",
+      "evidencia_empirica": []
+    },
+    "tentativa": {
+      "autor_recomendado": "roxin",
+      "justificacion": "Teoría del 'peligro próximo' para el comienzo de ejecución es un criterio autónomo y citable; buen default para tentativa acabada/inacabada y desistimiento.",
+      "evidencia_empirica": []
+    },
+    "autoria_participacion": {
+      "autor_recomendado": "jakobs",
+      "justificacion": "La 'prohibición de regreso' es su aporte distintivo para limitar la participación de quien facilita a un tercero autorresponsable; recomendado cuando el instituto central es intervención de terceros o aportes neutrales.",
+      "evidencia_empirica": []
+    }
+  },
+  "institutos_especificos": {
+    "tentativa supersticiosa / irreal": {
+      "autor_recomendado": "otto",
+      "justificacion": "El modelo aprobado del banco para este instituto exacto usó a Otto de forma dominante. Autor aún PENDIENTE de síntesis (ver doctrina/otto/_PENDIENTE.md); mientras tanto, usar el propio trabajo-modelo (casos/caso-12/resoluciones/sofia-woszezenczuk.txt) como referencia de razonamiento y, si no se puede esperar a la síntesis de Otto, avisar al usuario y ofrecer Roxin o Frister como alternativa sobre imputación objetiva/dominabilidad del acontecer.",
+      "evidencia_empirica": ["caso-12 (Otto, 6 citas)"]
+    },
+    "legítima defensa de terceros (art. 34 inc. 7 cp)": {
+      "autor_recomendado": "frister",
+      "justificacion": "El modelo aprobado para este instituto exacto usó a Frister de forma dominante (estructura cerrada de causas de justificación que incluye legítima defensa de terceros).",
+      "evidencia_empirica": ["caso-ld-terceros (Frister, 7 citas)"]
+    },
+    "dolo eventual vs. culpa consciente": {
+      "autor_recomendado": "frister",
+      "justificacion": "Rechaza el elemento volitivo adicional y da un criterio de deslinde más nítido entre dolo eventual e imprudencia consciente que las fórmulas cognitivo-volitivas tradicionales.",
+      "evidencia_empirica": []
+    },
+    "aportes neutrales / prohibición de regreso": {
+      "autor_recomendado": "jakobs",
+      "justificacion": "Concepto originado y desarrollado específicamente por Jakobs.",
+      "evidencia_empirica": []
+    }
+  }
+}
