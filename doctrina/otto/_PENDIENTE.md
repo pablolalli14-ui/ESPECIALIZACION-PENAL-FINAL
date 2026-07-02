@@ -1,16 +1,22 @@
-# Otto — pendiente de extracción
+# Otto — resuelto (extracción vía conversión a Google Docs)
 
-El libro **Harro Otto — Derecho Penal** (PDF ~62 MB en Drive) no pudo extraerse con el
-MCP de Google Drive: por su tamaño, `read_file_content` devuelve contenido vacío en
-sucesivos intentos (los otros 5 libros, de 17–32 MB, sí se extrajeron).
+El PDF original (~62 MB) no se pudo extraer ni descargar con las herramientas de Drive
+por su tamaño (límite de 10 MB para descarga directa, y `read_file_content` devolvía
+contenido vacío sobre el PDF binario).
 
-Para completarlo, hacer una de estas opciones y luego correr el pipeline normal:
+**Solución aplicada:** en Google Drive, clic derecho sobre el PDF → *Abrir con* →
+*Documentos de Google*. Esto dispara la conversión y OCR del lado de Google (el libro
+es un escaneo), generando un Google Doc nativo sin límite de tamaño de descarga para
+nuestras herramientas. Se leyó ese documento con `read_file_content` y se guardó como
+`harro-otto-derecho-penal.txt`.
 
-1. **Descargar el PDF a mano** y colocarlo en esta carpeta como `harro-otto-derecho-penal.pdf`;
-   luego `python3 scripts/extract_pdf.py "doctrina/otto/harro-otto-derecho-penal.pdf"`
-   (o `ocr_pdf.py --lang spa` si es un escaneo). Después, chunk + síntesis map-reduce.
-2. **Subir a Drive una versión más liviana** (comprimida o por tomos) y reintentar
-   `read_file_content`.
+**Calidad del texto resultante:** el OCR tiene ruido considerable (columnas mezcladas,
+palabras cortadas, notas al pie intercaladas, números de página sueltos). La síntesis
+(`harro-otto-derecho-penal_synthesis.json`) se hizo igual, reconstruyendo el sentido
+general por estamento; los estamentos de tentativa y autoría/participación quedaron
+sin síntesis confiable por el estado del texto en esas secciones. Si en el futuro se
+consigue una copia de mejor calidad (texto nativo, no escaneado), conviene reprocesar
+todo el libro con el pipeline estándar (`extract_pdf.py` + `chunk_txt.py` + síntesis).
 
-Mientras tanto, Otto queda fuera de la síntesis y de la comparativa (se lo marca como
-`disponible: false`).
+Este mismo método (Abrir con Documentos de Google) es el camino recomendado para
+cualquier libro grande futuro que falle por tamaño en `read_file_content`/`download_file_content`.

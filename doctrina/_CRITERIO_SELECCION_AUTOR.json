@@ -57,7 +57,7 @@
   "institutos_especificos": {
     "tentativa supersticiosa / irreal": {
       "autor_recomendado": "otto",
-      "justificacion": "El modelo aprobado del banco para este instituto exacto usó a Otto de forma dominante. Autor aún PENDIENTE de síntesis (ver doctrina/otto/_PENDIENTE.md); mientras tanto, usar el propio trabajo-modelo (casos/caso-12/resoluciones/sofia-woszezenczuk.txt) como referencia de razonamiento y, si no se puede esperar a la síntesis de Otto, avisar al usuario y ofrecer Roxin o Frister como alternativa sobre imputación objetiva/dominabilidad del acontecer.",
+      "justificacion": "El modelo aprobado del banco para este instituto exacto usó a Otto de forma dominante, y ahora hay síntesis disponible (doctrina/otto/harro-otto-derecho-penal_synthesis.json). Ojo: esa síntesis se hizo sobre un OCR con ruido considerable y no cubre bien tentativa/autoría-participación; para el instituto de imputación objetiva/adecuación social que sustenta la tentativa supersticiosa sí hay contenido confiable. Usar también el trabajo-modelo (casos/caso-12/resoluciones/sofia-woszezenczuk.txt) como referencia de razonamiento.",
       "evidencia_empirica": ["caso-12 (Otto, 6 citas)"]
     },
     "legítima defensa de terceros (art. 34 inc. 7 cp)": {

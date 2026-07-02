@@ -5,6 +5,9 @@
 !doctrina/GUIA_AUTORES_INSTITUTOS.pdf
 !doctrina/_auxiliar/*.pdf
 
+# Chunks intermedios regenerables (síntesis map-reduce)
+doctrina/**/_chunks/
+
 # OCR language data
 tessdata/
 

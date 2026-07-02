@@ -1,6 +1,6 @@
 # Guía de autores e institutos de la teoría del delito
 
-*Especialización en Derecho Penal (UBA) — material de estudio y de apoyo para elegir la línea doctrinal del Trabajo Final. Resume las síntesis de 5 de 6 autores procesados. NO reemplaza la lectura de los libros ni se copia tal cual al trabajo, que exige una sola línea doctrinal sin comparar autores.*
+*Especialización en Derecho Penal (UBA) — material de estudio y de apoyo para elegir la línea doctrinal del Trabajo Final. Resume las síntesis de 6 de 6 autores procesados. NO reemplaza la lectura de los libros ni se copia tal cual al trabajo, que exige una sola línea doctrinal sin comparar autores.*
 
 ## Parte 1 — Perfil de cada autor
 
@@ -14,9 +14,15 @@
 
 Manual sistemático que expone la Parte General del Derecho Penal alemán de forma ilustrativa y coherente, resolviendo problemas similares sin contradicciones valorativas. Eje central: la teoría general del delito bajo el principio de culpabilidad entendido como postulado normativo de auto-determinación. Abarca fundamentos (pena, culpabilidad, legalidad), estructura del delito (acción, tipicidad, antijuridicidad, culpabilidad), formas especiales (omisión, tentativa, autoría y participación) y consecuencias jurídicas.
 
-### Otto — pendiente
+### Harro Otto
 
-Síntesis todavía no disponible (ver `doctrina/otto/_PENDIENTE.md`).
+**Obra:** *Derecho Penal. Parte General* (Traducción de la 7.ª edición alemana ("Grundkurs Strafrecht, Allgemeine Strafrechtslehre", 7. neu bearbeitete Auflage), Marcial Pons / editorial catalana (traductores del ámbito de la UPF))
+
+**Línea teórica:** Dogmática penal alemana clásica de posguerra con fuerte anclaje en la función protectora de bienes jurídicos y en el principio de legalidad; incorpora la discusión sobre la teoría personal del injusto (Welzel) reconociendo elementos subjetivos en el tipo, sin abandonar el análisis objetivo de la imputación. Postura moderada entre el objetivismo clásico y el finalismo, con desarrollo propio y detallado de imputación objetiva, dolo eventual, aberratio ictus y adecuación social.
+
+**Tesis central:** El Derecho Penal protege bienes jurídicos fundamentales de la comunidad mediante normas que operan a la vez como normas de conducta y de valoración. La imputación de un resultado a un sujeto exige, más allá de la causalidad fáctica, un juicio normativo de responsabilidad: que el riesgo generado por el autor se haya realizado efectivamente en el resultado, sin que medien conductas autónomas de terceros o de la propia víctima que interrumpan esa cadena. La culpabilidad se funda en la libertad de decisión del sujeto, presupuesto necesario para poder exigirle responsabilidad, aun reconociendo que dicha libertad no es verificable empíricamente sino una premisa normativa legítima del sistema penal.
+
+Manual sistemático de Parte General del Derecho Penal alemán ('Grundkurs Strafrecht'). Recorre desde los fundamentos (fin de la pena, principio de legalidad, interpretación de la ley penal) hasta la estructura completa del delito: acción, tipicidad objetiva y subjetiva, imputación objetiva, causas de justificación, culpabilidad, error, formas de aparición del delito (tentativa, omisión) y autoría/participación. Tiene un desarrollo particularmente extenso y casuístico de la imputación objetiva (relaciones causales, interrupción del nexo por conducta de terceros o de la víctima, adecuación social) y de la teoría del dolo (dolo eventual, dolo alternativo, dolus generalis, aberratio ictus).
 
 ### Roxin (Claus Roxin)
 
@@ -65,82 +71,90 @@ Para cada estamento de la teoría del delito, la postura resumida de cada autor 
 ### Acción
 
 - **Helmut Frister:** Movimiento corporal conducible por la voluntad, causante de un resultado u omisión con deber de garante; base de la tipicidad.
+- **Harro Otto:** Comportamiento dirigible por la voluntad; a diferencia de los demás, no exige una teoría de la acción previa y autónoma al tipo — resuelve si hay acción dentro del propio análisis de tipicidad.
 - **Claus Roxin:** Manifestación de la personalidad/voluntad del autor que incide en el mundo exterior (concepto personal de acción).
 - **Günther Jakobs:** Comportamiento evitable con contenido expresivo normativo; importa el rol del sujeto, no datos psicofísicos.
 - **Wessels / Beulke / Satzger:** Comportamiento humano dirigido por la voluntad, con perspectiva final (conocimiento + intención integrados).
 - **Hilgendorf y Valerius:** Conducta humana voluntaria, comisiva u omisiva; rechaza teorías puramente causales o psicológicas.
 
-> **En síntesis:** Todos exigen un sustrato de voluntad humana y excluyen fuerza física irresistible, reflejos e inconsciencia. La divergencia es de énfasis: Frister y Roxin la vinculan a la 'manifestación de la personalidad'; Wessels adopta explícitamente la teoría final; Jakobs es el más heterodoxo, normativizando la acción como 'evitabilidad' ligada al rol social.
+> **En síntesis:** Todos exigen un sustrato de voluntad humana y excluyen fuerza física irresistible, reflejos e inconsciencia. La divergencia es de énfasis: Frister y Roxin la vinculan a la 'manifestación de la personalidad'; Wessels adopta explícitamente la teoría final; Jakobs es el más heterodoxo, normativizando la acción como 'evitabilidad' ligada al rol social. Otto se suma a la posición pragmática: evita fundar la tipicidad en una teoría de la acción previa y la resuelve directamente en el análisis del tipo.
 
 ### Tipicidad objetiva
 
 - **Helmut Frister:** Conducta típica + resultado típico + elementos objetivos (descriptivos o normativos); su ausencia excluye la tipicidad subjetiva.
+- **Harro Otto:** Distingue tres niveles de tipo (tipo de la ley, tipo de injusto, tipo garantía) y exige, además de la causalidad (teoría de la condición corregida por la adecuación), el paso ulterior de la imputación objetiva.
 - **Claus Roxin:** Descripción típica analizada centralmente a través de la imputación objetiva, no de la mera causalidad.
 - **Günther Jakobs:** Realización de un tipo objetivo entendido como violación de una norma de conducta con contenido expresivo prohibido.
 - **Wessels / Beulke / Satzger:** Concordancia del comportamiento con los elementos objetivos del tipo (sujeto, objeto, circunstancias, resultado, nexo causal).
 - **Hilgendorf y Valerius:** Subsunción bajo los elementos del tipo con causalidad regida por la teoría de la condición (equivalencia de condiciones).
 
-> **En síntesis:** Coinciden en exigir causalidad como piso mínimo, pero todos la consideran insuficiente y remiten a imputación objetiva para completar el juicio de tipicidad.
+> **En síntesis:** Coinciden en exigir causalidad como piso mínimo, pero todos la consideran insuficiente y remiten a imputación objetiva para completar el juicio de tipicidad. Otto aporta una tripartición propia del concepto de tipo (ley/injusto/garantía) que no tiene equivalente exacto en los demás autores.
 
 ### Imputación objetiva
 
 - **Helmut Frister:** Riesgo jurídicamente reprobado, no permitido, que se realiza en el resultado dentro del fin de protección de la norma; terceros o la víctima pueden interrumpir la imputación.
+- **Harro Otto:** Desarrollo extenso y casuístico: el riesgo creado debe realizarse en el resultado; la cadena se interrumpe por intervención autónoma de terceros o autopuesta en peligro de la víctima. Introduce la adecuación social como límite de la tipicidad misma, no como causa de justificación.
 - **Claus Roxin:** Formulación clásica: creación de riesgo no permitido + realización del riesgo + resultado dentro del ámbito de protección del tipo.
 - **Günther Jakobs:** Roles y competencia del garante, riesgo no permitido, realización del riesgo y 'prohibición de regreso' (no se imputa a quien facilita a un tercero competente).
 - **Wessels / Beulke / Satzger:** Riesgo desaprobado realizado en el resultado; se excluye por curso causal atípico, autolesión, tercero autorresponsable, riesgo permitido o disminución de riesgo.
 - **Hilgendorf y Valerius:** Vincula resultado y acción mediante relación de riesgo y ámbito de protección de la norma; no todo resultado causal es imputable.
 
-> **En síntesis:** Es el punto de mayor convergencia entre los cinco autores disponibles: todos usan el esquema riesgo-no-permitido + realización-del-riesgo. Jakobs se distingue por anclarlo en 'roles' y 'prohibición de regreso' en vez de en el fin de protección de la norma.
+> **En síntesis:** Es el punto de mayor convergencia entre los cinco autores disponibles: todos usan el esquema riesgo-no-permitido + realización-del-riesgo. Jakobs se distingue por anclarlo en 'roles' y 'prohibición de regreso' en vez de en el fin de protección de la norma. Otto converge con el esquema riesgo-no-permitido + realización-del-riesgo, y aporta el desarrollo más casuístico de interrupción del nexo por terceros o víctima, además de la adecuación social como límite autónomo de tipicidad.
 
 ### Tipo subjetivo · Dolo
 
 - **Helmut Frister:** Dolo como representación consciente de realización del tipo; rechaza elemento volitivo adicional (basta la representación, no el 'querer').
+- **Harro Otto:** Exige consciencia actual (no abstracta) de las circunstancias típicas; distingue dolo directo de 1º y 2º grado, dolo eventual (reconocimiento del peligro concreto sin renunciar al plan) y dolo alternativo; rechaza la fórmula de 'aprobación del resultado' para el dolo eventual.
 - **Claus Roxin:** Conocimiento y voluntad de realizar los elementos del tipo; distingue dolo de resultado y de acción, exige claridad en la representación.
 - **Günther Jakobs:** Dolo como conocimiento (Wissen) de que se infringe la norma; abarca consecuencias principales y secundarias.
 - **Wessels / Beulke / Satzger:** Dolo con elemento cognitivo y volitivo (conocimiento + voluntad); distingue dolo directo, indirecto y eventual.
 - **Hilgendorf y Valerius:** Conocimiento y voluntad de los elementos del tipo objetivo; dolo directo de 1º y 2º grado y dolo eventual.
 
-> **En síntesis:** Frister y Jakobs se apartan de la fórmula tradicional 'conocimiento + voluntad': Frister prescinde del elemento volitivo y basta la representación; Jakobs lo reduce a puro conocimiento normativizado. Roxin, Wessels e Hilgendorf mantienen la estructura bipartita clásica cognitivo-volitiva.
+> **En síntesis:** Frister y Jakobs se apartan de la fórmula tradicional 'conocimiento + voluntad': Frister prescinde del elemento volitivo y basta la representación; Jakobs lo reduce a puro conocimiento normativizado. Roxin, Wessels e Hilgendorf mantienen la estructura bipartita clásica cognitivo-volitiva. Otto se ubica cerca de la estructura cognitivo-volitiva clásica (como Wessels e Hilgendorf), pero con un tratamiento singularmente extenso del dolo eventual y el dolo alternativo.
 
 ### Error de tipo
 
 - **Helmut Frister:** Excluye el dolo; si es evitable subsiste imprudencia. Trata aberratio ictus/error in persona según similitud del bien jurídico afectado.
+- **Harro Otto:** Las desviaciones del curso causal (aberratio ictus) previsibles según la experiencia general no excluyen el dolo; basta que el peligro puesto en marcha se realice sobre el bien jurídico querido, sin exigir prever cada detalle concreto.
 - **Claus Roxin:** Elimina o reduce el dolo según sea esencial o no; distingue error fáctico de error sobre elementos normativos; rechaza que el error de subsunción sea error de tipo.
 - **Günther Jakobs:** Excluye dolo o imprudencia según recaiga sobre el tipo o sobre riesgos cognoscibles; enfatiza la ruptura de la relación de sentido norma-comportamiento.
 - **Wessels / Beulke / Satzger:** Excluye dolo; distingue error sobre el objeto, error in persona vel obiecto, aberratio ictus y error sobre el curso causal.
 - **Hilgendorf y Valerius:** Excluye dolo y, por regla, la imprudencia; trata especialmente error in persona vel obiecto y aberratio ictus.
 
-> **En síntesis:** Todos coinciden en el efecto básico (excluye dolo, deja abierta la imprudencia si es evitable). Las variantes de aberratio ictus/error in persona reciben tratamiento específico en cada autor, con matices sobre cuándo el bien jurídico afectado se considera 'equivalente' — relevante para casos de desviación del curso causal como el Caso V o el Caso IV del banco.
+> **En síntesis:** Todos coinciden en el efecto básico (excluye dolo, deja abierta la imprudencia si es evitable). Las variantes de aberratio ictus/error in persona reciben tratamiento específico en cada autor, con matices sobre cuándo el bien jurídico afectado se considera 'equivalente' — relevante para casos de desviación del curso causal como el Caso V o el Caso IV del banco. Otto es, junto con Frister, el que más detalla el tratamiento de la aberratio ictus, aunque con un criterio propio centrado en la previsibilidad según la experiencia general de la vida.
 
 ### Antijuridicidad
 
 - **Helmut Frister:** Juicio de valor divisible: tipo permisivo objetivo + subjetivo; sistema cerrado de causas de justificación (consentimiento, legítima defensa, estado de necesidad, cumplimiento de deber).
+- **Harro Otto:** Rechaza la teoría de los elementos negativos del tipo; estructura las justificantes con elementos objetivos y subjetivos, y traza la evolución del objetivismo estricto hacia la teoría personal del injusto de Welzel.
 - **Claus Roxin:** Antijuridicidad material fundada en la violación de bienes jurídicos constitucionalmente protegidos; las justificantes se explican por ponderación constitucional.
 - **Günther Jakobs:** El comportamiento típico infringe el ordenamiento en su totalidad; las justificantes excluyen la antijuridicidad porque no hay violación de la norma dentro de los límites del rol.
 - **Wessels / Beulke / Satzger:** Las causas de justificación son normas permisivas autónomas que excluyen la antijuridicidad aunque subsista la tipicidad.
 - **Hilgendorf y Valerius:** Ausencia de causa de justificación (legítima defensa, estado de necesidad, consentimiento, autorización legal); admite consentimiento presunto e hipotético.
 
-> **En síntesis:** Coinciden en el catálogo básico de justificantes (legítima defensa, estado de necesidad, consentimiento). Roxin es el más distintivo al fundar la antijuridicidad material en la Constitución; Jakobs la reconduce a la vigencia de la norma dentro del rol.
+> **En síntesis:** Coinciden en el catálogo básico de justificantes (legítima defensa, estado de necesidad, consentimiento). Roxin es el más distintivo al fundar la antijuridicidad material en la Constitución; Jakobs la reconduce a la vigencia de la norma dentro del rol. Otto aporta la perspectiva histórica más explícita sobre el tránsito del objetivismo estricto a la teoría personal del injusto de Welzel.
 
 ### Culpabilidad
 
 - **Helmut Frister:** Auto-determinación como construcción normativa y social (no psicológica): imputabilidad + consciencia de ilicitud + exigibilidad.
+- **Harro Otto:** Fundada en la libertad de decisión como presupuesto normativo (no verificable empíricamente pero necesario para el sistema); reconoce una dimensión social de la culpabilidad cuando la sociedad impidió el desarrollo adecuado de la personalidad del sujeto.
 - **Claus Roxin:** Responsabilidad = culpabilidad + necesidad preventiva de pena; permite excluir pena aun habiendo culpabilidad si no hay necesidad preventiva.
 - **Günther Jakobs:** Concepto funcional: capacidad normativa de responder por la infracción del rol, fundada en prevención general positiva, no en libre albedrío.
 - **Wessels / Beulke / Satzger:** Reprochabilidad personal del sujeto imputable y consciente del injusto; se gradúa según la libertad de voluntad del autor.
 - **Hilgendorf y Valerius:** Reproche por actitud de ánimo censurable; exige capacidad de comprensión y de conducirse conforme a ella (principio de coincidencia con el hecho).
 
-> **En síntesis:** Es la etapa de mayor divergencia teórica. Frister y Jakobs normativizan la culpabilidad (auto-determinación social / prevención general), apartándose del libre albedrío clásico. Roxin añade un segundo filtro (necesidad preventiva de pena) ausente en los demás. Wessels e Hilgendorf se mantienen más cerca de la reprochabilidad personal clásica.
+> **En síntesis:** Es la etapa de mayor divergencia teórica. Frister y Jakobs normativizan la culpabilidad (auto-determinación social / prevención general), apartándose del libre albedrío clásico. Roxin añade un segundo filtro (necesidad preventiva de pena) ausente en los demás. Wessels e Hilgendorf se mantienen más cerca de la reprochabilidad personal clásica. Otto se distancia tanto del normativismo de Frister/Jakobs como del clasicismo de Wessels/Hilgendorf: parte de una libertad de decisión asumida como presupuesto normativo legítimo, no verificable empíricamente, con una dimensión social adicional del reproche.
 
 ### Error de prohibición
 
 - **Helmut Frister:** Inevitable excluye culpabilidad; evitable la atenúa (§17 StGB); criterio de capacidad de información técnica del sujeto.
+- **Harro Otto:** Basta una 'co-consciencia' del carácter dañoso de la conducta, sin exigir reflexión activa en el momento del hecho; ubica la consciencia del injusto en la culpabilidad, no en el dolo.
 - **Claus Roxin:** Divide error de mandato (omisión) y error genérico; exige que el error sea normativo, no sobre motivación subjetiva.
 - **Günther Jakobs:** Se valora según la exigibilidad del conocimiento del autor respecto de sus deberes normativos, no según factores psicológicos.
 - **Wessels / Beulke / Satzger:** Evitable reduce culpabilidad (permite condena por imprudencia si existe esa figura); inevitable la excluye.
 - **Hilgendorf y Valerius:** Vencible reduce la pena; invencible la excluye. Discute las cuatro teorías sobre error en los presupuestos de la justificación (teoría limitada de la culpabilidad como dominante).
 
-> **En síntesis:** Coincidencia total en el efecto binario evitable/inevitable. Hilgendorf es el único que detalla el debate específico sobre error en los presupuestos fácticos de una causa de justificación (relevante para legítima defensa putativa, como el Caso X).
+> **En síntesis:** Coincidencia total en el efecto binario evitable/inevitable. Hilgendorf es el único que detalla el debate específico sobre error en los presupuestos fácticos de una causa de justificación (relevante para legítima defensa putativa, como el Caso X). Otto coincide con la ubicación sistemática mayoritaria (consciencia del injusto en la culpabilidad, no en el dolo) y aporta el matiz de la 'co-consciencia' como estándar más bajo que una reflexión activa.
 
 ### Tentativa
 
@@ -178,6 +192,16 @@ Términos clave de las síntesis, agrupados por autor de origen (puede haber sol
 - *Garante:* Sujeto que por vínculo jurídico específico tiene obligación de impedir un resultado determinado. Categorías: garantes de control (dominio de cosa/fuente peligro) y garantes de protección (vínculos familiares, función pública).
 - *Causalidad alternativa:* Hipótesis donde múltiples condiciones causan el mismo resultado, sin certeza de cuál fue determinante. Requisito: cada una de las condiciones debe ser condicio sine qua non del resultado.
 - *Aberratio ictus:* Desviación del golpe: quien pretende dañar a persona A y por error daña a persona B. Es imputable si ambos son bien jurídico similar; si bien distinto, no hay consumación del dolo.
+
+**Harro Otto**
+
+- *Bien jurídico:* Relación valorativa abstracta que un sujeto mantiene con un objeto de tutela, distinta del objeto de agresión material concreto. Concepto crítico que obliga al legislador a justificar racionalmente por qué protege penalmente determinados valores (línea de Birnbaum).
+- *Adecuación social:* Criterio que excluye del tipo penal, ya en el juicio de tipicidad, conductas socialmente habituales y de riesgo mínimo (no es causa de justificación autónoma).
+- *Tipo de la ley / tipo de injusto / tipo garantía:* Tres niveles distintos de 'tipo' en la sistemática de Otto: la mera descripción legal de la conducta (tipo de la ley), su valoración como contraria al ordenamiento (tipo de injusto), y los elementos que legitiman constitucionalmente la pena (tipo garantía).
+- *Dolo alternativo:* Forma de dolo en que el autor contempla la posible lesión de varios objetos de tutela, siendo consciente de poner en peligro a todos ellos aunque sabe que el resultado dañoso solo se realizará en uno.
+- *Co-consciencia del injusto:* Forma de consciencia de la antijuridicidad que no requiere reflexión activa en el momento del hecho, bastando que la percepción de fondo del carácter dañoso de la conducta tenga efectos reales sobre ella.
+- *Interrupción de la imputación objetiva:* Ruptura de la cadena de atribución de un resultado al autor inicial, cuando un tercero interviene autónomamente dominando el acontecer posterior, o cuando la víctima se autoexpone al riesgo con pleno conocimiento y bajo su propia responsabilidad.
+- *Teoría de la adecuación (causalidad):* Corrección de la teoría de la equivalencia de condiciones que limita la relevancia causal a los factores que resultan relevantes según el tipo penal y la experiencia general, evitando el regreso infinito de condiciones.
 
 **Roxin (Claus Roxin)**
 

@@ -35,7 +35,13 @@ python3 scripts/ocr_pdf.py "<archivo>.pdf" --lang spa --dpi 300
 > Los libros de doctrina se aportaron por Google Drive. Como son PDFs muy grandes
 > (17–62 MB), su texto se obtuvo con el MCP de Drive (`read_file_content`, que hace la
 > extracción del lado del servidor y guarda el resultado en un archivo) y se copió al
-> `.txt` de cada autor. No hace falta el PDF binario en el repo.
+> `.txt` de cada autor. No hace falta el PDF binario en el repo. Si `read_file_content`
+> devuelve vacío o falla por tamaño (pasó con Otto, 62 MB): en Drive, clic derecho
+> sobre el PDF → *Abrir con* → *Documentos de Google* (convierte y hace OCR del lado
+> de Google si es un escaneo); luego leer ese Google Doc con `read_file_content`, que
+> no tiene el límite de tamaño del PDF binario. El texto resultante puede tener ruido
+> de OCR (columnas mezcladas, palabras cortadas) — avisar en la síntesis si la calidad
+> es desigual por estamento.
 
 Para sintetizar un `.txt` largo: trocearlo con `python3 scripts/chunk_txt.py "<archivo>.txt"`
 y ejecutar un pase map-reduce (subagentes Haiku por chunk → pase final que escribe
@@ -120,13 +126,21 @@ un mapa mnemotécnico de la teoría del delito referido a los artículos del Có
 Penal argentino (art. 34 y ss.), útil como checklist estructural independiente de
 la línea doctrinal elegida.
 
-**Estado de fuentes pendientes:** Otto (62 MB) y Rafecas — *Derecho penal sobre
-bases constitucionales* (37–41 MB, escaneado sin capa de texto) no pudieron
-extraerse vía Drive por tamaño; ver `doctrina/otto/_PENDIENTE.md`. Rafecas se
-usa como bibliografía secundaria en varios trabajos-modelo del banco, pero su
-enfoque constitucional no puede ser la línea única del trabajo final (la pauta
-prohíbe discusión constitucional) — solo serviría como referencia complementaria,
-no como una 7ª línea de autor.
+**Estado de fuentes:** los 6 autores de línea están sintetizados. Otto (62 MB, PDF
+no descargable por tamaño) se resolvió convirtiendo el PDF a Google Doc desde Drive
+("Abrir con → Documentos de Google", que dispara OCR del lado de Google) y leyendo
+el documento resultante — método recomendado para cualquier libro grande futuro que
+falle por tamaño. Su síntesis tiene calidad desigual por ruido de OCR (ver
+`doctrina/otto/_PENDIENTE.md`): sólida en acción, tipicidad, imputación objetiva,
+dolo, error de tipo, antijuridicidad, culpabilidad y error de prohibición; sin
+síntesis confiable en tentativa y autoría/participación.
+
+Rafecas — *Derecho penal sobre bases constitucionales* (37–41 MB, escaneado sin
+capa de texto real, ni siquiera vía Google Docs) sigue sin extraerse. Se usa como
+bibliografía secundaria en varios trabajos-modelo del banco, pero su enfoque
+constitucional no puede ser la línea única del trabajo final (la pauta prohíbe
+discusión constitucional) — solo serviría como referencia complementaria, no como
+una 7ª línea de autor.
 
 ## Skill de resolución (`.claude/skills/resolver-caso-penal/`)
 
