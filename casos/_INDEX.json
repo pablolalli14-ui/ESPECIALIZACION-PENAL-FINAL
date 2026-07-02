@@ -1,6 +1,6 @@
 {
  "generated": "2026-07-02",
- "n_casos": 14,
+ "n_casos": 15,
  "n_con_modelo": 7,
  "casos": [
   {
@@ -19,6 +19,23 @@
    "articulos_indicados": [],
    "resoluciones": [],
    "path": "casos/caso-01/caso.json"
+  },
+  {
+   "id": "caso-02",
+   "numero": "II",
+   "titulo": "Disparo al oso con pulso inseguro y muerte del amigo atacado",
+   "institutos_dogmaticos": [
+    "dolo eventual vs. culpa consciente",
+    "riesgo permitido en situación de auxilio/salvamento",
+    "estado de necesidad justificante (art. 34 inc. 3 CP)",
+    "imputación objetiva",
+    "creación de un riesgo no permitido",
+    "consentimiento presunto / asunción del riesgo por la víctima"
+   ],
+   "tiene_modelo": false,
+   "articulos_indicados": [],
+   "resoluciones": [],
+   "path": "casos/caso-02/caso.json"
   },
   {
    "id": "caso-04",
@@ -306,6 +323,9 @@
   "comisión por omisión / posición de garante (por injerencia)": [
    "caso-2021-8"
   ],
+  "consentimiento presunto / asunción del riesgo por la víctima": [
+   "caso-02"
+  ],
   "consumación anticipada / retrasada": [
    "caso-07"
   ],
@@ -316,7 +336,8 @@
    "caso-12"
   ],
   "creación de un riesgo no permitido": [
-   "caso-01"
+   "caso-01",
+   "caso-02"
   ],
   "culpabilidad": [
    "caso-09"
@@ -352,6 +373,7 @@
    "caso-ld-terceros"
   ],
   "dolo eventual vs. culpa consciente": [
+   "caso-02",
    "caso-bgh-cinturon"
   ],
   "dolus generalis": [
@@ -383,6 +405,9 @@
   "error sobre un presupuesto fáctico": [
    "caso-09"
   ],
+  "estado de necesidad justificante (art. 34 inc. 3 cp)": [
+   "caso-02"
+  ],
   "eutanasia pasiva / omisión y suspensión de tratamiento (dr. dorn)": [
    "caso-2021-1"
   ],
@@ -407,6 +432,7 @@
   ],
   "imputación objetiva": [
    "caso-01",
+   "caso-02",
    "caso-05",
    "caso-06",
    "caso-07",
@@ -465,6 +491,9 @@
   ],
   "riesgo permitido": [
    "caso-01"
+  ],
+  "riesgo permitido en situación de auxilio/salvamento": [
+   "caso-02"
   ],
   "robo con resultado muerte": [
    "caso-bgh-cinturon"

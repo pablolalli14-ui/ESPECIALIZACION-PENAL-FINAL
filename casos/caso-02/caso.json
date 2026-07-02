@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-02",
+    "numero": "II",
+    "titulo": "Disparo al oso con pulso inseguro y muerte del amigo atacado",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": false
+  },
+  "enunciado": "A y B van de paseo por el bosque. De pronto un oso se abalanza sobre B, que, con un cuchillo trata de defender. Ante esta situación A, que conoce lo inseguro de su pulso, al no poder salvar de otro modo a su amigo, acometido por la fiera, dispara sobre el animal, hiriendo de muerte a B.",
+  "sujetos": [
+    { "nombre": "A", "rol": "activo", "notas": "Dispara contra el oso para salvar a B; conocía de antemano que tenía el pulso inseguro." },
+    { "nombre": "B", "rol": "pasivo", "notas": "Amigo de A, atacado por el oso; muere alcanzado por el disparo de A, no por el animal." }
+  ],
+  "institutos_dogmaticos": [
+    "dolo eventual vs. culpa consciente",
+    "riesgo permitido en situación de auxilio/salvamento",
+    "estado de necesidad justificante (art. 34 inc. 3 CP)",
+    "imputación objetiva",
+    "creación de un riesgo no permitido",
+    "consentimiento presunto / asunción del riesgo por la víctima"
+  ],
+  "problema_central": "A conocía de antemano el riesgo concreto de que, por su pulso inseguro, el disparo dirigido al oso pudiera alcanzar a B, y decidió disparar de todos modos porque era el único medio para intentar salvarlo. El núcleo del caso es si esa decisión, tomada con representación del riesgo, se resuelve como dolo eventual de homicidio (según el criterio cognitivo: basta con que A se haya representado el peligro concreto y haya actuado de todas formas) o como un riesgo permitido/imprudencia dentro de una situación de auxilio necesario, en la que A no buscaba el resultado sino evitar un mal mayor (la muerte segura de B a manos del oso). Se suma la pregunta de si la situación encuadra en un estado de necesidad justificante (art. 34 inc. 3 CP) pese a que el bien sacrificado terminó siendo el mismo que se quería salvar, y si el consentimiento presunto de B (frente a la alternativa cierta de morir despedazado) incide en la valoración.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "Estructuralmente emparentado con el caso BGH del cinturón de cuero (casos/caso-bgh-cinturon): en ambos, el autor decide actuar pese a conocer un riesgo concreto para la vida de otro, aunque acá el fin buscado era de salvamento, no delictivo. También roza el instituto de riesgo permitido en el auxilio a terceros (situación de necesidad), distinto del riesgo permitido por actividades cotidianas."
+}
