@@ -1,0 +1,134 @@
+{
+  "generated": "2026-07-02",
+  "nota": "Material de referencia rápida para estudiar y para ELEGIR la línea de un autor. NO se copia al trabajo final: la pauta exige una sola línea doctrinal, sin comparar autores.",
+  "autores": {
+    "frister": { "nombre": "Helmut Frister", "linea": "Funcional-normativo, próximo a Roxin en imputación objetiva; culpabilidad como auto-determinación normativa (no psicológica)", "disponible": true },
+    "otto": { "nombre": "Harro Otto", "linea": "Pendiente de síntesis (PDF de 62 MB no extraíble por el momento; ver doctrina/otto/_PENDIENTE.md)", "disponible": false },
+    "roxin": { "nombre": "Claus Roxin", "linea": "Funcionalismo teleológico-racional orientado a la política criminal", "disponible": true },
+    "jakobs": { "nombre": "Günther Jakobs", "linea": "Funcionalismo normativista sistémico (renormativización, prevención general positiva)", "disponible": true },
+    "wessels": { "nombre": "Wessels / Beulke / Satzger", "linea": "Teoría final de la acción con estructura bipartita (tipo de injusto + culpabilidad)", "disponible": true },
+    "hilgendorf": { "nombre": "Hilgendorf y Valerius", "linea": "Sistemático-racional de cuño alemán, enfoque didáctico, recepción moderada de Roxin", "disponible": true }
+  },
+  "etapas": [
+    {
+      "etapa": "accion",
+      "autores": {
+        "frister": "Movimiento corporal conducible por la voluntad, causante de un resultado u omisión con deber de garante; base de la tipicidad.",
+        "otto": null,
+        "roxin": "Manifestación de la personalidad/voluntad del autor que incide en el mundo exterior (concepto personal de acción).",
+        "jakobs": "Comportamiento evitable con contenido expresivo normativo; importa el rol del sujeto, no datos psicofísicos.",
+        "wessels": "Comportamiento humano dirigido por la voluntad, con perspectiva final (conocimiento + intención integrados).",
+        "hilgendorf": "Conducta humana voluntaria, comisiva u omisiva; rechaza teorías puramente causales o psicológicas."
+      },
+      "sintesis_contraste": "Todos exigen un sustrato de voluntad humana y excluyen fuerza física irresistible, reflejos e inconsciencia. La divergencia es de énfasis: Frister y Roxin la vinculan a la 'manifestación de la personalidad'; Wessels adopta explícitamente la teoría final; Jakobs es el más heterodoxo, normativizando la acción como 'evitabilidad' ligada al rol social."
+    },
+    {
+      "etapa": "tipicidad_objetiva",
+      "autores": {
+        "frister": "Conducta típica + resultado típico + elementos objetivos (descriptivos o normativos); su ausencia excluye la tipicidad subjetiva.",
+        "otto": null,
+        "roxin": "Descripción típica analizada centralmente a través de la imputación objetiva, no de la mera causalidad.",
+        "jakobs": "Realización de un tipo objetivo entendido como violación de una norma de conducta con contenido expresivo prohibido.",
+        "wessels": "Concordancia del comportamiento con los elementos objetivos del tipo (sujeto, objeto, circunstancias, resultado, nexo causal).",
+        "hilgendorf": "Subsunción bajo los elementos del tipo con causalidad regida por la teoría de la condición (equivalencia de condiciones)."
+      },
+      "sintesis_contraste": "Coinciden en exigir causalidad como piso mínimo, pero todos la consideran insuficiente y remiten a imputación objetiva para completar el juicio de tipicidad."
+    },
+    {
+      "etapa": "imputacion_objetiva",
+      "autores": {
+        "frister": "Riesgo jurídicamente reprobado, no permitido, que se realiza en el resultado dentro del fin de protección de la norma; terceros o la víctima pueden interrumpir la imputación.",
+        "otto": null,
+        "roxin": "Formulación clásica: creación de riesgo no permitido + realización del riesgo + resultado dentro del ámbito de protección del tipo.",
+        "jakobs": "Roles y competencia del garante, riesgo no permitido, realización del riesgo y 'prohibición de regreso' (no se imputa a quien facilita a un tercero competente).",
+        "wessels": "Riesgo desaprobado realizado en el resultado; se excluye por curso causal atípico, autolesión, tercero autorresponsable, riesgo permitido o disminución de riesgo.",
+        "hilgendorf": "Vincula resultado y acción mediante relación de riesgo y ámbito de protección de la norma; no todo resultado causal es imputable."
+      },
+      "sintesis_contraste": "Es el punto de mayor convergencia entre los cinco autores disponibles: todos usan el esquema riesgo-no-permitido + realización-del-riesgo. Jakobs se distingue por anclarlo en 'roles' y 'prohibición de regreso' en vez de en el fin de protección de la norma."
+    },
+    {
+      "etapa": "tipicidad_subjetiva_dolo",
+      "autores": {
+        "frister": "Dolo como representación consciente de realización del tipo; rechaza elemento volitivo adicional (basta la representación, no el 'querer').",
+        "otto": null,
+        "roxin": "Conocimiento y voluntad de realizar los elementos del tipo; distingue dolo de resultado y de acción, exige claridad en la representación.",
+        "jakobs": "Dolo como conocimiento (Wissen) de que se infringe la norma; abarca consecuencias principales y secundarias.",
+        "wessels": "Dolo con elemento cognitivo y volitivo (conocimiento + voluntad); distingue dolo directo, indirecto y eventual.",
+        "hilgendorf": "Conocimiento y voluntad de los elementos del tipo objetivo; dolo directo de 1º y 2º grado y dolo eventual."
+      },
+      "sintesis_contraste": "Frister y Jakobs se apartan de la fórmula tradicional 'conocimiento + voluntad': Frister prescinde del elemento volitivo y basta la representación; Jakobs lo reduce a puro conocimiento normativizado. Roxin, Wessels e Hilgendorf mantienen la estructura bipartita clásica cognitivo-volitiva."
+    },
+    {
+      "etapa": "error_de_tipo",
+      "autores": {
+        "frister": "Excluye el dolo; si es evitable subsiste imprudencia. Trata aberratio ictus/error in persona según similitud del bien jurídico afectado.",
+        "otto": null,
+        "roxin": "Elimina o reduce el dolo según sea esencial o no; distingue error fáctico de error sobre elementos normativos; rechaza que el error de subsunción sea error de tipo.",
+        "jakobs": "Excluye dolo o imprudencia según recaiga sobre el tipo o sobre riesgos cognoscibles; enfatiza la ruptura de la relación de sentido norma-comportamiento.",
+        "wessels": "Excluye dolo; distingue error sobre el objeto, error in persona vel obiecto, aberratio ictus y error sobre el curso causal.",
+        "hilgendorf": "Excluye dolo y, por regla, la imprudencia; trata especialmente error in persona vel obiecto y aberratio ictus."
+      },
+      "sintesis_contraste": "Todos coinciden en el efecto básico (excluye dolo, deja abierta la imprudencia si es evitable). Las variantes de aberratio ictus/error in persona reciben tratamiento específico en cada autor, con matices sobre cuándo el bien jurídico afectado se considera 'equivalente' — relevante para casos de desviación del curso causal como el Caso V o el Caso IV del banco."
+    },
+    {
+      "etapa": "antijuridicidad",
+      "autores": {
+        "frister": "Juicio de valor divisible: tipo permisivo objetivo + subjetivo; sistema cerrado de causas de justificación (consentimiento, legítima defensa, estado de necesidad, cumplimiento de deber).",
+        "otto": null,
+        "roxin": "Antijuridicidad material fundada en la violación de bienes jurídicos constitucionalmente protegidos; las justificantes se explican por ponderación constitucional.",
+        "jakobs": "El comportamiento típico infringe el ordenamiento en su totalidad; las justificantes excluyen la antijuridicidad porque no hay violación de la norma dentro de los límites del rol.",
+        "wessels": "Las causas de justificación son normas permisivas autónomas que excluyen la antijuridicidad aunque subsista la tipicidad.",
+        "hilgendorf": "Ausencia de causa de justificación (legítima defensa, estado de necesidad, consentimiento, autorización legal); admite consentimiento presunto e hipotético."
+      },
+      "sintesis_contraste": "Coinciden en el catálogo básico de justificantes (legítima defensa, estado de necesidad, consentimiento). Roxin es el más distintivo al fundar la antijuridicidad material en la Constitución; Jakobs la reconduce a la vigencia de la norma dentro del rol."
+    },
+    {
+      "etapa": "culpabilidad",
+      "autores": {
+        "frister": "Auto-determinación como construcción normativa y social (no psicológica): imputabilidad + consciencia de ilicitud + exigibilidad.",
+        "otto": null,
+        "roxin": "Responsabilidad = culpabilidad + necesidad preventiva de pena; permite excluir pena aun habiendo culpabilidad si no hay necesidad preventiva.",
+        "jakobs": "Concepto funcional: capacidad normativa de responder por la infracción del rol, fundada en prevención general positiva, no en libre albedrío.",
+        "wessels": "Reprochabilidad personal del sujeto imputable y consciente del injusto; se gradúa según la libertad de voluntad del autor.",
+        "hilgendorf": "Reproche por actitud de ánimo censurable; exige capacidad de comprensión y de conducirse conforme a ella (principio de coincidencia con el hecho)."
+      },
+      "sintesis_contraste": "Es la etapa de mayor divergencia teórica. Frister y Jakobs normativizan la culpabilidad (auto-determinación social / prevención general), apartándose del libre albedrío clásico. Roxin añade un segundo filtro (necesidad preventiva de pena) ausente en los demás. Wessels e Hilgendorf se mantienen más cerca de la reprochabilidad personal clásica."
+    },
+    {
+      "etapa": "error_de_prohibicion",
+      "autores": {
+        "frister": "Inevitable excluye culpabilidad; evitable la atenúa (§17 StGB); criterio de capacidad de información técnica del sujeto.",
+        "otto": null,
+        "roxin": "Divide error de mandato (omisión) y error genérico; exige que el error sea normativo, no sobre motivación subjetiva.",
+        "jakobs": "Se valora según la exigibilidad del conocimiento del autor respecto de sus deberes normativos, no según factores psicológicos.",
+        "wessels": "Evitable reduce culpabilidad (permite condena por imprudencia si existe esa figura); inevitable la excluye.",
+        "hilgendorf": "Vencible reduce la pena; invencible la excluye. Discute las cuatro teorías sobre error en los presupuestos de la justificación (teoría limitada de la culpabilidad como dominante)."
+      },
+      "sintesis_contraste": "Coincidencia total en el efecto binario evitable/inevitable. Hilgendorf es el único que detalla el debate específico sobre error en los presupuestos fácticos de una causa de justificación (relevante para legítima defensa putativa, como el Caso X)."
+    },
+    {
+      "etapa": "tentativa",
+      "autores": {
+        "frister": "Punible desde el comienzo de ejecución (decisión + inmediatez); tentativa inidónea punible si el autor cree en la idoneidad del medio.",
+        "otto": null,
+        "roxin": "Teoría del peligro próximo: comienzo cuando la acción crea un peligro inmediato y concreto para el bien jurídico; critica la teoría de actos parciales.",
+        "jakobs": "Infracción normativa próxima al tipo consumado: requiere resolución, dolo e idoneidad de los actos; demuestra desconocimiento de la vigencia de la norma.",
+        "wessels": "Ejecución inacabada con decisión consumada y disposición inmediata; punible cuando la ley lo prevé, salvo desistimiento voluntario.",
+        "hilgendorf": "Decisión al hecho + puesta en ejecución inmediata + no consumación; desistimiento voluntario excluye pena según sea tentativa acabada o inacabada."
+      },
+      "sintesis_contraste": "Convergen en el esquema decisión + comienzo de ejecución + falta de consumación. Roxin aporta el criterio autónomo de 'peligro próximo'; los demás son más descriptivos del §22/23 StGB."
+    },
+    {
+      "etapa": "autoria_participacion",
+      "autores": {
+        "frister": "Dominio del hecho para la autoría (directa, coautoría por plan común, mediata por coacción o error); complicidad e instigación como participación.",
+        "otto": null,
+        "roxin": "Dominio del hecho como concepto central, incluyendo dominio de la organización (aparatos de poder) como forma de autoría mediata.",
+        "jakobs": "Dominio del hecho o incumbencia de un deber especial (delitos de infracción de deber); prohibición de regreso limita la participación.",
+        "wessels": "Teoría del dominio del hecho: autor directo, coautor, autor mediato; participación accesoria pero flexibilizada.",
+        "hilgendorf": "Teoría del dominio del hecho como dominante; participación con accesoriedad limitada (punible aunque el autor sea imputable)."
+      },
+      "sintesis_contraste": "Consenso amplio en la teoría del dominio del hecho como criterio de autoría. Roxin se distingue por extenderla a los aparatos organizados de poder; Jakobs introduce una vía alternativa para delitos de infracción de deber."
+    }
+  ]
+}

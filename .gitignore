@@ -1,5 +1,7 @@
-# PDFs fuente no se sincronizan (solo derivados: .txt + JSON + render)
+# PDFs fuente no se sincronizan (solo derivados: .txt + JSON + .md/.pdf render)
 *.pdf
+!*_synthesis.pdf
+!doctrina/_COMPARATIVA_teoria_del_delito.pdf
 
 # OCR language data
 tessdata/
