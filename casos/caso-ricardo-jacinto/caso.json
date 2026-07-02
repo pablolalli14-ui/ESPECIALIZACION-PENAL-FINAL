@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "id": "caso-ricardo-jacinto",
+    "numero": "s/n",
+    "titulo": "Empujón al agua con mentira sobre saber nadar y muerte por golpe en un poste",
+    "fuente": "UBA — Especialización en Derecho Penal",
+    "articulos_indicados": [],
+    "consigna": "",
+    "tiene_modelo": false
+  },
+  "enunciado": "Ricardo empuja a Jacinto, -quien le había dicho a Ricardo que no sabía nadar, cosa que no era cierta sino un experto en ello- con el propósito que muera ahogado. En la caída Jacinto golpea su cabeza con un poste, antes de caer al agua y se desmaya, razón por la cual muere ahogado.",
+  "sujetos": [
+    { "nombre": "Ricardo", "rol": "activo", "notas": "Empuja a Jacinto al agua con la intención directa de que muera ahogado, creyendo (por dicho falso de la propia víctima) que Jacinto no sabía nadar." },
+    { "nombre": "Jacinto", "rol": "pasivo", "notas": "En realidad es experto nadador; le había mentido a Ricardo. Al caer golpea la cabeza contra un poste, queda inconsciente y muere ahogado por esa inconsciencia, no por incapacidad real de nadar." }
+  ],
+  "institutos_dogmaticos": [
+    "dolo directo",
+    "desviación del curso causal (no esencial / irrelevante)",
+    "imputación objetiva",
+    "realización del riesgo en el resultado",
+    "error sobre el curso causal",
+    "homicidio doloso consumado (art. 79 CP)"
+  ],
+  "problema_central": "Ricardo actuó con dolo directo de matar a Jacinto por ahogamiento, partiendo de la falsa creencia (inducida por el propio Jacinto) de que este no sabía nadar. Sin embargo, la muerte no se produjo por esa incapacidad (inexistente), sino porque un golpe fortuito de la cabeza contra un poste lo dejó inconsciente antes de caer al agua. El problema central es si esta divergencia entre el curso causal representado (ahogamiento por incapacidad de nadar) y el curso causal real (ahogamiento por inconsciencia debida a un golpe) constituye una desviación esencial que excluye el dolo (dejando solo tentativa) o una desviación no esencial/irrelevante que permite igualmente imputar homicidio doloso consumado, en tanto el resultado querido -la muerte por ahogamiento de Jacinto- se produjo dentro del riesgo típico creado por el propio empujón al agua.",
+  "lineas_solucion": {
+    "frister": { "resumen": "", "resultado": "" },
+    "otto": { "resumen": "", "resultado": "" },
+    "roxin": { "resumen": "", "resultado": "" },
+    "jakobs": { "resumen": "", "resultado": "" },
+    "wessels": { "resumen": "", "resultado": "" },
+    "hilgendorf": { "resumen": "", "resultado": "" }
+  },
+  "modelos_disponibles": [],
+  "notas": "Numeración de caso no visible en la captura recibida (WhatsApp); se guarda como 's/n' hasta confirmar el número real. Es un excelente contraste con el Caso V (desviación esencial del curso causal, excluye el dolo consumado) porque acá la desviación es mucho más contenida: el riesgo de golpearse y ahogarse al ser empujado violentamente cerca del agua es parte del mismo riesgo típico creado por el empujón, a diferencia del disparo que espanta caballos a distancia."
+}

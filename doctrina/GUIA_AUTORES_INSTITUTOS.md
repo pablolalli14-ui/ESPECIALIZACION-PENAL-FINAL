@@ -436,3 +436,13 @@ Recomendación de autor por caso del banco, aplicando doctrina/_CRITERIO_SELECCI
 
 **Autor recomendado: Helmut Frister.** Su sistema cerrado de causas de justificación incluye expresamente la legítima defensa de terceros. Es además el autor que usó el trabajo aprobado real de este caso (7 citas).
 
+### Caso s/n — Empujón al agua con mentira sobre saber nadar y muerte por golpe en un poste
+
+> **Enunciado:**
+>
+> Ricardo empuja a Jacinto, -quien le había dicho a Ricardo que no sabía nadar, cosa que no era cierta sino un experto en ello- con el propósito que muera ahogado. En la caída Jacinto golpea su cabeza con un poste, antes de caer al agua y se desmaya, razón por la cual muere ahogado.
+
+**Problema dogmático:** Ricardo empuja a Jacinto para matarlo ahogado creyendo que no sabía nadar (mentira de la víctima); Jacinto muere ahogado, pero por quedar inconsciente tras golpearse la cabeza, no por incapacidad real de nadar. ¿Desviación esencial (excluye dolo, deja tentativa) o no esencial (mantiene homicidio doloso consumado)?
+
+**Autor recomendado: Claus Roxin.** Roxin es el autor con mejor trayectoria empírica en este banco para toda la familia de casos de desviación del curso causal (Casos IV, V y VI ya resueltos con su esquema), y tiene un desarrollo monográfico específico sobre 'desviación del curso causal y dolus generalis' citado en los propios modelos aprobados. Su fin de protección de la norma permite distinguir con precisión que acá el riesgo que se realizó (golpe + ahogamiento por inconsciencia) está dentro del mismo riesgo típico creado por el empujón violento cerca del agua, a diferencia de un curso causal exótico e imprevisible. Alternativa igual de sólida: Frister, que tiene una regla textual casi calcada de este supuesto ('desviaciones del curso causal no excluyen dolo si el resultado se produce en el bien jurídico abarcado por el dolo').
+

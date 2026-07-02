@@ -1,6 +1,6 @@
 {
  "generated": "2026-07-02",
- "n_casos": 15,
+ "n_casos": 16,
  "n_con_modelo": 7,
  "casos": [
   {
@@ -281,6 +281,23 @@
     "resoluciones/caggiano-caliri.txt"
    ],
    "path": "casos/caso-ld-terceros/caso.json"
+  },
+  {
+   "id": "caso-ricardo-jacinto",
+   "numero": "s/n",
+   "titulo": "Empujón al agua con mentira sobre saber nadar y muerte por golpe en un poste",
+   "institutos_dogmaticos": [
+    "dolo directo",
+    "desviación del curso causal (no esencial / irrelevante)",
+    "imputación objetiva",
+    "realización del riesgo en el resultado",
+    "error sobre el curso causal",
+    "homicidio doloso consumado (art. 79 CP)"
+   ],
+   "tiene_modelo": false,
+   "articulos_indicados": [],
+   "resoluciones": [],
+   "path": "casos/caso-ricardo-jacinto/caso.json"
   }
  ],
  "por_instituto": {
@@ -358,6 +375,9 @@
    "caso-07",
    "caso-2021-8"
   ],
+  "desviación del curso causal (no esencial / irrelevante)": [
+   "caso-ricardo-jacinto"
+  ],
   "desviación respecto del plan acordado": [
    "caso-bgh-cinturon"
   ],
@@ -365,6 +385,9 @@
    "caso-04",
    "caso-05",
    "caso-11"
+  ],
+  "dolo directo": [
+   "caso-ricardo-jacinto"
   ],
   "dolo directo vs. dolo eventual": [
    "caso-06"
@@ -396,6 +419,9 @@
   "error en el objeto / error in persona": [
    "caso-04"
   ],
+  "error sobre el curso causal": [
+   "caso-ricardo-jacinto"
+  ],
   "error sobre presupuestos de la justificación": [
    "caso-08"
   ],
@@ -424,6 +450,9 @@
   "homicidio agravado por el vínculo (art. 80 inc. 1 cp)": [
    "caso-09"
   ],
+  "homicidio doloso consumado (art. 79 cp)": [
+   "caso-ricardo-jacinto"
+  ],
   "imputabilidad / capacidad de culpabilidad (art. 34 inc. 1 cp)": [
    "caso-09"
   ],
@@ -437,7 +466,8 @@
    "caso-06",
    "caso-07",
    "caso-12",
-   "caso-2021-8"
+   "caso-2021-8",
+   "caso-ricardo-jacinto"
   ],
   "insuficiencia o alteración morbosa de las facultades": [
    "caso-09"
@@ -481,7 +511,8 @@
    "caso-06"
   ],
   "realización del riesgo en el resultado": [
-   "caso-2021-8"
+   "caso-2021-8",
+   "caso-ricardo-jacinto"
   ],
   "realización del riesgo no permitido en el resultado": [
    "caso-05"

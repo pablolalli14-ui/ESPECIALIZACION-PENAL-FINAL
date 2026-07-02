@@ -91,6 +91,12 @@
       "problema_dogmatico": "¿Está B justificado por defender a G de la agresión de A?",
       "autor": "frister",
       "justificacion": "Su sistema cerrado de causas de justificación incluye expresamente la legítima defensa de terceros. Es además el autor que usó el trabajo aprobado real de este caso (7 citas)."
+    },
+    {
+      "caso_id": "caso-ricardo-jacinto",
+      "problema_dogmatico": "Ricardo empuja a Jacinto para matarlo ahogado creyendo que no sabía nadar (mentira de la víctima); Jacinto muere ahogado, pero por quedar inconsciente tras golpearse la cabeza, no por incapacidad real de nadar. ¿Desviación esencial (excluye dolo, deja tentativa) o no esencial (mantiene homicidio doloso consumado)?",
+      "autor": "roxin",
+      "justificacion": "Roxin es el autor con mejor trayectoria empírica en este banco para toda la familia de casos de desviación del curso causal (Casos IV, V y VI ya resueltos con su esquema), y tiene un desarrollo monográfico específico sobre 'desviación del curso causal y dolus generalis' citado en los propios modelos aprobados. Su fin de protección de la norma permite distinguir con precisión que acá el riesgo que se realizó (golpe + ahogamiento por inconsciencia) está dentro del mismo riesgo típico creado por el empujón violento cerca del agua, a diferencia de un curso causal exótico e imprevisible. Alternativa igual de sólida: Frister, que tiene una regla textual casi calcada de este supuesto ('desviaciones del curso causal no excluyen dolo si el resultado se produce en el bien jurídico abarcado por el dolo')."
     }
   ]
 }
